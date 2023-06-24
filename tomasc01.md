@@ -1,0 +1,6781 @@
+
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/671ac3cbcb4f4e59afd353f9a845dc8a.png",23/06 03:30:pm • Summit Racing Equipment Nationals
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241829
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/fa06180e06b50e49889d184f14b2a3c3.png",23/06 04:00:pm • La Luz Vs Danubio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241830
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/378d6da91ff0f94baeae802cd2ad291d.png",23/06 04:00:pm • Huracán Vs Newells Old Boys
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241831
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/914de6fe4652d83b044b8990f8793ec8.png",23/06 04:30:pm • Worcester Red Sox Vs Lehigh Valley Ironpigs
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241832
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/baab5cfd8585a082a1bda3ae8bfdc001.png",23/06 04:30:pm • Ally 400
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241833
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 04:40:pm • Kansas City Royals Vs Tampa Bay Rays
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241834
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 04:40:pm • Minnesota Twins Vs Detroit Tigers
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241835
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 04:40:pm • Atlanta Braves Vs Cincinnati Reds
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241836
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 04:40:pm • Pittsburgh Pirates Vs Miami Marlins
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241837
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/af9ff97d5506561a7764c7d5bfa3d3ea.png",23/06 05:00:pm • Universidad Católica Vs Santiago Wanderers
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241838
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:05:pm • Seattle Mariners Vs Baltimore Orioles
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241839
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:05:pm • New York Mets Vs Philadelphia Phillies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241840
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:05:pm • Texas Rangers Vs New York Yankees
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241841
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:05:pm • Texas Rangers Vs New York Yankees | Español
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241842
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:07:pm • Oakland Athletics Vs Toronto Blue Jays
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241843
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 05:10:pm • Milwaukee Brewers Vs Cleveland Guardians
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241844
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/2560fa16774702a41a1bf5d0a7e0de7a.png",23/06 05:30:pm • Hamilton Tiger-cats Vs Montreal Alouettes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241845
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/f2e1736a058220c21afb5dc95afa4b38.png",23/06 06:00:pm • Aucas Vs Orense
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241846
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/1ffc8235e0611df45982d7fe5a821fa1.png",23/06 06:00:pm • Rackley Roofing 200
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241847
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 06:10:pm • Boston Red Sox Vs Chicago White Sox
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241849
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/378d6da91ff0f94baeae802cd2ad291d.png",23/06 06:30:pm • Argentinos Juniors Vs Defensa Y Justicia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241850
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/cdcabfc4cb90bedcf6e88c93ac275c45.png",23/06 06:30:pm • Tennessee Lottery 250
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241851
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 06:40:pm • Los Angeles Angels Vs Colorado Rockies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241852
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/7044b8b30ffbdaeb21eb89a368af5f6a.png",23/06 07:00:pm • Llaneros Vs Patriotas Boyacá
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241853
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/225518efc74b4268a911a4f740174a1b.jpg",23/06 07:00:pm • Welterweights & Lightweights | Espn
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241854
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/225518efc74b4268a911a4f740174a1b.jpg",23/06 07:00:pm • Welterweights & Lightweights | Espn Deportes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241855
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/21687751b4fde6bedaa728b3d0e67c42.jpeg",23/06 07:00:pm • Superhole Iv Prelim 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241856
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/baab5cfd8585a082a1bda3ae8bfdc001.png",23/06 07:30:pm • Ally 400
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241857
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 07:40:pm • Washington Nationals Vs San Diego Padres
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241858
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/225518efc74b4268a911a4f740174a1b.jpg",23/06 08:00:pm • Palomino Vs. Lilley
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241859
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 08:10:pm • Houston Astros Vs Los Angeles Dodgers
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241860
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/72dd4d268ca7a7f53792bee98e66749b.png",23/06 08:15:pm • Arizona Diamondbacks Vs San Francisco Giants
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241861
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/f932137548a7a957c6723290531fc383.jpg",23/06 08:30:pm • Washington Spirit Vs Portland Thorns
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241862
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/61e4788b37cca21f62cd05a17ea7ac27.jpg",23/06 10:00:pm • Korea Open
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241863
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/61e4788b37cca21f62cd05a17ea7ac27.jpg",23/06 10:00:pm • Korea Open | Opción 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241864
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/12aaa61cd9cbeae4d5fd9cd939f43832.png","GAMES NBA"
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241865
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241866
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241867
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241868
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241869
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241870
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241871
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241872
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241873
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241874
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241875
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="https://e7.pngegg.com/pngimages/663/591/png-clipart-nba-logo-nba-logo-icons-logos-emojis-iconic-brands.png",NBA 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241876
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241877
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241878
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241879
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241880
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241881
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241882
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241883
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241884
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241885
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241886
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241887
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241888
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 13
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241889
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 14
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241890
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 15
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241891
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 16
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241892
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 17
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241893
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 18
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241894
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 19
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241895
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4abdde57eb71ec0f5744c48bee8fbd59.png",MLB 20
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241896
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 01
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241897
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 02
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241898
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 03
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241899
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 04
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241900
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 05
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241901
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 06
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241902
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 07
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241903
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 08
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241904
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 09
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241905
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241906
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241907
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241908
+#EXTINF:-1 group-title="EVENTOS DEL DIA",MLS League Pass 14
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241909
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/12aaa61cd9cbeae4d5fd9cd939f43832.png","PPV BOX"
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241910
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/23b1264e12e395fc40d6f5fea2e14503.png","GAMES NFL "
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241911
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4acb9a2bc0e2c246f2cc768edfdb46af.png",NFL GAME 01
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241912
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/4acb9a2bc0e2c246f2cc768edfdb46af.png",.NFL Network ♫
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241913
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/7c6dca7c34e1906ca04ab51b7d582fcd.png","GAMES MLB "
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241914
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/12aaa61cd9cbeae4d5fd9cd939f43832.png","DEPORTES 4K"
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241915
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/12aaa61cd9cbeae4d5fd9cd939f43832.png",ELEVEN SPORTS 1 4k
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241916
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/12aaa61cd9cbeae4d5fd9cd939f43832.png",SPORT TV 1 4K
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241917
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/c9a5e69938ed40c386f8c9b9ac46d54f.png",PPV - FUBO SPORTS NETWORK  6 HD (INGLES AUDIO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241918
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/c9a5e69938ed40c386f8c9b9ac46d54f.png",PPV - FUBO SPORTS NETWORK  5 HD (LATINO AUDIO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241919
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/c4d81f76c5f0f11c87868a87d1879646.png",PPV UFC PASS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241920
+#EXTINF:-1 group-title="EVENTOS DEL DIA" tvg-logo="http://miarea.vip:8080/images/58fe84869b092ad952139aadf941ed65.png","NHL GAMES"
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/241921
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png",ESPN USA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202864
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamO9ziD_4s4pI3cUUnF1r6ZzVEcgS8_TTm5cq1ZXs_I6wh3D1n4LYYAK3KUoTXjuGhSn-uhy4kR9vfJAaOldgG8.png",ESPN2 USA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202865
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGaqaiFZFzRZCWuM4z1YQ8rbVyug-aLMlnF10jm-RDrQTzi0QDZ3zScXnJqf4lPblAxyladsAnRMzIJvR3A8FhmYU.png",ESPN DEPORTES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202866
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGailJTg-X1ZXLbnwV3dAKBbiTmEjKkrpRS6xstCFSuuEfeWYgzrm4nCsXHXdN5amwVvId__QQxIfjlHzDnODRLLA.jpg",ESPN LATAM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202867
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGatUQ6bl6F6IWkgQ1FeywiQyZZikvZRpg5gxwLguxpMeTECehFQds7vOZaIKA9lU4DpKN3ebdd45mLtQk0wU2op4.png",ESPN 2 LATAM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202868
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/fSZpf8dUSqTScf6CltTcgECcfcPQ5NfPDO1rEdLY9i42kmtP6LlqsV0XU54aWuiBmNbZMKj5UaGopqpVz1wVoEFd4Rx8hrjX-GFqxj6csAQ.png",ESPN MX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202869
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQpN0zJbUOxEodt91KHXeKCowp49zWngXihxaEz0-Q2T_hfieQRvzkMpsST9L9WbAI.png",ESPN 2 MX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202870
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGatU_1-7zfUzVviQeZTovAIc39Jxy_Ladduj5RRftOknoV5aMv-oI2Z06YQD-gDdeArgCMv7XydN1GjIiSd3cRco.png",ESPN 3 LATAM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202871
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGauZg3SrQfIpCzU-O_2pZFJ6ey3JngJk3nGEmur29dXqALyH4wqmNgRjVAGBJ7tlfc3UkWkMlm9R9G3w337QJTrQ.png",ESPN U
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202872
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGakjTjOsfU_7am85KaO2Mzv6PYPlC_Zbep2BzycVBHFTGEi903gaX14jNnQjmeBxXY0fnkfwB0ODIIY3YVogoStU.jpg",ESPN NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202873
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="https://texassports.com/images/2013/7/29/longhorn-network-1000x540.jpg?width=1128&height=635&mode=crop",LONGHORN NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202874
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGakKELESkOGF6rh6jwyqOZvK56GUKHVEjbYGQih0mZqz1-ZY3a6s49ykR4P1aQ_SfqfMQvSMaPc3hA8NohKnm5c4.png",SEC NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202875
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGanX-vartd53xiRA7NOSHDPrqTc5bpxQdrKI_OFRsRAlArj58TVrR4Of-GuWOfveNLqwtIeqHFpT4yvXLA9QH3gY.jpg",ESPN SUR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202876
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGajaKb3JAffzJdNBg0RShF8gqPmWj2UrYTtSHHOO27yps0f0kjhS-MFWZRzFlCIAEcwcZM0ivLWjKE6XZK0Qx3eA.png",ESPN 2 ARGENTINA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202877
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGajcroSjP8fRHmVrmIQFgyO5UQgYL9nxaGYu1GDHWUjH-HenvUDQkXIod63r2SuXVpa2JDSNmTo8EGxeTUD1o6Zw.png",ESPN3 SUR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202878
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGar2FQ528v0vW3fEpjtklcO2I0F51U4CWa7a0_4xd2MMynmYgtMvgyfWDeqaYT2FaDyabYUS_bSWX5vXpd_kEZ6Y.png",ESPN SUR ANDINA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202879
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGatUQ6bl6F6IWkgQ1FeywiQyZZikvZRpg5gxwLguxpMeTECehFQds7vOZaIKA9lU4DpKN3ebdd45mLtQk0wU2op4.png",ESPN2 COLOMBIA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202880
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGatUQ6bl6F6IWkgQ1FeywiQyZZikvZRpg5gxwLguxpMeTECehFQds7vOZaIKA9lU4DpKN3ebdd45mLtQk0wU2op4.png",ESPN2 ANDINA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202881
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGatUQ6bl6F6IWkgQ1FeywiQyZZikvZRpg5gxwLguxpMeTECehFQds7vOZaIKA9lU4DpKN3ebdd45mLtQk0wU2op4.png",ESPN2 PERU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202882
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGaijU0MmEGptnpYy5cEWWaBevGuJglKDmR-RWZ9U_yeL-HFo5Cvz5-hWAabSGsQPftUKhSQxj05_lilMryj31DRo.jpg",ESPN2 BRAZIL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202883
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQFAIkEpCeVeLaohN4UvhHkPMB-BqY0uasheskYqSTkerBhIvXVMFqdA3QuqddAehdTzC1iqYqfYW_K_TonCmDQ.png",ESPN BRAZIL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202884
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGajmdFU_PXqmbunwE-UgCSb7rsGinKKP_NXAmDf1fSfFd7zfUWFl7YdFRv3a9Aew_pY9Zk_sBgxLaEejTg-DN41w.jpg",ESPN EXTRA BRAZIL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202885
+#EXTINF:-1 group-title="EVENTOS ESPN PLUS" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGaqqjHvlmrnNwQ_HTL0lBokh-CtjuFKXvdg_Nm1MiW9glpYdA4HA23-0klb1rwd81kehn0KgxtUIbxzSNdVNc0EY.jpg",ESPN CARIBBEAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/202886
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",*******START PLUS EVENTOS*******
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213785
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",*******POR FAVOR SEA PACIENTE*******
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213786
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",*******LOS JUEGOS SE ACTIVAN 15MIN ANTES *******
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213787
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213788
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 3 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213789
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213790
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 5 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213791
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 6 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213792
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 7 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213793
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 8 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213794
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 9 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213795
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 10 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213796
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 11 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213797
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 12 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213798
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 13 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213799
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 14 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213800
+#EXTINF:-1 group-title="EVENTOS STAR+" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGamIpRuIKXl8yL7M6WLK-Y5XFP5NTBTJ98TGGUoA_qbGEGWlDM7508ctgL31qqynPKLVpj1heLUNrYscRnDDfAvs.png",CANAL 15 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/213801
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="http://jumangis.com:2082/images/Aj7o37Tfuj3053fzdFWsJelKH8suBYJAQ0SNW6UfxUUykDX28a9X6CnIAQyYx2nIfVgIVibw--tmuNYZKbb4_An9AIe84jRqTPOj5Bd-f28.jpeg",DAZN F1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116434
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="http://jumangis.com:2082/images/Aj7o37Tfuj3053fzdFWsJelKH8suBYJAQ0SNW6UfxUUykDX28a9X6CnIAQyYx2nIfVgIVibw--tmuNYZKbb4_An9AIe84jRqTPOj5Bd-f28.jpeg",MOVISTAR FÓRMULA 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117164
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="http://jumangis.com:2082/images/Aj7o37Tfuj3053fzdFWsJelKH8suBYJAQ0SNW6UfxUUykDX28a9X6CnIAQyYx2nIfVgIVibw--tmuNYZKbb4_An9AIe84jRqTPOj5Bd-f28.jpeg",Dazn Formula 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117165
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="http://jumangis.com:2082/images/Aj7o37Tfuj3053fzdFWsJelKH8suBYJAQ0SNW6UfxUUykDX28a9X6CnIAQyYx2nIfVgIVibw--tmuNYZKbb4_An9AIe84jRqTPOj5Bd-f28.jpeg",DAZN F1 HD.
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117166
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="http://www.minardi.it/wp-content/uploads/2017/11/nuovo-logo-f1-formula1.jpeg",FORMULA 1 TV (SOLO EVENTOS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/159490
+#EXTINF:-1 group-title="FRANCIA",•●★-- Généraliste --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153117
+#EXTINF:-1 group-title="FRANCIA",FR: TF1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153118
+#EXTINF:-1 group-title="FRANCIA",FR: M6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153119
+#EXTINF:-1 group-title="FRANCIA",FR: France 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153120
+#EXTINF:-1 group-title="FRANCIA",FR: France 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153121
+#EXTINF:-1 group-title="FRANCIA",FR: France 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153122
+#EXTINF:-1 group-title="FRANCIA",FR: France 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153123
+#EXTINF:-1 group-title="FRANCIA",FR: Paris Premiere
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153124
+#EXTINF:-1 group-title="FRANCIA",FR: 6ter
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153125
+#EXTINF:-1 group-title="FRANCIA",FR: Arte
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153126
+#EXTINF:-1 group-title="FRANCIA",FR: NRJ 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153127
+#EXTINF:-1 group-title="FRANCIA",FR: TFX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153128
+#EXTINF:-1 group-title="FRANCIA",FR: KTO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153129
+#EXTINF:-1 group-title="FRANCIA",FR: TV Breizh
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153130
+#EXTINF:-1 group-title="FRANCIA",FR: Mirabelle TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153131
+#EXTINF:-1 group-title="FRANCIA",FR: NoTele
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153132
+#EXTINF:-1 group-title="FRANCIA",FR: TVPI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153133
+#EXTINF:-1 group-title="FRANCIA",FR: Francophonie 24
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153134
+#EXTINF:-1 group-title="FRANCIA",FR: Grand Lille TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153135
+#EXTINF:-1 group-title="FRANCIA",FR: Télé Grenoble
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153136
+#EXTINF:-1 group-title="FRANCIA",FR: Bip TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153137
+#EXTINF:-1 group-title="FRANCIA",FR: LMTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153138
+#EXTINF:-1 group-title="FRANCIA",FR: TL7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153139
+#EXTINF:-1 group-title="FRANCIA",FR: Tébéo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153140
+#EXTINF:-1 group-title="FRANCIA",FR: Télé Nantes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153141
+#EXTINF:-1 group-title="FRANCIA",FR: TV7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153142
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Cinema --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153143
+#EXTINF:-1 group-title="FRANCIA",FR: Canal+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153144
+#EXTINF:-1 group-title="FRANCIA",FR: Canal+ Cinema
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153145
+#EXTINF:-1 group-title="FRANCIA",FR: Canal+ Decale
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153146
+#EXTINF:-1 group-title="FRANCIA",FR: Canal+ Family
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153147
+#EXTINF:-1 group-title="FRANCIA",FR: Canal+ Series
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153148
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Premier
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153149
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Classic
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153150
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Emotion
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153151
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Famiz
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153152
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Frisson
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153153
+#EXTINF:-1 group-title="FRANCIA",FR: Cine+ Club
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153154
+#EXTINF:-1 group-title="FRANCIA",FR: Cine Polar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153155
+#EXTINF:-1 group-title="FRANCIA",FR: OCS Choc
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153156
+#EXTINF:-1 group-title="FRANCIA",FR: OCS City
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153157
+#EXTINF:-1 group-title="FRANCIA",FR: OCS Geant
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153158
+#EXTINF:-1 group-title="FRANCIA",FR: OCS Max
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153159
+#EXTINF:-1 group-title="FRANCIA",FR: TCM Cinema
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153160
+#EXTINF:-1 group-title="FRANCIA",FR: Paramount Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153161
+#EXTINF:-1 group-title="FRANCIA",FR: Polar+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153162
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Culture et Découverte --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153163
+#EXTINF:-1 group-title="FRANCIA",FR: NatGeo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153164
+#EXTINF:-1 group-title="FRANCIA",FR: NatGeo Wild
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153165
+#EXTINF:-1 group-title="FRANCIA",FR: Discovery
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153166
+#EXTINF:-1 group-title="FRANCIA",FR: Discovery Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153167
+#EXTINF:-1 group-title="FRANCIA",FR: Discovery Science
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153168
+#EXTINF:-1 group-title="FRANCIA",FR: Discovery Family
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153169
+#EXTINF:-1 group-title="FRANCIA",FR: Discovery Investigation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153170
+#EXTINF:-1 group-title="FRANCIA",FR: Planete+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153171
+#EXTINF:-1 group-title="FRANCIA",FR: Planete+ AE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153172
+#EXTINF:-1 group-title="FRANCIA",FR: Planete+ CI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153173
+#EXTINF:-1 group-title="FRANCIA",FR: Ushuaia TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153174
+#EXTINF:-1 group-title="FRANCIA",FR: Seasons
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153175
+#EXTINF:-1 group-title="FRANCIA",FR: Trek
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153176
+#EXTINF:-1 group-title="FRANCIA",FR: Histoire
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153177
+#EXTINF:-1 group-title="FRANCIA",FR: Toute l'histoire
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153178
+#EXTINF:-1 group-title="FRANCIA",FR: Science et Vie
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153179
+#EXTINF:-1 group-title="FRANCIA",FR: RMC Decouverte
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153180
+#EXTINF:-1 group-title="FRANCIA",FR: Animaux
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153181
+#EXTINF:-1 group-title="FRANCIA",FR: Chasse et Peche
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153182
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Séries et Divertissement --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153183
+#EXTINF:-1 group-title="FRANCIA",FR: 13ème RUE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153184
+#EXTINF:-1 group-title="FRANCIA",FR: C8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153185
+#EXTINF:-1 group-title="FRANCIA",FR: C-Star
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153186
+#EXTINF:-1 group-title="FRANCIA",FR: Warner TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153187
+#EXTINF:-1 group-title="FRANCIA",FR: Comedy Central
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153188
+#EXTINF:-1 group-title="FRANCIA",FR: Comedie+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153189
+#EXTINF:-1 group-title="FRANCIA",FR: My Comedy TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153190
+#EXTINF:-1 group-title="FRANCIA",FR: Serie Club
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153191
+#EXTINF:-1 group-title="FRANCIA",FR: W9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153192
+#EXTINF:-1 group-title="FRANCIA",FR: AB1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153193
+#EXTINF:-1 group-title="FRANCIA",FR: AB3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153194
+#EXTINF:-1 group-title="FRANCIA",FR: Cherie 25
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153195
+#EXTINF:-1 group-title="FRANCIA",FR: TF1 Series Films
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153196
+#EXTINF:-1 group-title="FRANCIA",FR: RTL9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153197
+#EXTINF:-1 group-title="FRANCIA",FR: Syfy Universal
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153198
+#EXTINF:-1 group-title="FRANCIA",FR: E! Entertainment
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153199
+#EXTINF:-1 group-title="FRANCIA",FR: Clique TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153200
+#EXTINF:-1 group-title="FRANCIA",FR: Teva
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153201
+#EXTINF:-1 group-title="FRANCIA",FR: TMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153202
+#EXTINF:-1 group-title="FRANCIA",FR: RMC Story
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153203
+#EXTINF:-1 group-title="FRANCIA",FR: Game One
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153204
+#EXTINF:-1 group-title="FRANCIA",FR: Action
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153205
+#EXTINF:-1 group-title="FRANCIA",FR: Bet
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153206
+#EXTINF:-1 group-title="FRANCIA",FR: J-One
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153207
+#EXTINF:-1 group-title="FRANCIA",FR: Trace Latina
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153208
+#EXTINF:-1 group-title="FRANCIA",FR: Altice Studio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153209
+#EXTINF:-1 group-title="FRANCIA",FR: My Cuisine
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153210
+#EXTINF:-1 group-title="FRANCIA",FR: M6 Boutique
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153211
+#EXTINF:-1 group-title="FRANCIA",FR: Novelas TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153212
+#EXTINF:-1 group-title="FRANCIA",FR: Crime District
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153213
+#EXTINF:-1 group-title="FRANCIA",FR: Provence Azur TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153214
+#EXTINF:-1 group-title="FRANCIA",FR: IDF 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153215
+#EXTINF:-1 group-title="FRANCIA",FR: Viàvosges TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153216
+#EXTINF:-1 group-title="FRANCIA",FR: MDL TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153217
+#EXTINF:-1 group-title="FRANCIA",FR: MOUV’ TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153218
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Information --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153219
+#EXTINF:-1 group-title="FRANCIA",FR: CNEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153220
+#EXTINF:-1 group-title="FRANCIA",FR: BFM TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153221
+#EXTINF:-1 group-title="FRANCIA",FR: BFM Business
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153222
+#EXTINF:-1 group-title="FRANCIA",FR: BFM Paris
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153223
+#EXTINF:-1 group-title="FRANCIA",FR: BFM Lyon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153224
+#EXTINF:-1 group-title="FRANCIA",FR: LCP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153225
+#EXTINF:-1 group-title="FRANCIA",FR: Euronews
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153226
+#EXTINF:-1 group-title="FRANCIA",FR: Monaco Info
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153227
+#EXTINF:-1 group-title="FRANCIA",FR: France 24
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153228
+#EXTINF:-1 group-title="FRANCIA",FR: RT France
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153229
+#EXTINF:-1 group-title="FRANCIA",FR: France Info
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153230
+#EXTINF:-1 group-title="FRANCIA",FR: I24 News
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153231
+#EXTINF:-1 group-title="FRANCIA",FR: CGTN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153232
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Enfants --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153233
+#EXTINF:-1 group-title="FRANCIA",FR: Piwi+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153234
+#EXTINF:-1 group-title="FRANCIA",FR: Teletoon+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153235
+#EXTINF:-1 group-title="FRANCIA",FR: Cartoon Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153236
+#EXTINF:-1 group-title="FRANCIA",FR: Boomerang
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153237
+#EXTINF:-1 group-title="FRANCIA",FR: Nickelodeon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153238
+#EXTINF:-1 group-title="FRANCIA",FR: Nickelodeon +1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153239
+#EXTINF:-1 group-title="FRANCIA",FR: Nickelodeon Junior
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153240
+#EXTINF:-1 group-title="FRANCIA",FR: Nickelodeon 4teen
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153241
+#EXTINF:-1 group-title="FRANCIA",FR: Gulli
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153242
+#EXTINF:-1 group-title="FRANCIA",FR: Mangas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153243
+#EXTINF:-1 group-title="FRANCIA",FR: Disney Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153244
+#EXTINF:-1 group-title="FRANCIA",FR: Disney Channel +1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153245
+#EXTINF:-1 group-title="FRANCIA",FR: Canal J
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153246
+#EXTINF:-1 group-title="FRANCIA",FR: Toonami
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153247
+#EXTINF:-1 group-title="FRANCIA",FR: TIJI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153248
+#EXTINF:-1 group-title="FRANCIA",FR: Boing
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153249
+#EXTINF:-1 group-title="FRANCIA",•●★-- FR Musique --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153250
+#EXTINF:-1 group-title="FRANCIA",FR: MTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153251
+#EXTINF:-1 group-title="FRANCIA",FR: MTV France
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153252
+#EXTINF:-1 group-title="FRANCIA",FR: MCM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153253
+#EXTINF:-1 group-title="FRANCIA",FR: MCM Top
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153254
+#EXTINF:-1 group-title="FRANCIA",FR: One TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153255
+#EXTINF:-1 group-title="FRANCIA",FR: Djazz TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153256
+#EXTINF:-1 group-title="FRANCIA",FR: Brava
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153257
+#EXTINF:-1 group-title="FRANCIA",FR: Mezzo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153258
+#EXTINF:-1 group-title="FRANCIA",FR: Trace Urban
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153259
+#EXTINF:-1 group-title="FRANCIA",FR: Trace Tropical
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153260
+#EXTINF:-1 group-title="FRANCIA",FR: Trace Africa (EN)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153261
+#EXTINF:-1 group-title="FRANCIA",FR: NRJ Hits
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153262
+#EXTINF:-1 group-title="FRANCIA",FR: M6 Music Hits
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153263
+#EXTINF:-1 group-title="FRANCIA",FR: TVM3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153264
+#EXTINF:-1 group-title="FRANCIA",FR: D5TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153265
+#EXTINF:-1 group-title="FRANCIA",▂ ▄ ▅ ▆  FRANCE  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153266
+#EXTINF:-1 group-title="FRANCIA",•●★-- France Sports --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153267
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153268
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153269
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153270
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153271
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153272
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153273
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153274
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153275
+#EXTINF:-1 group-title="FRANCIA",SP: FR: BeIN Sports Max 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153276
+#EXTINF:-1 group-title="FRANCIA",SP: FR: RMC Sport 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153277
+#EXTINF:-1 group-title="FRANCIA",SP: FR: RMC Sport 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153278
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Canal+ Sport
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153279
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Eurosport 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153280
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Eurosport 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153281
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Foot+ 24/24
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153282
+#EXTINF:-1 group-title="FRANCIA",SP: FR: InfoSport+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153283
+#EXTINF:-1 group-title="FRANCIA",SP: FR: L'Equipe 21
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153284
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Automoto La Chaine
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153285
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Golf Channel France
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153286
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Golf+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153287
+#EXTINF:-1 group-title="FRANCIA",SP: FR: Equidia Live
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153288
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="https://planificatuviaje.es/wp-content/uploads/2020/09/flag-800-28.png",▂ ▄ ▅ ▆  FRANCE  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30761
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7kb1gYcHQTFu2-qqTClrWgEU1sfOkrOqlHp2wV6Q2idAi01lt9vK7emoIpSYBk_4a-E&usqp=CAU",24/7 CINEMA DISNEY PIXAR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116789
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="data:image/jpeg;base64,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",CINE ESTELAR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138477
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/lfp01O6q4_gBjl-DlSWw8YXhr5dQloQouxIwEn4IQU4erJ7T_yRpuJCwCPAfPZEOkep_sc6VB1C6zTkQsx-FZKOWm6cvT_KyuTN-a8PmnEU.png",CINE MARVEL 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/156828
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmp1bWFuZ2lzX2ljb25fMTYxOTAyMjI0NF8wNzA/icon.png?w=170&fakeurl=1",▂ ▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55282
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="https://i.pinimg.com/originals/1a/73/ea/1a73eaf384e3145df300fbb6d0b17bd5.jpg",Cine TV: Sr Cine Navidad Caricaturas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55283
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="https://www.findelahistoria.com/web/wp-content/uploads/2013/12/Cine-Club-de-Navidad-LOGO.jpg",Cine TV: Sr Cine Navidad Familiar HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55284
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/tcMoR__d2h8LBQUm3-kaIpmoLsJhL8x_w90ZX4oBwVfVpUtVDnEBKyoyqVEOrBRQPv8Lqj5cJYrBZklLU55V4mUkRMV3SrkYOJWjvKmA8eKFaWi9RM2Tg9Bx5ZM3VoAP.jpg",Cine TV: Sr Cine Dioses HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55285
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg6Lqjzv_uV00LLj3kOZu-pdSDRGMp7zcywvxJwAP7r3iZdHDZDy3sWnFSnHmxla5rZvWDb1k-rZqMni9WFYY0nXcgq75E1kcuGqunS-E9wrnknSurOOiNYbFSL2UyPVVpsG8pUQ78bARptkFX4qhXJ5PklVZ22aCrZS-6Ky4otwx.jpeg",Cine TV: Sr Cine Robots HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55286
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/yj2W6V_BmMBljtOovQOuPEGcLA4Z9JiRtWQHgJDaMieoc1Aa8Jlavn6k-qs6dVId_UW_6s0P5pV_5G7zNZiAng.png",Cine TV: Sr Cine Zombies HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55287
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/A1VpGqOd0M4y6Rwx-syTuDFi9jHdbgiW6MMZho0d8-9lh33bt5LWFVhsTvUpMXLJRb2X67EHkevahE_H5Of6yA.jpg",Cine TV: Sr Cine Extraterrestres HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55288
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Gigantes HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55289
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Momias HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55290
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Brujas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55291
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Vampiros HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55292
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/LI84RjOC-MSrXBNygiWmO33_UpwV3wyI-r5031bwGZTIbEryDbpFzFpBos7Ww26A3joDupTLxB_s3vAdqCV3pIMfS-zbRna6DhYE9uUeBj1PE57-hC3bMtOIzqRwLe47.jpg",Cine TV: Sr Cine Marvel Studios HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55293
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/LI84RjOC-MSrXBNygiWmO33_UpwV3wyI-r5031bwGZTIbEryDbpFzFpBos7Ww26A3joDupTLxB_s3vAdqCV3pIMfS-zbRna6DhYE9uUeBj1PE57-hC3bMtOIzqRwLe47.jpg",Cine TV: Sr Cine Marvel Studios Animado HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55294
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL1PLXVLow81HuYjH6w_q4SOVt0rPUFX6gafXC7JK7Qm3ZeR51mGiFs6lvomX4t70aX__Y4hTLUTsX3VXdBrvqXK.jpg",Cine TV: Sr Cine DC Film HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55295
+#EXTINF:-1 group-title="FULL CINEMA 24/7" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL1PLXVLow81HuYjH6w_q4SOVt0rPUFX6gafXC7JK7Qm3ZeR51mGiFs6lvomX4t70aX__Y4hTLUTsX3VXdBrvqXK.jpg",Cine TV: Sr Cine DC Comics HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55296
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine LEGO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55297
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Sr Cine 60fps Acción HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55299
+#EXTINF:-1 group-title="FULL CINEMA 24/7",Cine TV: Panico HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55301
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JAgJQ48dgmrBIIQQqBBU4DOJZwOGkiWMtAHLm-Xofb3t.png",ESR 24/7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117243
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="https://i.postimg.cc/T1y6Mg2S/ESPORTS-MAX.jpg",eSports Max TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138819
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JN_5lfIWmbnS2YwasQFFH-_ZvgbDjB5PLYdXhYmu1_Nt.png",24/7 Grounded
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237791
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JPiOeFxgTvE3J4Clx1zef_hHH9nvIBKa5leNzOOBxM2p_d-dCfWAQ-fiQT4MadZX1Q.png",24/7 Need For Speed Heat
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237792
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JKhMXFO6dpwxzq401BIkP7A31eX9AahVGD8mXsDLEuc74kokIBOgLxPyNMgXSUNeVA.png",24/7 Need For Speed Unbound
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237793
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JPASjJHasEyOjAEryOW-uB1YXhi01ifb6FII_EY7HVTq.png",24/7 Redfall
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237794
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JBlBgj0KEAeAFNxHc7pLDyrJw-OG1YIr2TY6_bxTm0nvveFs3fdlBSVXCWAtUNcAEQ.png",24/7 Resident Evil 4 Remake
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237795
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JOwrNaIkjQlvgnnqhQAi5RbVZ3I4OYHVg34yUacG3YPw.png",24/7 Retro Games
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237950
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHy4ityagheHO4HO0CpopPUHKO-WT92VAeg9SrF1pXJO.png",24/7 Ps1 Opcion 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/237954
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHy4ityagheHO4HO0CpopPUHKO-WT92VAeg9SrF1pXJO.png",24/7 Ps1 Opcion 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/238046
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JB0m_5BCIyn5ajmnse2-eYi3ceOGPFsUF1J-pmAEeN3m.png",24/7 Ps2 Opcion 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/238049
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JB0m_5BCIyn5ajmnse2-eYi3ceOGPFsUF1J-pmAEeN3m.png",24/7 Ps2 Opcion 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/238050
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JJklI8xhDlIjS2XpwolV9Ll8tFKyds8ZqW14C_XRAzIv.png",Minecraf TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93663
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JFAi0Vt3wI46-wc_y7icyGUjphNvrEOLa68urWEMon7i.png",GAMER TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93664
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JCagfDcm5ZwNrWgredTc2iwE6oKS0VKRJf8eqFAYs_ga.png",Gameplay Call of Duty
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93666
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JG9BriSihdDea73wLyzU3OOgkozndcpyFB7VddRpCvN_.png",Gameplay Fortnite
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93667
+#EXTINF:-1 group-title="GAME PLAY 24/7" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JDPtWhfO_EnXiKQ6WbUc7ny_TlheGN2R1WYNFUo4AubEy9E6_bsctiJRRha8npawRA.png",Gameplay Sports
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93668
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHsdVNEAhdpZH_8y0sVT-d1fTHC8D3f3zCFtfx5B7Zb2.jpg",GT: Tigo Sport ops2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/119763
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_0,y_153,w_1049,h_734/fill/w_260,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png",GT: Expresión TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/167150
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://play-lh.googleusercontent.com/cJibduwasn792CrcDpJvAVoTBQBDj2jgquK_H-xMTVy8BJlgJYqVBHeW5Mxen3x9cYA",GT: Canal 5 Sololá
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/167151
+#EXTINF:-1 group-title="GUATEMALA",TEVE GLOBO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/238047
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandera_de_Guatemala.png",▂ ▄ ▅ ▆  GUATEMALA  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30429
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/SN0cLDd6/retro-tv-guatemala.jpg",GT: Retro Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30430
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JMFvcbrvB-_ykvDTDoGMXoNuRuK7oLrKwrbdTFPJERHb.jpg",GT: Guatevision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30431
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JMFvcbrvB-_ykvDTDoGMXoNuRuK7oLrKwrbdTFPJERHb.jpg",GT: Guatevision HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30432
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/Y9ZYs3Hw/canal-antigua.jpg",GT: Canal Antigua
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30433
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JGSY29W_J0XBvNtG1oHAfl1uAmOkOST4bLcNQtOn1N2c.jpg",GT: Canal 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30434
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JM3XaVwdmj6u04k545uy20WjiWgmO7FLDqn3nxP4JYXU.jpg",GT: Canal 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30435
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/g0Mvvptj/canal-13.jpg",GT: Canal 13
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30436
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JNXpWpj0_blYgKHRKbgOydcKz68RKRmxXYDrCnZf4k80.jpg",GT: Canal 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30437
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/DZ816NRg/azteca-guatemala.jpg",GT: Azteca Guatemala
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30438
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JOHPJdN1rl_M2CkJx3Q1Y6L0PuMOjQI8gLqtqPOgmRB0.jpg",GT: TN23
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30439
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHsdVNEAhdpZH_8y0sVT-d1fTHC8D3f3zCFtfx5B7Zb2.jpg",GT: Tigo sport
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45479
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIzofBg3iR1bJKay5GwOpTiTu4WTm6IwojoCsoHp66cl.jpg",GT: Claro Sport
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45480
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT597d8r8BgoxihIjElLoYtrF3GN4ywSoFeN0CQQtRbpYC-wNltrjmBQoeNOTo9y72ZlZl4l1ilKgWhX3en2arjRh4.png",HT: Tropical Groove....
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172258
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591C3QDp_5B-2bi9YdS2qyiOTe2OhkwS5u9pyFMVlB7LEmz7KxPdYoZA4CaaJAZqIOdk-lhUe5R5tZ-HSIlQWUFo.png",HT: Tele Adoration
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172259
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591DL2WcROnV9df_JOkZmXAsaDPbduGcjxtQS4bC2EGgofiXpzGbInUYF2J-BaHB7sWTY_7sssT56bEbwcDSLhTE.png",HT: Tele Caraibes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172260
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591DL2WcROnV9df_JOkZmXAsaDPbduGcjxtQS4bC2EGgofiXpzGbInUYF2J-BaHB7sWTY_7sssT56bEbwcDSLhTE.png",HT: TVA 30
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172261
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590D6LQs9Tr9CUYTQUOJb8F8fmz-PquaURfUNzUuQo_Cp1Qv1rY5z8FKTxCXP0Tzm6NsVm06-qQIArcUegqmdPD0.png",HT: Mizik TV....
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172262
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590MZBDcxxZLpg_aUg9_I9kLCmerUxrVc9s-wCRsBPG72P8EzQ1ZiKPlsmmYK49vYdNBqmLiWOdpG6RgG9JSx7fE.png",HT: Tele Pacific
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172263
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT592rKIcF6bi9opVL5_SJeo-uoa50KaxyCTZzW1SxMi0g3kjoP5w6aZlQ19QMt8fXS8hk-T4zM6L3JWLuM4gEV-pg.png",HT: Tele Shalom
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172264
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXTZ1Rmf9lzzgD2seSh-pPlpzhCAelhsfw_Tk993Ab_HNRh36RLNKpMv9yZphwCxLs.png",HT: Shekinah TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172265
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590JgmcNOHIatucsEUINu5dRnSKdh9c98ni3ytDsZ3AwaX0QyIVeCRkloZnudNoHscW0yMyCcHa3dZxS3fSXNh1Q.png",HT: Haiti 24 News
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172266
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT596sELoBhTHWBcixt_xF3wfCR2R4gZXPxcgEOfv70WVF9WTnrVuOUZKQjnk4ohFRAHM6dOBkaEn4EHQBxPKQN4H8.png",HT: West Indies Live
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172267
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT596sELoBhTHWBcixt_xF3wfDr6WkkuF1mJgwLeKAvj2qO7qYgAePl-K7w1SXV0fvEQw2ekhS6P_IE6MSfzP9QM3k.png",HT: Tele Novelas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172268
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591C3QDp_5B-2bi9YdS2qyiN4f8ndFdYEDAROo3glC4qA83HYubxKOQWRIEIXL-5_Hm6bOiYdlWmpTxIBaLCWAAc.png",HT: Trace Ayiti
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172269
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591C3QDp_5B-2bi9YdS2qyiNaRCnRzxmX77T-9n02xEAxvP4GyfK3mJCTyONbGjBOhxTRqoH_5dwsxErTy1oNnwY.png",HT: Tele Eclair
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172270
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjNz_qMamWpspmKOjBl0k6nVb2HaFT7KZdpu3CTU1WrwaTdzlRQdgWZJ_y5A7-Fu7vMNCh04SbeYMrq3OfA97_Fw.png",HT: Tropik TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172271
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT598VPycLzhA_1xO-gMqRbomdziVNIvKCKXlyn9zl-Pgs6H71dYWcx_hrCoAdL-LD-0FS91oAjvti_JrWFTnJRgNc.png",HT: Haiti Info TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172272
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT599snEm4dV-iBR7LKG1yfiQx79bKU-6nYPf0Zcieoyproc0Jwyqm_1ensh5DrXBINHznB4_CmGWGfUXCNITxridI.png",HT: Tripotay Lakay
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172273
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591bL9lKf-znajrJDWsO49xrx7C8U_iRqjVYt9ij4nB6Ma8vK0n716iK_lW77Gx7JID3YZnPfZMhePhEUff4K9LU.png",HT: Amen Tele
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172274
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkS48GQELCAfy4uJ8bknF1a49aneoUg-LUB28AQi0fqPODhn-jx9Y2iE5NoHISgRhH-Xs65dguHexA-inAf2tAg.png",HT: TV5 Monde
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172275
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590D6LQs9Tr9CUYTQUOJb8F8xVU3aXL4hhSVspVgb3HGBl5hTWawUGwvX4lb5JLaRNW-QOs49PNPZg63uNwfNrjc.png",HT: France 24 News
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172276
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591DL2WcROnV9df_JOkZmXAthBVYHxlNJGDdgujj317YH6zWvf_VnN6OUK7oyqxZF0Ws5rVLbEj9TkZJFCLwAgv0.png",HT: Touche Douce TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172277
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590JgmcNOHIatucsEUINu5dQ6xLNr4KVn2P8QQItM3FVFO6Uq71qrS8IzhmAZPzlW-ZiIqzBeN7ih3DvQlEFavu8.png",HT: Tele Puissance
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172278
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT59-SOD5knvfqJGxir0T0x07K1WR3pcY0XUOewGMw-uA8A_VDiBnMT0kZ1B3E6Bu8wQLplkQAAvPp06RXSAxFCuXE.png",HT: Tele Louange
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172279
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjoykUi7Xa96cIrLCCo1I8rEatnjq5z7Pv2mtL7WvKLdr39STui19K4k5Oy1K4x3AD.png",HT: TCH Tele
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172280
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590MZBDcxxZLpg_aUg9_I9kIw6BmR3Tr8Rh4RRuro07d9pz5nkRMj6ZXlEnOTDqto1tmRRVXq96Kr4hukFveGjoc.png",HT: Tele Hit
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172281
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT598VPycLzhA_1xO-gMqRbomdFH-_xj-xHrj-c_n7_ZIQ8zaY7COJ0zwUW7-b76_Y3puEvpjHc50QD4VYRp5DeW88.png",HT: TEVEKA TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172282
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590D6LQs9Tr9CUYTQUOJb8F9kpzLZO0aPWWeA5oYyoqmlIsokUlfbIYOipcm3cGbTqNKTX_stdVwQn6UJ_bS_bME.png",HT: RTP Tele
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172283
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT590JgmcNOHIatucsEUINu5dROrHC4Esypdum5ZDJTFa53DZyBNdD7ftwrufPItrEfVndZ_kEOxJfeaa18nbpTom8.png",HT: Haiti Diaspo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172284
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT592rKIcF6bi9opVL5_SJeo-tAYUVEmxubgTqil2mMgJuzBLqmvf56fUtupaNTqDGNEaH78Yio2mnDDydWuesky-g.png",HT: Kajou TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172285
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWIs8cKfYigYWvk302CdGd0sVd-9ZqxMNTmPzHOxYyCtQ.png",HT: TMA Tele
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172286
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/TFu1ILtB3QdNR5sxcG9dW57ydYPQUrT-ETnzM6AEfTMYfEbUaArGXDIytV0CGWy6m3VXZD9HUgcjSjUJYbwNUi_ujFXKW9x13msOK6PM9FsdYRWGKVkk8JYc5de_2Xxi.png",HT: Konpa News
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172287
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtwWzoaGw0Ntc-qkjYbojLMm37W7bjeB5EJPLzC4iY-q4.png",HT: Tele 6 Univers
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172288
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT598VPycLzhA_1xO-gMqRbomeo4nabbGF4VecFcvBly5gsAnaZ8RX95f-kKSvdM2f0UC5PUIwXH7xBA9VVFhkHTx8.png",HT: Media Pam
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172289
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591bL9lKf-znajrJDWsO49xpWDMnuKgSS_gPb-2w4AWgehKoARrqumW4oHMuwdpMaRhhCe88YLVtU1SccwMo2XHQ.png",HT: Tele Anacaona
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172290
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT596sELoBhTHWBcixt_xF3wfDr6WkkuF1mJgwLeKAvj2qO7qYgAePl-K7w1SXV0fvEQw2ekhS6P_IE6MSfzP9QM3k.png",HT: Novela Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172291
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT597U1PR2Fi4W8w1rlye7_IXzD2cM-tHDFLcTmKt_HszoLyWgCsqb8xkHs-IIL4k-sW0EEhH9zugMqWvZs0L6TZxo.png",HT: Tele Hirondelle
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172292
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT592rKIcF6bi9opVL5_SJeo-saQWG8Ar4-zh25YKiYwSQ_bv4P-8zjcwNilMWV_cAJ0ENtN2tCBpM1-su8a4QaAts.png",HT: Tele La Brise
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172293
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjtETowCX2a17BoAdGl2f-CJhgy3dBZd5_FUvIWxIOfqy-w5Fvsk7qzR4FZ2BeHih4SAtb3FVFo96NdYhrSvFzTw.png",HT: Via ATV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172294
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591-eD0vhXteqZe6ITuTgkOgVFxGwLBGN7FLzKSSy1ELCsLNfyvPDN6tT1G9a_9E6s06bVEf4WJiZweGh1HJUwPE.png",HT: Tele 4VEH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172295
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT59-SOD5knvfqJGxir0T0x07Jt5lWf6LGvNtoiiOiOBI4KbxPLWHFqzKEPJKdPo8oIuPDsi55SEYfR7WVivvDDDHA.png",HT: Tele Boston
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172296
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591C3QDp_5B-2bi9YdS2qyiOtD7oqQuA_NQPITrXUCN2NXCL2aBhcWG4d9w-M7R2wNuEK55sgkv1Vd7AP1faE-zY.png",HT: Tele Caramel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172297
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwAXbs3pIT3vXHvC0uzg_8SXK5i3yaT9ZaKuUMnNqoycR8.png",HT: RTH 2000 TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172298
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT599snEm4dV-iBR7LKG1yfiQzQm7XZloq_lKBWHBg2P-IQlPBFwsHjk7XxxKjxpiAR5z_t6_V2bULisJaT28UjCBg.png",HT: Net Al Kole TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172299
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT591bXAhvlwDz2Lj87Fx_nJw7_s7UUbRA4IQkZlK88ZPJX2x04D04YjaL7Nuj1pV_D6VNHN9ssMNJ0oKpVUlheMiI.png",HT: Evandis Gospel TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172300
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT59-SOD5knvfqJGxir0T0x07KeZtq4DxFoKgtqIj40qp7WuvRnokryiCVwpyMJ0V1WjFauzKjpDLGT3yrO_C0boBg.png",HT: Tele Planet Compas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172301
+#EXTINF:-1 group-title="HAITI" tvg-logo="http://jumangis.com:2082/images/k8RjCoro5dTl7fcnonT592rKIcF6bi9opVL5_SJeo-sgG7QjtQe_KAixj7xSu9sfH7uqa8velso-_dEQ775WC3wqnpv9JwwR8CrXFdI8UPQ.png",HT: Boston Neighborhood Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/172302
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/tdtv%20honduras.jpg",SP: HN: TDTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138475
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/tdtv%20honduras.jpg",SP: HN: TDTV+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138476
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.banderas-mundo.es/data/flags/w580/hn.png",▂ ▄ ▅ ▆  HONDURAS  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30330
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/azteca%20honduras.jpg",HN: Azteca Honduras HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30331
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/campustv%20honduras.jpg",HN: Campus Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30332
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/canal%2011%20honduras.jpg",HN: Canal 11 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30333
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/canal%206%20honduras.jpg",HN: Canal 6 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30334
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/hch%20honduras.jpg",HN: HCH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30335
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/telecadena%20honduras.jpg",HN: TeleCadena
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30336
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/tsi%20honduras.jpg",HN: TSI HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30337
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/teleprogreso%20honduras.jpg",HN: TeleProgreso
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30338
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/teleceiba%20honduras.jpg",HN: Teleceiba 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30339
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/vicatv%20honduras.jpg",HN: Vica TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30340
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/unetv%20honduras.jpg",HN: Une TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30341
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/chtv%20honduras.jpg",HN: CHTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30343
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/q%20hubo%20tv%20honduras.jpg",HN: Q Hubo TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30344
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/canal%2010%20honduras.jpg",HN: Canal 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30345
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/tvc%20el%20lider%20honduras.jpg",HN: Canal 5 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30347
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/maya%20tv%20honduras.jpg",HN: Maya TV SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30349
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/mega%20tv%20honduras.jpg",HN: Mega TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30350
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.jumangistv.com/logos/canal%2024%20hd%20honduras.jpg",HN: Canal 24 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30351
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Lazy Town SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149377
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Doctora Juguete
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149378
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Autobus Magico
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149379
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Dora y sus Amigos en la Ciudad
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149380
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Animaniacs
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149381
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Agente Oso
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149382
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Bubble Guppies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149383
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Bebe Jefazo Vuelta al Curro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149384
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Picapiedras
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149385
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Noche de Brujas SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149386
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Coraje el Perro Cobarde
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149387
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Donde esta Wally
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149388
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Laboratorio de Dexter
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149389
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Mastersforce (1988)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149390
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Digimon Adventure 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149391
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Equipo Umizoomi
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149392
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Casa de Mickey Mouse
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149393
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Fabulas de Esopo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149395
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Barney y sus Amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149396
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Temp 1-5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149397
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Pantera Rosa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149398
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Pistas de Blue
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149399
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Peppa Pig
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149400
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Paw Patroll
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149401
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://cafetoons.net/wp-content/uploads/2019/08/serie-de-garfield-600x350.jpg",24/7 Garfield
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149402
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://tvgolatino.com:8080/images/adcd67121b1e2c57b08ff2a7819c06f1.jpg",24/7 El Chavo del 8 Serie Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149403
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://img.vixdata.io/pd/jpg-large/es/sites/default/files/btg/men-in-black-the-series.jpg",24/7 Hombres de Negro Serie Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149405
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.blogs.es/10c563/smurfs/450_1000.jpg",24/7 Los Pitufos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149406
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619VQT4HNCL._AC_SX342_.jpg",24/7 She-Ra La Princesa del Poder
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149408
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://pics.filmaffinity.com/Capit_n_Planeta_y_los_Planetarios_Serie_de_TV-431020042-mmed.jpg",24/7 Capitan America y Los Planetarios
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149409
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://jumangis.com:2082/images/HKY8DvBADNHucQU0-594i7lCrUJ7V0oREnx_7katkF0spPaZwBsiqaHcKjVeiVgTCFMbsIt1yI9OFhDMTqV5KZ-2IbK6uVsjylFSX6Zmh2U.jpg",24/7 Tom Y Jerry
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149410
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515BMD6EcpL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg",24/7 Tom Y Jerry Kids
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149411
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://pbs.twimg.com/profile_images/967238111913824257/8R4qBjMq_400x400.jpg",24/7 Pato Aventura
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149412
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/b5/0b/9e/b50b9e106e8d3abe8e1b92dd1eb94bec.jpg",24/7 Las Tortugas Ninja
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149414
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/03/06/A6C21DDC-DCD3-4EF0-AEC1-1CF1D8ED8509//480x270.jpg",24/7 Angry Birds Toons
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149415
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/9b/3c/11/9b3c11cc8a96575216833685fc353e27.jpg",24/7 Aladino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149416
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.discshop.se/img/front_large/129754/birdman_blu_ray.jpg",24/7 Birdman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149417
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.ytimg.com/vi/FwL8r5nod7M/hqdefault.jpg",24/7 Gargolas Heroes Goticos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149418
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.informador.mx/__export/1564155848879/sites/elinformador/img/2019/07/26/54729137_2238581062867410_7011736352140034048_n_1_crop1564155827761.jpg_1034156727.jpg",24/7 Spiderman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149419
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.nintenderos.com/wp-content/uploads/2019/12/Super-Mario-Bros.-3.jpg",24/7 Super Mario Bross 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149420
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images.mediotiempo.com/z2IsOib0d2SSF-aI6LRSWJ9qaqk=/958x596/uploads/media/2018/05/30/supercampeones.jpg",24/7 Super Campeones (Captain Tsubasa)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149421
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://sonarfm.cl/sonarfm/site/artic/20180419/imag/foto_0000000220180419202547.png",24/7 Los Castores Cascarrabias
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149422
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://pics.filmaffinity.com/G_I_Joe-679020065-large.jpg",24/7 Gi Joe
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149430
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.bolsamania.com/cine/wp-content/uploads/2016/06/25-1-600x449.jpeg",24/7 He-Man y los Masters del Universo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149431
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://sasuke-anime-store.webnode.es/_files/200000110-568e357852/450/johnny-bravo-hanna-barbera-2907959-212-243.jpg",24/7 Jhonny Bravo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149432
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.laurag.tv/wp-content/uploads/2018/09/rugrats.jpg",24/7 Rugrats Aventura en Pañales
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149433
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.laurag.tv/wp-content/uploads/2017/09/Chicas-super-poderosas.jpg",24/7 Las Chicas Superpoderosas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149435
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://3.bp.blogspot.com/-m3CrnIezUSg/VGoKviJQlJI/AAAAAAAALSs/3l_HTnfzZFw/s1600/magic.jpg",24/7 Las Guerreras Magicas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149436
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/2f/fa/bb/2ffabb84f27aee4a6d7b566e4c4aa57a.jpg",24/7 La Vaca y el Pollito
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149438
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://southparkstudios.mtvnimages.com/default/image.jpg?quality=0.8",24/7 South Park
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149440
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.fondos12.com/data/media/18/big/family-guy-11248-1920x1080__wallpaper_480x300.jpg",24/7 Padre de Familia Temp 1-5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149441
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/17/8b/77/178b77a4d3133d8af4e356be10314ea7.png",24/7 Scooby Doo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149442
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://img.wikicharlie.cl/5/5f/Don_Gato_Personajes.jpg",24/7 Don Gato y su Pandilla
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149443
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31H05IXTA2L.jpg",24/7 Gasparin y sus Amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149444
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20190110184657_420.jpg",24/7 Las Aventuras de Tin Tin
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149445
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/07/10E77.jpg",24/7 Los Supersonicos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149446
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://piks.eldesmarque.com/thumbs/680/bin/2020/01/29/inspector_gadget.jpeg",24/7 Inspector Gadget
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149447
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.ebayimg.com/images/g/FtoAAOSwrBxaqHRk/s-l300.jpg",24/7 Candy Candy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149448
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://3.bp.blogspot.com/-jnZbH4Ff0U4/TYE__SZy8dI/AAAAAAAAPZk/R6rHq_1cg0c/s320/155684-4-1-99_HERE%252520COMES%252520THE%252520LITTLES.jpg",24/7 La Familia Meñique
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149449
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.planetadelibros.cl/usuaris/libros/fotos/292/m_libros/291053_portada_gravity-falls-comic-4_disney_201810300003.jpg",24/7 Gravity Falls
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149450
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://larrybrownsports.com/wp-content/uploads/2016/04/hannah-montana.jpg",24/7 Hannah Montana Temp 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149451
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://c-sf.smule.com/rs-s81/arr/91/b0/aacd6d51-7f9b-430d-9925-e3ffc95702c6.jpg",24/7 La Pequeña Lulu
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149452
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://2.bp.blogspot.com/-NKCX53H_2Cg/VyCP7OaBStI/AAAAAAAAJec/AcCB70YnkP4pwSY2U6uBW-9WshSXwZYpwCLcB/s1600/vengadoreso.png",24/7 Los Vengadores (Unidos)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149453
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/236x/2e/32/71/2e3271bd8032003b19bef4120dea9d6b--web-series-tv-land.jpg",24/7 Brickleberry +15
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149454
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Xb324z7jL._SY445_.jpg",24/7 El Reto de los Super Amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149455
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/39/6c/54/396c5410a85249fd5f007abf949205d2.jpg",24/7 El Oso Yogui
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149456
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51HJI9XzfWL._SX331_BO1,204,203,200_.jpg",24/7 Los Muppet Babys
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149457
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://cdn.idntimes.com/content-images/duniaku/post/20200129/transformers-beast-wars-76ba2e7690636f648080987adee73eea_600x400.jpg",24/7 Beast Wars
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149458
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://tfwiki.net/mediawiki/images2/thumb/e/ea/Beastwarsmaxgroup.jpg/300px-Beastwarsmaxgroup.jpg",24/7 Beast Wars Machines
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149459
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://4.bp.blogspot.com/-F2YoZdpBPsc/XGdU7yMQcQI/AAAAAAAAGjk/pBLHnvhVBtsxmPVDDnnSrALizC0zeCjdgCLcBGAs/s1600/MrPicklesS02_fbsearchTn.jpg",24/7 Mr Pickles
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149460
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://a.wattpad.com/cover/160156464-288-k523472.jpg",24/7 Los 7 Pecados Capitales
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149461
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.epicentrochile.com/wp-content/uploads/2015/11/FOTOping%C3%BCinos.jpg",24/7 Pinguinos de Madagascar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149462
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://pbs.twimg.com/profile_images/937773907167404032/xU1_PS8C_400x400.jpg",24/7 Fenomenoide
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149463
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51301KYT83L._SY445_.jpg",24/7 El Pais de Donkey Kong
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149464
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/d0/e2/48/d0e248ee2b9779191e9711aed42ad759.jpg",24/7 La Hormiga y el Oso Hormiguero
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149465
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://static.wixstatic.com/media/0146bf_978caa219ff64c6097ce89f3e36efbec~mv2.jpg",24/7 Timon & Pumbaa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149466
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://2.bp.blogspot.com/-tjsLGoP-feA/UwVEn07MYYI/AAAAAAAAEf0/Sa4-rsqzQvE/s1600/01.png",24/7 La Casa de los Dibujos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149467
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.ecured.cu/images/3/3b/Gaclau.jpg",24/7 El Gallo Claudio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149468
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/season/77918/1/974738-4-q80.jpg",24/7 Halcones Galacticos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149469
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/12/Rapidos-furiosos-Espias-volante-Temporada-1-HD-720p-portada.jpg",24/7 Rapido y Furioso (Espias a todo gas)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149470
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg?w=700",24/7 Pinky y Cerebro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149471
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2018/05/05/cinetv/1525519567_029601_1525519650_noticia_normal.jpg",24/7 Dora la Exploradora
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149472
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://pics.filmaffinity.com/Heathcliff_y_su_pandilla_Serie_de_TV-507088462-mmed.jpg",24/7 Heathcliff
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149473
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://http2.mlstatic.com/cantinflas-y-sus-amigos-temporada-lat-serie-de-television-D_NQ_NP_746247-MLU29528851543_032019-F.jpg",24/7 Cantinflas (Animada)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149474
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://titanicos.net:8080/images/315d6819db46fb48c2f8e6b12a507d72.jpg",24/7 Jackie Chan (Animada)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149475
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://serieslan.com/tb/lbt.jpg",24/7 La Tonta Bruja
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149476
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://cosasquepasanporunamenteinquieta.weebly.com/uploads/3/0/7/2/30721419/617493764.jpg",24/7 Beetlejuice
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149477
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://media.vandalsports.com/i/640x360/1-2020/20201221388_1.jpg",24/7 Street Sharks
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149478
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.ebayimg.com/images/g/yAoAAOSwzLZdAnJu/s-l300.jpg",24/7 Samurai Jack
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149479
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://ottvsimg.ottvs.com.br/cov/a2.043556/0043556_200.jpg",24/7 Sonic X
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149480
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://elbasurero.pro/wp-content/uploads/2019/10/920d98bac639d55f047eb272a62a5dbc.jpg",24/7 Generador Rex
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149481
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://echosrecordbar.co.za/storage/60924/conversions/89561-large.jpg",24/7 Dragones de Berck
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149482
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://serieslan.com/tb/lpd.jpg",24/7 Los Picapiedras (Pequeños)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149483
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://tvgolatino.com:8080/images/8a6d5daa761a05ba3861ef0bb928bd92.jpg",24/7 Los Gatos Samurai
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149484
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://1.bp.blogspot.com/-rGrm05-RVpE/VZU2su1gT4I/AAAAAAAACMY/Ksk7MZPktEc/s1600/sakura-card-captor.jpg",24/7 Sakura Card Captor
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149485
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/fd/2e/95/fd2e95e9b8d9ef28ce7ff6798efaebca.jpg",24/7 Los Osos Gummi
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149486
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.ytimg.com/vi/d_AwglE11bI/maxresdefault.jpg",24/7 La Liga del Dragon VHSRip
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149487
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Z3RYZ4VKL._SY445_.jpg",24/7 Megaman NT Warrior
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149488
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.hellofriki.com/wp-content/uploads/2018/04/paradise-pd-600x400-600x330.jpg",24/7 Paradise PD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149489
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Padrinos Magicos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149490
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Casa de Mickey Mouse FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149492
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 ThunderCats
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149493
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Tarzan Animado
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149494
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Samurai X
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149495
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Mighty Ducks
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149496
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Cuentos de la Cripta Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149497
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 101 Dalmatas Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149498
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 PJ Masks: Heroes en pijamas SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149499
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Guardianes de la Galaxia (Animado)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149500
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149503
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Futurama HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149504
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Padre de Familia HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149505
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Pocoyo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149506
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Clasicos de Disney (Latino)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149507
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Noche de Brujas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149508
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Noche de Brujas FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149509
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Super Mario World
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149510
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Armada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149511
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Cybertron
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149512
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Energon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149513
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers G1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149514
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Headmasters
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149515
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Inspector
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149517
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Inspector Ardilla
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149518
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Show del Pajaro Loco
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149519
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 En el Valle de los Dinosaurios
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149520
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Ghostbuster Filmation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149525
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Jumanji Serie Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149526
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Justicia Joven
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149527
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Leyenda de Zelda
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149528
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Mascara Animado SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149529
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Aventuras de Fly
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149530
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Nuevas Aventuras de Batman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149531
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Cazafantasmas (1986)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149532
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Grandes Héroes y Leyendas de la Biblia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149534
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Rick Y Morty
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149535
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Bob Zoom
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149536
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Spiderwoman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149537
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 PJ Masks: Heroes en pijamas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149539
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Mono Mario +18
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149540
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Ben 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149543
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Ben 10 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149544
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Samurai Jack FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149545
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Temp 6-10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149546
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Simpsons Temp 11-15
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149547
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Familia del Barrio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149549
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Reyes de la Colina SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149550
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 ThunderCats (2011)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149551
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Reyes de la Colina HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149552
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Bobs Burgers SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149553
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Bobs Burgers HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149554
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Remi el niño de nadie (1977)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149555
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Casa de los Dibujos HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149556
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Gladiador (1976)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149557
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Heidi
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149558
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Hercules (1998)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149559
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Mi Pequeño Pony
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149560
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Super Libro 3D
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149561
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Dinosaurios
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149562
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Mágicas aventuras de Quasimodo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149563
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Mascara Animado HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149564
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Brujilda
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149568
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Avatar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149569
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Nuevo Show de Popeye (1978) SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149570
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Nuevo Show de Popeye (1978) HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149571
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 ¿Qué hay de nuevo Scooby-Doo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149572
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los 3 de abajo: Relatos de Arcadia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149573
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Patoaventuras (2007)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149574
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Intrepidos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149575
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 ThunderCats Roar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149576
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Alien TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149577
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Almendrita (1992)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149578
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Aquaman (1968)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149579
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Baby Looney Tunes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149581
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Batman Serie Animada (1992)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149582
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Doramen
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149583
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Stanger Things
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149584
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://viperos.net:8080/images/a06cf2fd2f79859f7c74a07046e98cab.png",24/7 Las Aventuras Del Gato Con Botas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149585
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="http://jumangis.com:2082/images/-7oKEATgI6CdWxwKW-B7i6QCOtTOLWpTEoUDqJj4Dvq_JUr08l_7NYzAJVqBKqYR58tzaSagA8mN50YiFi8bba0tA5qmh3tWunGHToo-lxs.png",24/7 The Looney Tunes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149587
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Beta X
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149588
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Beware the Batman (2013)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149589
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Bayblade
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149590
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Birdman y el Trío Galaxia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149591
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Black Clover
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149592
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Capitan Sentella
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149593
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Blaze y los Monster Machine SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149594
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Blaze y los Monster Machine HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149595
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Go Diego Go
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149596
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Aventuras de Paddington SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149597
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Doraemon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/150137
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://images.vectorhq.com/images/previews/b42/logo-hora-aventura-psd-431870.png",24/7 Hora de aventura
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/150138
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/45/73/e9/4573e96895580ef7efff2351a0daffd3.jpg",24/7 Mazinger z
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/150139
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.ytimg.com/vi/8T8T1je_3cE/hqdefault.jpg",24/7 Sendokai
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/150141
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.newslinereport.com/online/nota_shark-tank-mxico-suma-patrocinadores.jpg",24/7 Shark Thank Mexico
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/150142
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Padre de Familia Temp 1-5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55151
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Padre de Familia HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55152
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Paw Patroll
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55153
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://c0.klipartz.com/pngpicture/234/921/gratis-png-peppa-pig-danny-dog-%E2%80%8B%E2%80%8Bty-beanie-logo-ilustracion-peppa-pig.png",24/7 Peppa Pig
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55154
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Mastersforce (1988)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55155
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Armada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55156
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Cybertron
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55157
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Energon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55158
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers G1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55159
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Transformers Headmasters
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55160
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/a1/e2/a0/a1e2a0ad6040d94956adc3125b09886e.png",24/7 Hey Arnold
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55161
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Hombres de Negro Serie Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55162
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Pitufos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55163
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 She-Ra La Princesa del Poder
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55170
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 He-Man y los Masters del Universo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55171
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Capitan America y Los Planetarios
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55172
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Ghostbuster Filmation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55173
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Pato Aventura
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55176
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Guerreras Magicas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55182
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Tortugas Ninja
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55183
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Angry Birds Toons
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55184
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Birdman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55186
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Gargolas Heroes Goticos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55187
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Spiderman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55188
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Super Mario Bross 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55189
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Super Mario World
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55190
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Castores Cascarrabias
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55192
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Beast Wars
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55198
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Beast Wars Machines
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55199
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Gi Joe
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55200
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Rugrats Aventura en Pañales
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55201
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Chicas Superpoderosas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55202
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Isla Misteriosa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55203
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Jhonny Bravo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55204
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Vaca y el Pollito
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55205
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Scooby Doo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55206
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Don Gato y su Pandilla
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55207
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Gasparin y sus Amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55208
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Aventuras de Tin Tin
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55209
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Supersonicos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55210
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Inspector Gadget
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55211
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Oso Yogui
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55212
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Muppet Babys
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55213
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Candy Candy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55214
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Remi el niño de nadie (1977)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55215
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Gladiador (1976)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55216
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Familia Meñique
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55217
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Pequeña Lulu
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55218
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Un Show Mas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55219
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Reto de los Super Amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55220
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Fenomenoide
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55221
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Hormiga y el Oso Hormiguero
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55222
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Pais de Donkey Kong
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55223
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Pinguinos de Madagascar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55224
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Timon & Pumbaa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55226
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Casa de los Dibujos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55227
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Casa de los Dibujos HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55228
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Gallo Claudio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55229
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Halcones Galacticos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55230
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Pinky y Cerebro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55231
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Heathcliff
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55232
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Jackie Chan (Animada)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55233
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Tonta Bruja
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55234
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Beetlejuice
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55235
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Sonic X
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55236
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Street Sharks
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55237
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Samurai Jack
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55238
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Generador Rex
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55240
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Gatos Samurai
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55241
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Osos Gummi
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55243
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Liga del Dragon VHSRip
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55244
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Megaman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55245
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Padrinos Magicos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55246
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Tarzan Animado
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55249
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Mighty Ducks
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55251
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 101 Dalmatas Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55252
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Backyardigans
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55253
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Pocoyo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55255
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Inspector
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55256
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 El Inspector Ardilla
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55257
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://serieslan.com/tb/pjl.jpg",24/7 El Show del Pajaro Loco
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55258
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 En el Valle de los Dinosaurios
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55259
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Jumanji Serie Animada
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55260
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Justicia Joven
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55261
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Leyenda de Zelda
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55262
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 La Mascara Animado
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55263
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Clasicos de Disney (Latino)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55264
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Rick Y Morty
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55266
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Spiderwoman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55267
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Aventuras de Fly
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55268
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Las Nuevas Aventuras de Batman
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55269
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Los Cazafantasmas (1986)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55270
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 X-Men (Animada)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/55271
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/30/d7/b4/30d7b484afd23573ff1050a27a7af6e0.png",24/7 Art Attack
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/64953
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://i.pinimg.com/originals/ea/c0/bc/eac0bca852209999910123632e081338.jpg",24/7 Astroboy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/64954
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="https://www.clipartmax.com/png/middle/187-1872066_vive-en-una-pi%C3%B1a-debajo-del-mar-bob-esponja-logo-png.png",24/7 Bob Esponja
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/64955
+#EXTINF:-1 group-title="INFANTILES 24/7" tvg-logo="data:image/jpeg;base64,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",24/7 El pequeño reino de Ben y Holly ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/67396
+#EXTINF:-1 group-title="INFANTILES 24/7",24/7 Jorge el curioso
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/67398
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/sViDqpFKOkKzmuIwJmZIronNJhXC4PNjQVC_RJ3I1egXJ0Lk_2fPLdvneC6j6YidKBzIBK7k8YiPbMACptYP1bG1ItHWUEJu97CPWqDW--Y.png",Mora Kids
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/119565
+#EXTINF:-1 group-title="INFANTILES PREMIUM",Happy Halloween Kids HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/119568
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJlEMPChUHNif-ev8rvI4JS.png",PAKAPAKA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/187245
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OHtmDfb_eKdBXFXRnEVbSvoegBf23Nn9z2pL8gVirp_Kw.png",SEMILLITAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/187246
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIwEA3neKFOiEn_WG8Qu-cTJ9r8zLU-V4VcNU_xiUAvlg.png",CARTOONITO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/187247
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png",Infantil: Baby TV ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29394
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.pngkit.com/png/full/206-2069051_baby-first-baby-first-tv-logo-png.png",Infantil: Baby First
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29395
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.pngfind.com/pngs/m/471-4711070_boomerang-logo-png-transparent-boomerang-from-cartoon-network.png",Infantil: Boomerang (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29396
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.pngfind.com/pngs/m/471-4711070_boomerang-logo-png-transparent-boomerang-from-cartoon-network.png",Infantil: Boomerang
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29397
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png",Infantil: Cartoon Network (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29399
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png",Infantil: Cartoon Network (MX) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29401
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Infantil: Discovery Kids (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29404
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Infantil: Discovery Kids HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29406
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.pngfind.com/pngs/m/690-6907050_transparent-disney-png-disney-channel-2010-logo-png.png",Infantil: Disney Channel (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29410
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/EosTAdhz73NMNK7vKJ4rkM2n_3rHIv2ovzu6sADmGXt33_ZdmQri3O_pMuvpUd8qYLvKFLsc0upwzKgPTFZ_pYfbEIX19D_BQugkNa28vIjxlLbZ9M0989ucvoQtwTI2NQ1ggk_WQ3-FnzZSxifV7g.png",Infantil: Disney Channel Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29411
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://www.pngfind.com/pngs/m/690-6907050_transparent-disney-png-disney-channel-2010-logo-png.png",Infantil: Disney Channel (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29412
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/EosTAdhz73NMNK7vKJ4rkM2n_3rHIv2ovzu6sADmGXt33_ZdmQri3O_pMuvpUd8qYLvKFLsc0upwzKgPTFZ_pYfbEIX19D_BQugkNa28vIjxlLbZ9M0989ucvoQtwTI2NQ1ggk_WQ3-FnzZSxifV7g.png",Infantil: Disney Channel Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29413
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png",Infantil: Disney Junior (MX) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29415
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0XdRck4Wq7gFtVrECgzW9BJ_USrymnAyV9GR3rMKqO1I.png",Infantil: Disney Junior Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29416
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JAjjMntrzJR5jhn26evHJph8DGu0CIEuDdRtSkAV25aalNoiTrqdKiSsELvOR1ETGQ.png",Baby First Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29419
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo-5.png",Infantil: Nickelodeon (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29421
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sFH1v13G9b2UQ2K5mrYBOwoL0skhQxIFIpJ6cXik8XySjr4S2aoWBSThp1acP3yJk.png",Infantil: Nickelodeon Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29422
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sFH1v13G9b2UQ2K5mrYBOwoL0skhQxIFIpJ6cXik8XySjr4S2aoWBSThp1acP3yJk.png",Infantil: Nickelodeon (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29423
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo-5.png",Infantil: Nickelodeon Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29424
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwAnS3HVf_coiLLspFG7tb1zg.png",Infantil: Nick 2 Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29427
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png",Infantil: Nick Jr ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29429
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqD45bzBhn0aakmC9x1iP32Gsp9AlfVvfji6E-Tgo4rnXA.png",Infantil: Tooncast (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29430
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqD45bzBhn0aakmC9x1iP32Gsp9AlfVvfji6E-Tgo4rnXA.png",Infantil: Tooncast (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29431
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Nicktoons_2016.png/revision/latest?cb=20200204221248&path-prefix=es",Infantil: Nick Toons (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29432
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://i.ibb.co/rvq6k2p/boome-300.png",Infantil: Boomerang (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29434
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png",Infantil: Cartoon Network (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29435
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/dsAt8cMDBjbP3mVNdeYR4f-vRcTyVOsY_5jhXblU2ZKfTBYqX6r8RlXB-_zKFTuV.png",Infantil: Disney Channel (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29436
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/dsAt8cMDBjbP3mVNdeYR4ZnEg6VGCOPOhKusSiRt2_r692aPmn1CuMARZ3Efxh3g.png",Infantil: Disney Junior (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29437
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqC71GhPi1kP-cS8UmyM0nbVmwRW8XUC0SNZuGZ1gEsz2g.png",Infantil: Tooncast (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29439
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7LTHsV17WwTTtdLeU4rn14u_viW-XyogbQkXBnarqlXk.png",Infantil: Nick Jr (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29441
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png",Infantil: Nickelodeon (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29442
+#EXTINF:-1 group-title="INFANTILES PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcM0m-xgot4wKNKO5NDLIl7RierkOIZm701pBJxRVtc-Yg-mSwIOzVdv0t-MNki1maTw&usqp=CAU",Infantil: Semillitas ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/67395
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://tvgo.re:8080/images/504f1ca2844fffa78b3fd73d41e792e7.png",IT: RAI 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232590
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cKfD3cQjnbYHjWfB3hxjbtUOjJQteqvJqQGTKY-4Fu1n-rHacZoKgSVCbiOUMFSAg.png",IT: RAI 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232591
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cqex5brpJAhmU9AtwG9VJscOUJ7MqXgUr7af9RgPmj3eBrjBSkVNzxkC0ylkqkeiY.png",IT: RAI 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232592
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dAmwaAW9-Ld_oI-IM81AIN-xX95qmi2YddKeruwullajgxkjPATpS-V3Bv3HOUezg.png",IT: RAI 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232593
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-f6ZCIn_h6FD3oVmZHlP6bie25LVLruWDS7IO9tjPk_XuFwxeP6bNlVE4_97ijEBro.png",IT: RAI 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232594
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-eCVgbMcZ7mJBsQRZk38NjGvtued7t-JfrPi2DjLEMIbr39Th1fYmApuEzy0kM03MM.png",IT: RAI Gulp
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232595
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-c3jTmVW5LYOX3KgDQKFRyGaL_l_7nUB5820NakvOm2n51nvDpxB--YFLS7RbSSEfM.png",IT: RAI Movie
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232596
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cyR5_aO4sLisJGwm6lj2PjB28cV8DamnByZyzWYaHW1b-N7pj6DpH872DEHBPiNy4.png",IT: RAI Premium
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232597
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-erkbZTVxkDJT5-pVvCphTWNbdNqDOjuwbLRbHk1Izr_OEdMJUabmNp5Mf36Q_KZjw.png",IT: RAI Storia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232598
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-fyUbVx3QY2sfRSvyN2FjBlNyXY6neeCXL2RlKkaRYx_JpgTyFhugDZIZpLo11cwh0.png",IT: Rai YoYo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232599
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dgZYhMZRhNKuiUkKFu-R0qosTwluiyYW3K0gReVGyS1SIDBajP9CVFDx_MjLvxMhE.png",IT: RETE 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232600
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-eQRmGARjma7OgDdqKSpMBZeablRJEOv1n8PbxQaehhaab_DUgu9kUqTNyHVUFHqtM.png",IT: Canale 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232601
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-ffyfCG6ym1HhKhyatZ0JsEQ_szmWAuoVNhGUR7_K01j2wphifgY_DraEVOSnh-pOw.png",IT: LA 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232602
+#EXTINF:-1 group-title="ITALY",IT: La7d
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232603
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-fBlhEZ_l3oRHq85jlFnNw879wLMGkYDdl4Cf4GtMEMjL7EMnHnlJZxF2HYfJyKNwI.png",IT: TV8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232604
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cmfhFbgWtgUQk41WXziugDKiWuezpz-VCmZQ_dt3TRQpK0Jlb1g0C6WiV5EvIJv3A.png",IT: 20 Mediaset
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232605
+#EXTINF:-1 group-title="ITALY",IT: Iris
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232606
+#EXTINF:-1 group-title="ITALY",IT: Twenty Seven
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232607
+#EXTINF:-1 group-title="ITALY",IT: QVC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232608
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cOPimjYiqNOwjgDB93sfUZqYSoeduepklidumRhuhmicUhrWO3ZO1Df_OhHiQXXLE.png",IT: Focus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232609
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dmuDRfk0qpuU4plNV07vP3hnbUlg4bJZmGlyUpji4Wh4Po6k7mquLNhwtqijcnENw.png",IT: History Lab
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232610
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-egzG7iUcsbb21uh1pNa7cDwnWHIvUfVegs_bI3ZKXdMnX8tAtuZViczcEo8Y4nqvU.png",IT: Top Crime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232611
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cUGL48rCrArWc5ExQPlMEc2LirFgtOAVp37u-GV2JUWk78_Qhv2q_eImZ3dPPOQfo.png",IT: Mediaset Extra
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232612
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-eUox_HfH4PPOBlBIiZoh3jY3bXn634ARTwzJLOCQePArjiKXFIgmZ9Nw-QkZbyKbg.png",IT: Mediaset Italia 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232613
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cp0haUryTCPtlJziEpbZEefHYhmRBFaLFYRbiaNQQLBrlfr0sSSNxyTvQ0DRBXb9Y.png",IT: Cielo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232614
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dFynl3yqbL1T83o_Q2N9l113ATxf-hjyuvG1kUdIgNq8rK_qjUB4hnMZG2BuktX5g.png",IT: Italian Fishing
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232615
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyl4QfRYAdCUmEefTorjvMeORt8Sr2khMzPFLesLhU05A.png",IT: Food Network HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232616
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-e4wiYd27KDgojndO4gCMoO8RrsdnrPLyxhIOWIrJSTVC0pbk8qOdo91GKTWYGVW8U.png",IT: Alice
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232617
+#EXTINF:-1 group-title="ITALY",•●★-- Italy Intrattenimento --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232618
+#EXTINF:-1 group-title="ITALY",IT: RSI La 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232619
+#EXTINF:-1 group-title="ITALY",IT: RSI La 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232620
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-f78A_GWWJl_X843NcaW4R44UZyEPwVEeic-nXi0kGwT0by890swWGJ8UmAKB-EQDI.png",IT: DMAX HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232621
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-enX3LAqoH-O6fyE17LKOx5N1yH7RetdNuyB6Qp_hqOIytu4nA2iBgj5Fkt1foRB-k.png",IT: Blaze HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232622
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qylbm9yA6t2HZUzUpTVV7V9SogiXhNBYvwR3x3ch_FmVg.png",IT: Comedy Central
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232623
+#EXTINF:-1 group-title="ITALY",IT: Realtime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232624
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cVeDU-o-G3DSTou6SpoYWHjfjGSS1GQSqCpljWX1rmPZqBwB52huKSIbeBVoCTAbQ.png",IT: Giallo HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232625
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-c2gaRCxBHrMw9AptB0rEkQfUrDtYZYslfTkBc80iyutzvHdXdAArZdu6VBycHyf4Y.png",IT: Gambero Rosso HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232626
+#EXTINF:-1 group-title="ITALY",IT: Discovery Nove
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232627
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://vaktar.vip:8080/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png",IT: Sky History
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232628
+#EXTINF:-1 group-title="ITALY",IT: Sky Arte
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232629
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyyip28y1MK0xZcAz1C81oXsSy74sIjPgu1Xx9n_y54Xg.png",IT: Discovery Science
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232630
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyyip28y1MK0xZcAz1C81oXVZuIS4-VM_WRFGbF_CljCw.png",IT: Discovery Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232631
+#EXTINF:-1 group-title="ITALY",IT: Discovery Nove
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232632
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBdKerIsd0dgZTh9-k4IgMlKwd3kbjP4ppZyaBsA4yS-i.png",IT: NatGeo Wild
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232633
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/IPipT31tafaSLBzN7UqRBdKerIsd0dgZTh9-k4IgMlKyytGWA03VyIz747Qk0-S6qxtWvPp0qtm2_2hZxQaR0A.png",IT: NatGeo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232634
+#EXTINF:-1 group-title="ITALY",IT: Comedy Central SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232635
+#EXTINF:-1 group-title="ITALY",IT: Comedy Central Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232636
+#EXTINF:-1 group-title="ITALY",IT: History HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232637
+#EXTINF:-1 group-title="ITALY",IT: History SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232638
+#EXTINF:-1 group-title="ITALY",IT: History Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232639
+#EXTINF:-1 group-title="ITALY",IT: Sky Investigation FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232640
+#EXTINF:-1 group-title="ITALY",IT: Sky Investigation HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232641
+#EXTINF:-1 group-title="ITALY",IT: Sky Investigation SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232642
+#EXTINF:-1 group-title="ITALY",IT: Sky Investigation Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232643
+#EXTINF:-1 group-title="ITALY",IT: Crime Investigation FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232644
+#EXTINF:-1 group-title="ITALY",IT: Crime Investigation HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232645
+#EXTINF:-1 group-title="ITALY",IT: Crime Investigation SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232646
+#EXTINF:-1 group-title="ITALY",IT: Crime Inestigation Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232647
+#EXTINF:-1 group-title="ITALY",IT: Sky Arte HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232648
+#EXTINF:-1 group-title="ITALY",IT: Sky Arte SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232649
+#EXTINF:-1 group-title="ITALY",IT: Sky Arte Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232650
+#EXTINF:-1 group-title="ITALY",IT: Sky Documentaries FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232651
+#EXTINF:-1 group-title="ITALY",IT: Sky Documentaries HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232652
+#EXTINF:-1 group-title="ITALY",IT: Sky Documentaries SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232653
+#EXTINF:-1 group-title="ITALY",IT: Sky Documentaries Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232654
+#EXTINF:-1 group-title="ITALY",IT: Sky Nature FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232655
+#EXTINF:-1 group-title="ITALY",IT: Sky Nature HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232656
+#EXTINF:-1 group-title="ITALY",IT: Sky Nature SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232657
+#EXTINF:-1 group-title="ITALY",IT: Sky Nature Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232658
+#EXTINF:-1 group-title="ITALY",•●★-- Italy Cinema & Serie --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232659
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Uno
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232660
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Action
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232661
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Drama
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232662
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Due
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232663
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Action
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232664
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Family
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232665
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Collection
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232666
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Romance
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232667
+#EXTINF:-1 group-title="ITALY",IT: Sky Cinema Suspense
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232668
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-fKRBideQZvCLdGERPksO53vbmME8tLnw0q4VAZ3Me0pS_kGwPZpSoeZrCZWIjwdXI.png",IT: Fox Crime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232669
+#EXTINF:-1 group-title="ITALY",IT: Top Crime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232670
+#EXTINF:-1 group-title="ITALY",IT: FOX HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232671
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-egzG7iUcsbb21uh1pNa7cDwnWHIvUfVegs_bI3ZKXdMnX8tAtuZViczcEo8Y4nqvU.png",IT: TOP crime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232672
+#EXTINF:-1 group-title="ITALY",IT: Cine 34
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232673
+#EXTINF:-1 group-title="ITALY",IT: Sky Uno FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232674
+#EXTINF:-1 group-title="ITALY",IT: Sky Uno HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232675
+#EXTINF:-1 group-title="ITALY",IT: Sky Uno SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232676
+#EXTINF:-1 group-title="ITALY",IT: Sky Uno Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232677
+#EXTINF:-1 group-title="ITALY",IT: Sky Atlantic FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232678
+#EXTINF:-1 group-title="ITALY",IT: Sky Atlantic HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232679
+#EXTINF:-1 group-title="ITALY",IT: Sky Atlantic SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232680
+#EXTINF:-1 group-title="ITALY",IT: Sky Serie FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232681
+#EXTINF:-1 group-title="ITALY",IT: Sky Serie HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232682
+#EXTINF:-1 group-title="ITALY",IT: Sky Serie SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232683
+#EXTINF:-1 group-title="ITALY",IT: Sky Serie Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232684
+#EXTINF:-1 group-title="ITALY",IT: Cinema Uno HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232685
+#EXTINF:-1 group-title="ITALY",IT: Cinema Uno SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232686
+#EXTINF:-1 group-title="ITALY",IT: Cinema Uno Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232687
+#EXTINF:-1 group-title="ITALY",IT: Cinema Comedia FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232688
+#EXTINF:-1 group-title="ITALY",IT: Cinema Comedia HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232689
+#EXTINF:-1 group-title="ITALY",IT: Cinema Comedia SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232690
+#EXTINF:-1 group-title="ITALY",IT: Cinema Comedia Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232691
+#EXTINF:-1 group-title="ITALY",IT: Cinema Action HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232692
+#EXTINF:-1 group-title="ITALY",IT: Cinema Action SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232693
+#EXTINF:-1 group-title="ITALY",IT: Cinema Action Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232694
+#EXTINF:-1 group-title="ITALY",IT: Cinema Due HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232695
+#EXTINF:-1 group-title="ITALY",IT: Cinema Due SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232696
+#EXTINF:-1 group-title="ITALY",IT: Cinema Due Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232697
+#EXTINF:-1 group-title="ITALY",IT: Cinema Family HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232698
+#EXTINF:-1 group-title="ITALY",IT: Cinema Family SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232699
+#EXTINF:-1 group-title="ITALY",IT: Cinema Family Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232700
+#EXTINF:-1 group-title="ITALY",IT: Cinema Suspense HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232701
+#EXTINF:-1 group-title="ITALY",IT: Cinema Suspense SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232702
+#EXTINF:-1 group-title="ITALY",IT: Cinema Suspense Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232703
+#EXTINF:-1 group-title="ITALY",IT: Cinema Romance HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232704
+#EXTINF:-1 group-title="ITALY",IT: Cinema Romance SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232705
+#EXTINF:-1 group-title="ITALY",IT: Cinema Romance Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232706
+#EXTINF:-1 group-title="ITALY",IT: Cinema Drama HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232707
+#EXTINF:-1 group-title="ITALY",IT: Cinema Drama SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232708
+#EXTINF:-1 group-title="ITALY",IT: Cinema Drama Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232709
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dmfQC5B_ejAYiaDSPwDQLOxlNLC-zROlaN4TfBWrCZl7DOqdHmO20CHTqWyGT61O0.png",•●★-- Italy Bambini --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232710
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-c_l7Fkwt9f9nFoKenxlTp-GbFQrXH1VNP5Ww9fv5ROFURG-b-0t1O0gQ5Czl1j9mI.png",IT: Disney Channel HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232711
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dH93YT-jMlPGuTfSm15eSkj7YJ-DLHVavS3pIkMZgERoP_lbFFKGlnJGqBhdV5Efg.png",IT: Disney Junior
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232712
+#EXTINF:-1 group-title="ITALY",IT: Cartoon Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232713
+#EXTINF:-1 group-title="ITALY",IT: Nick JR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232714
+#EXTINF:-1 group-title="ITALY",IT: Baby TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232715
+#EXTINF:-1 group-title="ITALY",IT: Super!
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232716
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-envjMs0LSsHmueLh1AwkiyQi6nC-O9OCR3gkRXFM0tbYjTmpSpLKixwrYpAfPmbaY.png",IT: Cartoonito
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232717
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-d4k5iwDMEVaEFyBwuaFr4LamDc8JJYzdGYXG35Z3HepUm856r8Jhd2PWd1Lp6VU-Q.png",IT: Discovery Frisbee
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232718
+#EXTINF:-1 group-title="ITALY",•●★-- Italy Musica --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232719
+#EXTINF:-1 group-title="ITALY",•●★-- Italy Notiziari --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232720
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-fIVdlrteiXUWkK3stAzv0iUr8bWtIOhsMEV655OYxwdllbnwiHDQ30lWHe2H26YuI.png",IT: Rai News 24
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232721
+#EXTINF:-1 group-title="ITALY",•●★-- Italy Sports --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232722
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 24 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232723
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 24 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232724
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 24 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232725
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 24 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232726
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Arena FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232727
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Arena HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232728
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Arena SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232729
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Arena Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232730
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Calcio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232731
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Collection FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232732
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Collection HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232733
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Collection SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232734
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Collection Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232735
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport F1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232736
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport F1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232737
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport F1 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232738
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport F1 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232739
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Football
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232740
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Football FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232741
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Football HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232742
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Football SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232743
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Fotball Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232744
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport NBA FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232745
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport NBA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232746
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport NBA SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232747
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport NBA Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232748
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Serie A FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232749
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Serie A HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232750
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Serie A SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232751
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Serie A Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232752
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Tennis FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232753
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Tennis HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232754
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Tennis SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232755
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Tennis Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232756
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Uno FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232757
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Uno HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232758
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Uno SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232759
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Uno (Movil)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232760
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Golf
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232761
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport Moto GP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232762
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 251 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232763
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 251 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232764
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 251 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232765
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 251 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232766
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 252 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232767
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 252 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232768
+#EXTINF:-1 group-title="ITALY",SP: IT: SKy Sport 252 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232769
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 252 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232770
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 253 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232771
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 253 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232772
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 253 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232773
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 253 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232774
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 254 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232775
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 254 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232776
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 254 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232777
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 254 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232778
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 255 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232779
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 255 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232780
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 255 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232781
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 255 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232782
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 256 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232783
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 256 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232784
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 256 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232785
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 256 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232786
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 257 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232787
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 257 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232788
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 257 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232789
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 257 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232790
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 258 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232791
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 258 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232792
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 259 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232793
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 259 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232794
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 260 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232795
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 260 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232796
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 261 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232797
+#EXTINF:-1 group-title="ITALY",SP: IT: Sky Sport 261 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232798
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232799
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232800
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 1 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232801
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 1 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232802
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 2 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232803
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232804
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 2 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232805
+#EXTINF:-1 group-title="ITALY",SP: IT: Eurosport 2 Movil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232806
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-cpkLA53MHlVHgBIO8d_PLlymFv9vkRqTiuUSHfXGjvAUGVYCIVjguTJW0n19b2FnA.png",SP: IT: Lazio Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232807
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-eRyF0Afuk-VdgQBz8dU4BjSRp2u2eu8tRQ4FzbVyifU5N75VN5-1HNOMP9kEhj0W8.png",SP: IT: Pesca & Caccia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232808
+#EXTINF:-1 group-title="ITALY",SP: IT: Bike
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232809
+#EXTINF:-1 group-title="ITALY",SP: IT: Horse TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232810
+#EXTINF:-1 group-title="ITALY",SP: IT: Inter TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232811
+#EXTINF:-1 group-title="ITALY",SP: IT: Lazio Style Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232812
+#EXTINF:-1 group-title="ITALY",SP: IT: Milan TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232813
+#EXTINF:-1 group-title="ITALY",SP: IT: Motor Trend
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232814
+#EXTINF:-1 group-title="ITALY",SP: IT: Pesca e Caccia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232815
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://jumangis.com:2082/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-dwmbCFrHTPR7_z3igV76lNf2aPhC41w6v9I2YcNEYX1quA_eg8-FrHrzD4URiJSHc.png",SP: IT: RAI Sport
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232816
+#EXTINF:-1 group-title="ITALY",SP: IT: Sport Italia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232817
+#EXTINF:-1 group-title="ITALY",SP: IT: Super Tennis
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/232818
+#EXTINF:-1 group-title="ITALY" tvg-logo="http://banderasmundo.es/wp-content/uploads/2017/09/italia.png",▂ ▄ ▅ ▆  ITALY  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/31606
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmp1bWFuZ2lzX2ljb25fMTYxOTAyMjI0NF8wNzA/icon.png?w=170&fakeurl=1",▂ ▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29212
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/bQ_8GxThxQiDHuCnc2xPM_EvkjiQORqAHNAP0VRfGHlSbAsjFYhnHv-RV6xoKyNmO1yDWgLe8XIgG9LY6hDhnDhiAUEhMUN_gf4tut69WEs.png",Cine TV: A&E (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29213
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/Xxtr5q1_jNnDrgHWFcBEqR7TL4bbmuyU50d1gOxyMsFz4HwFq2cKz7dmClQ-4xVese9qGqYKZFRfkx8GszJpd7zExKOcDnWX-qxpAgobFTaLiW0JVeCDnrCOPbwD-QDa.png",Cine TV: AMC (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29215
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjLfHVmV4I4klJF7LFOe5aYw.png",Cine TV: AXN (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29217
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ijo_D3mUJGUyiDoqfSHoDh0w.png",Cine TV: Cinecanal (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29220
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/golden-en-vivo-205x205.png",Cine TV: Golden (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29244
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/golden-en-vivo-205x205.png",Cine TV: Golden Edge (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29246
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjbR6WQDpwPDmUX6AZEsxYNQ.png",Cine TV: FAMILY (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29247
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij0f1NigW9-EoqEJkTNXrfPA.png",Cine TV: HBO Plus (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29251
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",Cine TV: HBO Pop (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29253
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij4244m6OKcxWTpEC6jSgshQ.png",Cine TV: HBO 2 (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29255
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/universal.png",Cine TV: Universal Channel (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29258
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjZzYa-W5d5kOFo_GlRCyEHQ.png",Cine Tv: SyFy (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29260
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ijl-lbZAWH0eR5E8gFaq5brA.png",Cine TV: Sony (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29261
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjPL-1elGY5AXq_rPkrLzVoQ.png",Cine TV: Space (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29263
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/Bp-vRtZEje6kFpdMZzWxZ5QNsNoWg3kgXb7FvdgY9NwsYM8aLRCeRhGnl-lb6hK0gJy3fDzyZW7pvdblGnL1CY8fy1nClpZKcfKE1dBMK7A.png",Cine TV: TCM (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29265
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjmgXsu8Ui6nViMhq5BFf4rQ.png",Cine TV: TNT (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29268
+#EXTINF:-1 group-title="LATINO SD",Cine TV: TNT Series (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29270
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tbs.png",Cine Tv: TBS (Dual Audio)(MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29272
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij_t_gUZDXfYqeO2-AKuFNfbkE979m5qfIWin46ZIFOoQ.png",Cine Tv: Studio Universal (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29273
+#EXTINF:-1 group-title="LATINO SD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjziE2MEo5IgnNKaHbQsmexg.png",Cine TV: Warner Channel (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29274
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JKw3pK4OQvhy0Qx__ZCd-tslwn5i5NR9Fkw5ranOphYV.jpg",MP- Multipremier
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/156833
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDVrWFa29UBZXuPg8PlMpnNwYQoIkePNY2x0YLAV5L-ZvPW_Iw0yNUIljofS-jAlBw.png",HBO XTREME HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/158204
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/bQ_8GxThxQiDHuCnc2xPM_EvkjiQORqAHNAP0VRfGHlSbAsjFYhnHv-RV6xoKyNmO1yDWgLe8XIgG9LY6hDhnDhiAUEhMUN_gf4tut69WEs.png",Cine TV: A&E Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29050
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png",Cine TV: A&E Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29052
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Xxtr5q1_jNnDrgHWFcBEqR7TL4bbmuyU50d1gOxyMsFz4HwFq2cKz7dmClQ-4xVese9qGqYKZFRfkx8GszJpd7zExKOcDnWX-qxpAgobFTaLiW0JVeCDnrCOPbwD-QDa.png",Cine TV: AMC Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29056
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Xxtr5q1_jNnDrgHWFcBEqR7TL4bbmuyU50d1gOxyMsFz4HwFq2cKz7dmClQ-4xVese9qGqYKZFRfkx8GszJpd7zExKOcDnWX-qxpAgobFTaLiW0JVeCDnrCOPbwD-QDa.png",Cine TV: AMC Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29058
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ38eeyGmVwvkfYRueR40E2KThwwLPPcaMPkDRE7vPpnrI.png",Cine TV: AXN Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29062
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ38eeyGmVwvkfYRueR40E2KThwwLPPcaMPkDRE7vPpnrI.png",Cine TV: AXN Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29064
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjcTV_v9m6cdh9KDbNP9b8qzUB8_yYia3XnKFQiIBJ2Tg.png",Cine TV: Cinecanal Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29068
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjcTV_v9m6cdh9KDbNP9b8qzUB8_yYia3XnKFQiIBJ2Tg.png",Cine TV: Cinecanal Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29070
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij5fjxO8LmzlLfujb5__uWzw.png",CIne TV: Cinemax Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29074
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/j8j8J_gYJboyYE5WImYT4A1JLz-qrzfHakSoap8VTHMms1pPOYQcByx-TjaIK8OuQg4az5axByCvIo5h9Lvel2cVmn3d0ghbjWtGUvomXebUcu-s_Ni48vVpJ3uvK4WA.png",Cine TV: Golden Premier  ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29130
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/j8j8J_gYJboyYE5WImYT4A1JLz-qrzfHakSoap8VTHMms1pPOYQcByx-TjaIK8OuQg4az5axByCvIo5h9Lvel2cVmn3d0ghbjWtGUvomXebUcu-s_Ni48vVpJ3uvK4WA.png",Cine TV: Golden Premier Full HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29132
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/j8j8J_gYJboyYE5WImYT4A1JLz-qrzfHakSoap8VTHMms1pPOYQcByx-TjaIK8OuQg4az5axByCvIo5h9Lvel2cVmn3d0ghbjWtGUvomXebUcu-s_Ni48vVpJ3uvK4WA.png",Cine TV: Golden Plus Full HD (MX) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29135
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/mt5f4eMtmMqzlsHfZsEyA9lia_EyMcadjUNuAGL1yMCp4J5zhAzzRRenAcSoXwlR9t1Aotcaeu1InIs0X-uqS1Jztu7gqnkHK81gjr-itGDuMjQr_l1BV3PLFkJsdKq3W5HzRmLcy7d5Aqq8Va_CAg.png",Cine TV: HBO Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29138
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjuYRLOH0SehPuGigT9dTZLg.png",Cine TV: HBO 2 Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29142
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij11Z2pVQFXBCzggI6HUfsZrMT7rUifmU2LApXXsO1LI8.png",Cine TV: HBO Family Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29146
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjZD9XcJbBpT6nrQFZSXEJug.png",Cine TV: HBO Plus Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29150
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjetzqaxMl6KlV-WM7RFfXqn76zz-mdwFUd6H-DyczKPY.png",Cine TV: HBO Signature Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29154
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/mt5f4eMtmMqzlsHfZsEyA9lia_EyMcadjUNuAGL1yMCp4J5zhAzzRRenAcSoXwlR9t1Aotcaeu1InIs0X-uqS1Jztu7gqnkHK81gjr-itGDuMjQr_l1BV3PLFkJsdKq3W5HzRmLcy7d5Aqq8Va_CAg.png",Cine TV: HBO MUNDI Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29156
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/NevsU-CZY2vMR1ZmWLuFCUNtZ2HUqqdX5a7zhzWWDlVr154N4QBwYe28WkPwrr2RBdsll5DWJE__TKjHlq3EmZK_pHmokQkpwV3Up_wk51a-1yh-fi8UcBlVbSTvpZorCL7JsCidIqfEQ-sOOPY_Gt_NCUpAQCO7ylJUogKbVkqBO-vpkRG-rWfAZOhkUB_n.png",Cine TV: HBO Pop Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29159
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",Cine TV: Paramount Channel FHD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29165
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAseWwj-oJn0a3ihaHtk7NEObRCxgUDIOVj-nDDG14URA.png",Cine TV: Sony Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29170
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUzaq6GwEzbzx4iUpuSx7OAseWwj-oJn0a3ihaHtk7NEObRCxgUDIOVj-nDDG14URA.png",Cine TV: Sony Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29172
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="https://wtcks.com/images/channels/logos/syfy.png",Cine TV: SyFy Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29175
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjPL-1elGY5AXq_rPkrLzVoQ.png",Cine TV: Space Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29177
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjmgXsu8Ui6nViMhq5BFf4rQ.png",Cine TV: TNT Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29182
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjmgXsu8Ui6nViMhq5BFf4rQ.png",Cine TV: TNT Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29184
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwAF6Tbl0KxrmKlmqDI6DvtVZemg29sHtfjsphKG-HDG0M.png",Cine TV: TNT Series Full HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29188
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUKo49zx_aanmT3t0Rh-UwAF6Tbl0KxrmKlmqDI6DvtVZemg29sHtfjsphKG-HDG0M.png",Cine TV: TNT Series Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29190
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjOR6ksKucmP1Z1PgMV7j8Aw.png",Cine TV: Studio Universal Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29195
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjziE2MEo5IgnNKaHbQsmexg.png",Cine TV: Warner Channel Full HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29204
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjziE2MEo5IgnNKaHbQsmexg.png",Cine TV: Warner Channel FHD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29206
+#EXTINF:-1 group-title="LATINOS FHD" tvg-logo="https://i.postimg.cc/85z4TVkZ/animal-planet.jpg",LAT: Animal Planet (MOVIL) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29383
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjE60nRyAmK1ASETs_zg1Scw.png",Cine TV: AXN HD (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29061
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjcTV_v9m6cdh9KDbNP9b8qzUB8_yYia3XnKFQiIBJ2Tg.png",Cine TV: Cinecanal HD (CO)  ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29067
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="https://1.bp.blogspot.com/-gvcQET1x5rg/YDPMZx8F6LI/AAAAAAAAZm0/ao6F2J-8U0YS73kT0nET6x4JkvYirl-HgCLcBGAsYHQ/s1722/Star_Channel_logo.svg.png",Cine TV: ST☆R Channel HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29082
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjvvL14DbWWd1d8lt9pqLNaQ.png",Cine TV: FX HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29122
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjvvL14DbWWd1d8lt9pqLNaQ.png",Cine TV: FX HD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29125
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/bQ_8GxThxQiDHuCnc2xPM_EvkjiQORqAHNAP0VRfGHkEo8fSDRNzkuEDuu07Jtk5prINva8PH20lKAmuIsKGgPQ5ElWkZD5SLHw60Tzy_x8.jpg",Cine TV: HBO HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29137
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij4244m6OKcxWTpEC6jSgshQ.png",Cine TV: HBO 2 HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29141
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij5QhNqTCZmVTy3HURBFHhog.png",Cine TV: HBO Family HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29145
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1Ij0f1NigW9-EoqEJkTNXrfPA.png",Cine TV: HBO Plus HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29149
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://jumangis.com:2082/images/HcmAxsPcKmIh-qyQeuFxog012EAdsBLA3myt4iw9IPqr1qp6NVGkM-3WAS6QCipJELZIS3Qz39hOkKsTYjynlPRaUKma5VsQ16FvgNCU1k8gHPHsSY1xapQt3yC58nqk.png",Cine TV: HBO Signature HD ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29153
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_HD.png",Cine TV: TNT HD (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29181
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_series_hd.png",Cine TV: TNT Series HD (CO) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29187
+#EXTINF:-1 group-title="LATINOS HD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/filmandarts.jpg",Cine TV: Film & Arts HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29201
+#EXTINF:-1 group-title="MEXICO",A+ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117599
+#EXTINF:-1 group-title="MEXICO",ADN 40
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117601
+#EXTINF:-1 group-title="MEXICO",ADN 40 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117602
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117604
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117605
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117607
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO -2 HORAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117608
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117609
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO LQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117610
+#EXTINF:-1 group-title="MEXICO",CANAL ONCE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117620
+#EXTINF:-1 group-title="MEXICO",FORO TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117622
+#EXTINF:-1 group-title="MEXICO",FORO TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117623
+#EXTINF:-1 group-title="MEXICO",IMAGEN HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117625
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117626
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117628
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS -2 HORAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117629
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS -2 HORAS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117630
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117631
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS LQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117632
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117633
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117634
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117638
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS GUADALAJARA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117640
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117641
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117643
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117644
+#EXTINF:-1 group-title="MEXICO",NUEVE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117652
+#EXTINF:-1 group-title="MEXICO",NUEVE HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117653
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117654
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrfkbqhZPOQ4BS2CsDt4KU_wDESvve7rmVhRpfLfdQmkg.png",CANAL 5 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117655
+#EXTINF:-1 group-title="MEXICO",TELEVISA MONTERREY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117659
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117660
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgLhHkGQR8Gy9PbYlZzIhssMNla11-hWcrgRdeDO48quw.png",TL NOVELAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117669
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgLhHkGQR8Gy9PbYlZzIhssMNla11-hWcrgRdeDO48quw.png",TL NOVELAS OPC 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/130966
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/GmZFZLvN/retro-play.jpg",Retro Play
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/155525
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Bandera_de_M%C3%A9xico_%281934-1968%29.png",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30176
+#EXTINF:-1 group-title="MLB PPV",USA | MLB Networkⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218290
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 00ⓧ: Cleveland Guardians @ Baltimore Orioles | Mon 29th May 1:05PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218291
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 01ⓧ: Texas Rangers @ Detroit Tigers | Mon 29th May 1:10PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218292
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 02ⓧ: Kansas City Royals @ St. Louis Cardinals | Mon 29th May 2:15PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218293
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 03ⓧ: Tampa Bay Rays @ Chicago Cubs | Mon 29th May 2:20PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218294
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 04ⓧ: Colorado Rockies @ Arizona Diamondbacks | Mon 29th May 4:10PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218295
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 05ⓧ: Minnesota Twins @ Houston Astros | Mon 29th May 4:10PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218296
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 06ⓧ: Pittsburgh Pirates @ San Francisco Giants | Mon 29th May 5:05PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218297
+#EXTINF:-1 group-title="MLB PPV",MLB 07 | TEXAS RANGERS @ NEW YORK YANKEES | 06/23-07:05PM | YES BALLY NEW ORLEANS BALLY OKLAHOMA BALLY SOUTHWEST BALLY SOUTHWEST XTRA MLB.TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218298
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 08ⓧ: Los Angeles Angels @ Chicago White Sox | Mon 29th May 8:10PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218299
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 09ⓧ: Washington Nationals @ Los Angeles Dodgers | Mon 29th May 9:10PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218300
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 10ⓧ: New York Yankees @ Seattle Mariners | Mon 29th May 9:40PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218301
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 11ⓧ:No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218302
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 11ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218303
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 13ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218304
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 14ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218305
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 15ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218306
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 16ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218307
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 17ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218308
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 18ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218309
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 19ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218310
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 20ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218311
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 21ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218312
+#EXTINF:-1 group-title="MLB PPV",USA | MLB TV 22ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218313
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Arizona Diamondbacksⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218314
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Atlanta Bravesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218315
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Baltimore Oriolesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218316
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Boston Red Soxⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218317
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Chicago Cubsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218318
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Chicago White Soxⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218319
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Cincinnati Redsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218320
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Cleveland Guardiansⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218321
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Colorado Rockiesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218322
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Detroit Tigersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218323
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Houston Astrosⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218324
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Kansas City Royalsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218325
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Los Angeles Angelsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218326
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Los Angeles Dodgersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218327
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Miami Marlinsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218328
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Milwaukee Brewersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218329
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Minnesota Twinsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218330
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | New York Metsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218331
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | New York Yankeesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218332
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Oakland Athleticsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218333
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Philadelphia Philliesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218334
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Pittsburgh Piratesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218335
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | San Diego Padresⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218336
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | San Francisco Giantsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218337
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Seattle Marinersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218338
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | St Louis Cardinalsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218339
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Tampa Bay Raysⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218340
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Texas Rangersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218341
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Toronto Blue Jaysⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218342
+#EXTINF:-1 group-title="MLB PPV",USA | MLB | Washington Nationalsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218343
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 01ⓧ: Toronto FC v DC United | Sat 27th May 7:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218344
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 02ⓧ: Orlando City v Atlanta United | Sat 27th May 7:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218345
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 03ⓧ: New York City v Philadelphia Union | Sat 27th May 7:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218346
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 04ⓧ: New England Revolution v Chicago Fire | Sat 27th May 7:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218347
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 05ⓧ: CF Montréal v Inter Miami | Sat 27th May 7:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218348
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 06ⓧ: St Louis City v Vancouver Whitecaps | Sat 27th May 8:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218349
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 07ⓧ: Minnesota United v Real Salt Lake | Sat 27th May 8:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218350
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 08ⓧ: Houston Dynamo v Austin FC | Sat 27th May 8:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218351
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 09ⓧ: Colorado Rapids v Cincinnati | Sat 27th May 9:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218352
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 10ⓧ: Seattle Sounders v New York Red Bulls | Sat 27th May 10:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218353
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 11ⓧ: San Jose Earthquakes v FC Dallas | Sat 27th May 10:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218354
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 12ⓧ: L.A. Galaxy v Charlotte Independence | Sat 27th May 10:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218355
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 13ⓧ: Sporting Kansas City v Portland Timbers | Sun 28th May 3:00PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218356
+#EXTINF:-1 group-title="MLS SOLO EVENTOS",USA | MLS 14ⓧ: Nashville SC v Columbus Crew | Sun 28th May 8:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218357
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://static.wikia.nocookie.net/aztecakgames/images/1/11/Bandamax.jpg/revision/latest?cb=20131009234016&path-prefix=es",BANDAMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116779
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 1 (90s Reloaded 2008)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117250
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 2 (Pop eurodance 90s)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117251
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 3 (Pop 2000-2004)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117252
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 4 (90s)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117253
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 5 (Rock Pop 90s)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117254
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 6 (Pop 2004-2006)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117255
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg",Classic Project 7 (Reggaeton)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117256
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 8 (Español)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117257
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 9 (90s)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117258
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 10 (Soundtrack)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117259
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 11 (Rock latino)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117260
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 12 (Onda disco)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117261
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 13 (Exitos en español)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117262
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 14-1 (Rock edition CD 1)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117263
+#EXTINF:-1 group-title="MUSICA 24/7" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3s1YHTzrcyjM_vkuacIltggIdszyWiXP_w7viWOnw2g8epaZCEiV6stDyB_bBOIFucVgq-HySJWaVs1WaWuIS7CBw_7Bhn3oktgEQI1Z6auF_Vdqsim06hfX6ykYnJF3ziZqtkhXdKRZS1ZopjMjlQhftIA1dTvguy9kUteE_KrO.jpg",Classic Project 14-2 (Rock edition CD 2)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117264
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Dance
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62817
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: 90's
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62821
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Mexicana
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62822
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Rap
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62830
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Y2K
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62832
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Pop Latino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62833
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MC: Tropicales
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62834
+#EXTINF:-1 group-title="MUSICA 24/7",Musica: VEVO Reggaton
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62835
+#EXTINF:-1 group-title="MUSICA 24/7",Musica: VEVO Urbano
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62836
+#EXTINF:-1 group-title="MUSICA 24/7",Musica: VEVO Latin Pop
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62837
+#EXTINF:-1 group-title="MUSICA 24/7",Musica: VEVO Hip-Hop
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62838
+#EXTINF:-1 group-title="MUSICA 24/7",Musica: VEVO Metal
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62839
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Telehit Plus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62840
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Telehit Plus Full HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62841
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Zona Latina (CL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62842
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MTV (MX ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62843
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MTV FHD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62844
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MTV Hits (MX.) ©
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62848
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MTV Live (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62849
+#EXTINF:-1 group-title="MUSICA 24/7",Music: MTV Live FHD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62850
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Concert Channel (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62851
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Concert Channel FHD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62852
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Concert Channel HD (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62853
+#EXTINF:-1 group-title="MUSICA 24/7",Music: HTV (ARG)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62854
+#EXTINF:-1 group-title="MUSICA 24/7",Music: RMS (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62856
+#EXTINF:-1 group-title="MUSICA 24/7",Music: Telehit FHD (MX)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62858
+#EXTINF:-1 group-title="MUSICA 24/7",Music: VH1 (CO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62859
+#EXTINF:-1 group-title="MUSICA 24/7",Music: VH1 Classic (MX.)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/62860
+#EXTINF:-1 group-title="MUSICA 24/7",PuroRock24-7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/64646
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 01ⓧ: Miami Heat v Boston Celtics | Mon 29th May 8:30PM ET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218358
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 02ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218359
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 03ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218360
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 04ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218361
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 05ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218362
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 06ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218363
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 07ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218364
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 08ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218365
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 09ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218366
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 10ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218367
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 11ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218368
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 12ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218369
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 13ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218370
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 14ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218371
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA 15ⓧ: No Scheduled Event
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218372
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA Draftkings 24/7ⓧ HD OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218373
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA TVⓧ FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218374
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA TVⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218375
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Atlanta Hawksⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218376
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Boston Celticsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218377
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Brooklyn Netsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218378
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Charlotte Hornetsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218379
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Chicago Bullsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218380
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Cleveland Cavaliersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218381
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Dallas Mavericksⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218382
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Denver Nuggetsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218383
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Detroit Pistonsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218384
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Golden State Warriorsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218385
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Houston Rocketsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218386
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Indiana Pacersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218387
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Los Angeles Clippersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218388
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Los Angeles Lakersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218389
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Memphis Grizzliesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218390
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Miami Heatⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218391
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Milwaukee Bucksⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218392
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Minnesota Timberwolvesⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218393
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | New Orleans Pelicansⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218394
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | New York Knicksⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218395
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Oklahoma City Thunderⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218396
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Orlando Magicⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218397
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Philadelphia 76ersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218398
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Phoenix Sunsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218399
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Portland Trail Blazersⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218400
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Sacramento Kingsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218401
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | San Antonio Spursⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218402
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Toronto Raptorsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218403
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Utah Jazzⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218404
+#EXTINF:-1 group-title="NBA PASS *SOLO EVENTOS*",USA | NBA | Washington Wizardsⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/218405
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/400px-Flag_of_Nicaragua.svg.png",▂ ▄ ▅ ▆  NICARAGUA  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30440
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIa3eo1RdjMc6SaLXP8a21M2YLCsh-y5YVE9AOpiYOxYUSWq5eUzDT_COYauZgL-nQ.jpg",NIC | Canal 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93869
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JLQXpVN1-wM5X1SoodIdQW1sSjf9-AZzVrI08BsRfMFIOIRnqtfJXIsfM5oEEKM5lQ.jpg",NIC | CANAL 11 (Q)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93870
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JBRKS99ENV6FR1seLPzMxzS9ADrCvnedh6Y8HMWmf4OVn7KudmYEkMvLKRPgoejbow.jpg",NIC | CANAL 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93871
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHqEPv2eBJCqWi2hV2HCvnn-WHXeGslcHmKXUzdToRL0C4t8m6uZrpqM_q8VihOXOQ.jpg",NIC | Canal 13 Viva Nicaragua
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93872
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://i.postimg.cc/cHLGbRcT/canal-14-nicaragua.jpg",NIC | Canal 14
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93873
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JBTJ81KRZJ1GhdwFHApw2Rn2_qTRCC3f82wMviaEjzc-B7EGjQv5a12NZTtSdCpozQ.jpg",NIC | Canal 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93874
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JJ3lUyIGxYFwDLlbR1lwaBmKmhvz9-Qgduugs4n1UIFQAJfJwgwZGKZ7Z5VKk6PqTg.jpg",NIC | Canal 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93875
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JBNL5z_SD66OlKMVKJtMapSL4yuazqWYcJlAiCJMwToOut_2nYipUQiqs9P1kAxo0w.jpg",NIC | Canal 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93876
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JGSuBPHh2xAKyMugU8eMvm23YWcd7OFA33Uvoe-WdMOyDTEfAA21EBRhYN3A-8VOHw.jpg",NIC | Canal 8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93877
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: DW En Español
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95584
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: DW En Español HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95585
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: CNN en Espanol
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95587
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: CNN en Español HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95588
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: 24 HORAS ESPAÑA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95589
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: France 24 en Español
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95590
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: BBC World (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95591
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: CNN en Espanol (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95592
+#EXTINF:-1 group-title="NOTICIAS",Noticiero: CNN Internacional (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/95593
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://th.bing.com/th/id/OIP.Hs7odtAuyqWzD4SajuKhvwHaFj?pid=ImgDet&rs=1",PA: TIGO SPORTS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/238386
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Modelo_bandera_Panama_1.png",▂ ▄ ▅ ▆  PANAMA  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30305
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dsxuPqdPKOQx-3aPzvDkUffFQF35QpZmcUZryL6jNyy5Q.jpg",PA: Nex Canal 21
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30306
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dvfWUa-DWd1i2Z1oZwZ_Mdq.jpg",PA: RPC TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30308
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dvfWUa-DWd1i2Z1oZwZ_Mdq.jpg",PA: RPC TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30309
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duQu7zJ_eGKa1jDC48v9uYm.jpg",PA: SERTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30310
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duQu7zJ_eGKa1jDC48v9uYm.jpg",PA: SERTV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30311
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/telemetro.jpg",PA: Telemetro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30312
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/telemetro.jpg",PA: Telemetro HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30313
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dttTfyCaNh-Vu2qOGR3hyGN2l7aSMQLbgAIEZU6PCjZEg.jpg",PA: TVN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30314
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dttTfyCaNh-Vu2qOGR3hyGN2l7aSMQLbgAIEZU6PCjZEg.jpg",PA: TVN HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30315
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dttTfyCaNh-Vu2qOGR3hyGN2l7aSMQLbgAIEZU6PCjZEg.jpg",PA: Canal 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30316
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/tv%20mas.jpg",PA: TV Max
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30317
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dtYg2StykkmG4aqXrgp5F8c.jpg",PA: TV Max HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30318
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/canal%20%2B23.jpg",PA: Canal +23
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30320
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/eco%20tv.jpg",PA: ECO TV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30321
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://www.jumangistv.com/logos/hosanna%20vision.jpg",PA: Hosanna Vision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30322
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dt3UQNWwN4hh29VYwhsBL9nl2gdLxOhzt98sfKik-qpPQ.jpg",PA: CableOnda Sports HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93672
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandera_de_Paraguay.png",▂ ▄ ▅ ▆  PARAGUAY  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51940
+#EXTINF:-1 group-title="PARAGUAY",PY: ABC HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51941
+#EXTINF:-1 group-title="PARAGUAY",PY: C9N HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51942
+#EXTINF:-1 group-title="PARAGUAY",PY: Canal Pro HD (H265)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51943
+#EXTINF:-1 group-title="PARAGUAY",PY: Farra Play
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51944
+#EXTINF:-1 group-title="PARAGUAY",PY: Gen TV HD (H265)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51945
+#EXTINF:-1 group-title="PARAGUAY",PY: La Tele HD (H265)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51946
+#EXTINF:-1 group-title="PARAGUAY",PY: Noticias PY SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51947
+#EXTINF:-1 group-title="PARAGUAY",PY: Noticias Paraguay HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51948
+#EXTINF:-1 group-title="PARAGUAY",PY: Paraguay TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51950
+#EXTINF:-1 group-title="PARAGUAY",PY: Paravision HD (H265)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51952
+#EXTINF:-1 group-title="PARAGUAY",PY: RCC HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51953
+#EXTINF:-1 group-title="PARAGUAY",PY: RPC HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51954
+#EXTINF:-1 group-title="PARAGUAY",PY: SNT HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51956
+#EXTINF:-1 group-title="PARAGUAY",PY: Sur TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51959
+#EXTINF:-1 group-title="PARAGUAY",PY: Telefuturo HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51960
+#EXTINF:-1 group-title="PARAGUAY",PY: Unicanal HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51962
+#EXTINF:-1 group-title="PARAGUAY",PY: EsneTV SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51965
+#EXTINF:-1 group-title="PARAGUAY",PY: Paravision SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51966
+#EXTINF:-1 group-title="PARAGUAY",PY: SNT (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51969
+#EXTINF:-1 group-title="PARAGUAY",PY: Paraguay TV (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51971
+#EXTINF:-1 group-title="PARAGUAY",PY: RPC (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51972
+#EXTINF:-1 group-title="PARAGUAY",PY: Sur TV (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51974
+#EXTINF:-1 group-title="PARAGUAY",PY: NPY (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51975
+#EXTINF:-1 group-title="PARAGUAY",PY: C9N (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51976
+#EXTINF:-1 group-title="PARAGUAY",PY: Paravision (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51977
+#EXTINF:-1 group-title="PARAGUAY",PY: Telefuturo (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/51978
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/zK-wow70PeP-THDSow64pRmOtE0H7wPS3R1rtWtV21A3KntHMHoSAuA6DCfJXw-zzOs9HzCIxJqPpJcT-TlJCZL9duKFgWxKyVBEffHzeKc.png",LIGA 1 MAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/206901
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/zK-wow70PeP-THDSow64pRmOtE0H7wPS3R1rtWtV21CeIrZUwC5g6lEn3HZ3VtwTtxgfrluQ3ThoVeRU2S4n02WBvvTfs0T_pcA132QdISQ.png",LIGA 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/206902
+#EXTINF:-1 group-title="PERU" tvg-logo="https://th.bing.com/th?id=OIP.Zhu8F5WWPiDu3wGctSpZ4wHaEa&w=323&h=192&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",LIGA 1 MAX (OPC-2)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/235535
+#EXTINF:-1 group-title="PERU" tvg-logo="https://th.bing.com/th?id=OIP.Zhu8F5WWPiDu3wGctSpZ4wHaEa&w=323&h=192&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",LIGA 1 MAX (OPC-3)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/235536
+#EXTINF:-1 group-title="PERU",SP: PE: Movistar Deportes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28530
+#EXTINF:-1 group-title="PERU",SP: PE: Gol Peru HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28532
+#EXTINF:-1 group-title="PERU",SP: PE: Gol Peru FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28533
+#EXTINF:-1 group-title="PERU",SP: PE: Gol Peru (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28577
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/qH5-dSy6GV1J0EHfxR-zYuibL3YxDPst_WAHu0AzLNiWvzSOzDCe1Y9KnWUi1xV7L1UhlNLRKk5XhudjztfVVapxnnRHQ1lBv1XuHHdekgeylBm6isF04-w0eUrXHIBe.png",PE | Exitosa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93676
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF6_vFYoB3DypzG2AHPNL0oOVwpdZsCGtKN9lBQy3P03WyFnQv_atswCcQjXeNrAJI.png",PE | ATV SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93677
+#EXTINF:-1 group-title="PERU" tvg-logo="https://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_400x400.jpg",PE | Movistar Deportes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93678
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png",PE | Panamericana
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93679
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/tZ5iiNUXRu3kglf_VTKnQoTw-Ndcpr8B8tYeDn2Ksrqy8nrmYyp6KWyD0n4G04W2B2E2FY4R7yl3flyvkaDF-hXZuxZZVLT6zgKskOah48Q.png",PE | Canal N HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93680
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN009BGorSIiBM5Yzfp_IdafsVGMEr0kcpqX1FKMeuhHe8.png",PE | RPP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93681
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjNDuRyU9vPWp9JKpOyOdRkXErrLqPE9KTqbn8c7sRN5Q.png",PE | Latina HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93682
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjnUc7wy2oOxU4xuicEskmgRfzEOivJS6pGUHMbhyS5hsyss8WNGO5E1AWcuQGAgVy3aArZMDba6eB-tzDeT4CP5DkV5kFVW3K_msvGi2LxifKIZh2kUidDJgV2yLPNy9t8fto7nFYUFYUJHaYB71gMMmp1HbDOcYY8XGTI-WVP8U.png",PE | TV Perú
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93684
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8Ud0ntmcJwkUa3bD9CGXzWWM47dcZwAAITNgF0jRHZDLTu3TCoJx7H9U0bDL4_hLgG.png",PE | Canal IPE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93686
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyBdBkAi3JImPibLpcyzmruL2Vx8y4myp9DLsEJdHOWahA.png",PE | Perú Mágico
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93687
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF6_vFYoB3DypzG2AHPNL0oOVwpdZsCGtKN9lBQy3P03WyFnQv_atswCcQjXeNrAJI.png",PE | ATV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93689
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqLkr-Y8ZbH2Fqi0XVSpRY1MoQ61pxXOjQtPTCcIJwozw.png",PE | TV Perú Noticias
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93690
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png",PE | GOL Perú
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93692
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcG2t1vwIaaBSOLpmsTyiixLBBhxZ6pQkBMVGO3mG-m4ibFJMyD9_GZFpS-ZamJpi_w.jpg",PE | Directv Sports
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93693
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png",PE | América TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93695
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png",PE | América TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93696
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGwZiEoVGI44dwfqTr0VxfCZTvf7EGP4VU2U6WZ3VrP2w81SGPoIKznFP1pUso1J14.jpg",PE | Movistar Deportes HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93697
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjNDuRyU9vPWp9JKpOyOdRkXErrLqPE9KTqbn8c7sRN5Q.png",PE | Latina TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93698
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKoECe7HEgzRjHM98eQDiVCGOXVcQ1EPIgvZxL1KI52Cg.png",PE | WILLAX HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93699
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RiRKDKy55HA8Y3TKnocjiEag.png",PE | Canal N
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93701
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png",PE | Panamericana HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93702
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TPa94U9TQ9q80oD1-QqEMyxPooJi5YexSz_y4c1Ng07A.png",PE | Tv Peru HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93703
+#EXTINF:-1 group-title="PERU" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL2sBQA960yR9W6Y8FIKwRPpY6hi74S7BjENwMpF_twTvfAr6TDGI_MzOQzb0x9iXwk.jpg",PE | Movistar Plus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93704
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://i.blogs.es/d36c9f/anime-pluto-tv/1366_2000.jpg",Pluto TV Anime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117240
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion.jpg",Pluto TV Animé Acción
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117241
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://1.bp.blogspot.com/-4qLGn8w6bM4/X0h_UumlnsI/AAAAAAAAMPc/YybH6NnAHeYI_cu2HWpmH1Hn5MpBHcyTQCLcBGAsYHQ/s1600/plutotv-naruto-anmtv.png",Naruto
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117242
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://1.bp.blogspot.com/-84I4xRzsTfk/Xyn503In_XI/AAAAAAAALy0/jCsKqGgVLrMIMVXP_CwC-OA2kvUyJQjkACLcBGAsYHQ/s1600/yugianmtv.png",Yu-Gi-Oh
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117244
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://1.bp.blogspot.com/-Z76po1r1xD0/YDYQmrFqMkI/AAAAAAAABX4/iUJqtt-HfJAT5DdWdUmbvemx_XGdcuuyQCNcBGAsYHQ/s1080/TVLaint_One_Piece_Pluto_TV.jpg",One Piece
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117245
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://1.bp.blogspot.com/-z04Qr0yZE7o/YGazVWZBlEI/AAAAAAAAP7E/X-PvP-1T3H4LUiYR5nkQVduFlFO19BfagCLcBGAsYHQ/s800/tokusato-pluto-tv.jpg",Tokusato
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117246
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://i.blogs.es/d36c9f/anime-pluto-tv/1366_2000.jpg",Pluto TV Anime Héroes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117247
+#EXTINF:-1 group-title="PLUTO TV ANIME" tvg-logo="https://i.blogs.es/d36c9f/anime-pluto-tv/1366_2000.jpg",Pluto TV Anime Clásico
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/152824
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://thestreamable.com/media/pages/news/pluto-tv-latino-adds-11-new-spanish-language-channels/7fde2cfe5e-1618516374/nick-latino-960x540.jpg",Nick Latino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91496
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://www.completecontrol.co.uk/wp-content/uploads/2017/01/nick_jr_logo.png",Nick Jr. Latino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91497
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PdCDVIqEL._SX496_BO1,204,203,200_.jpg",Bebecito Bum y sus amigos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91498
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61cTmtdNSzL.png",Pluto TV Animakids
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91501
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png",Bob Esponja TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91502
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://www.pngkit.com/png/full/139-1391179_teenstar-2018-audition-dates-now-released-teen-star.png",Pluto TV Teen Stars
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91503
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://seeklogo.com/images/G/garfield-logo-61FF7BED47-seeklogo.com.png",Garfield TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91505
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ADZQJN0BL._SY445_.jpg",Barney TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91506
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81lEZjxtDrL._AC_SL1500_.jpg",Rugrats Crecidos TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91507
+#EXTINF:-1 group-title="PLUTO TV KIDS LATINO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/519xnRb07nL._SY445_.jpg",Babar TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91508
+#EXTINF:-1 group-title="PLUTO TV KIDS USA" tvg-logo="https://image.roku.com/developer_channels/prod/1545113a3b8271a7c889ff89e8e6263524d8e7538aeecda401bbedc4d088ba0b.png",Classic Toons TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91493
+#EXTINF:-1 group-title="PLUTO TV KIDS USA" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/pluto_tv_new.png",Pluto TV Kids Animation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91495
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://comoanotarse.com/wp-content/uploads/2021/01/minuto-para-ganar.png",Minuto Para Ganar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117238
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/04/13/betech/1618321004_300175_1618321232_noticia_normal_recorte1.jpg",MasterChef
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117239
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/Estrella-TV-770.jpg",Estrella TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91509
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png",Cine Premiere
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91510
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://www.neeo.es/wp-content/uploads/2021/02/Pluto-tv-investiga.jpg",Pluto TV Investiga
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91512
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="http://3.bp.blogspot.com/-wSeIEI9tHbE/UoatW4eQgJI/AAAAAAAAAmY/RjFfuRx55fs/s1600/unnamed.png",Telemundo telenovelas clásicas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91513
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://rivevideo.com/wp-content/uploads/2019/11/featuredImage-1.jpg",MTV Latino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91514
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central Latino
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91515
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://www.thehub.com.hk/wp-content/uploads/2016/09/Foodie_logo.png",Foodies TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91516
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png",Cine adrenalina
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91518
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://i2.wp.com/www.jumbojetje.nl/tutorials/wp-content/uploads/2009/07/horror-tekstkopie.jpg",Cine terror
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91519
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png",Mi obsesión favorita
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91520
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://www.ksdy50.com/wp-content/uploads/2019/11/channel-NV.jpg",Nuestra Visión TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91521
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://p.kindpng.com/picc/s/20-205837_walking-dead-logo-png-transparent-png.png",The Walking Dead TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91522
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://images.samsung.com/is/image/samsung/assets/latin/tvs/smart-tv/samsung-tv-plus/2020-smart-tv-tv-plus-04-live-tv-channels-02-06-pc.jpg?$FB_TYPE_J_S_JPG$",Amantes del romance
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91523
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg",Novelas con la abuela
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91524
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg",Badass novelas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91525
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/b8/13496.png",Crímenes imperfectos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91526
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://e.rpp-noticias.io/normal/2020/06/24/072107_961651.png",Misterios sin resolver
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91527
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://i.postimg.cc/MpT3SSyv/JAJA.png",Cine ¡¡jaja!!
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91528
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://i.postimg.cc/HxQB2sCP/xoxo.png",Cine XOXO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91529
+#EXTINF:-1 group-title="PLUTO TV USA LATINO" tvg-logo="https://fanart.tv/fanart/tv/282670/hdtvlogo/narcos-55d867df26dd3.png",Narcos Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/91530
+#EXTINF:-1 group-title="PORTUGAL",▂ ▄ ▅ ▆  PORTUGAL  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153289
+#EXTINF:-1 group-title="PORTUGAL",•●★-- Nacionais --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153290
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153291
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153293
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 2 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153294
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 2 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153296
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153297
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153298
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153299
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153301
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153302
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153304
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC K FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153305
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC K SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153306
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Mulher SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153307
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Caras FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153308
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Caras SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153309
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Mulher FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153310
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Noticias FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153312
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Noticias SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153314
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Radical FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153315
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Radical SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153316
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI 24 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153317
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI 24 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153319
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI Ficçao FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153320
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI Ficçao SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153322
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI Reality FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153323
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI Reality SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153325
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP Acores
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153326
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP Africa SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153327
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP Madeira SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153328
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP Memoria SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153329
+#EXTINF:-1 group-title="PORTUGAL",PT: Porto Canal FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153330
+#EXTINF:-1 group-title="PORTUGAL",PT: Porto Canal SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153331
+#EXTINF:-1 group-title="PORTUGAL",PT: 24 Kitchen
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153332
+#EXTINF:-1 group-title="PORTUGAL",PT: 24 Kitchen FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153333
+#EXTINF:-1 group-title="PORTUGAL",PT: A Bola TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153334
+#EXTINF:-1 group-title="PORTUGAL",PT: A Bola TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153335
+#EXTINF:-1 group-title="PORTUGAL",PT: Afro Music
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153337
+#EXTINF:-1 group-title="PORTUGAL",PT: AMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153338
+#EXTINF:-1 group-title="PORTUGAL",PT: AMC FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153339
+#EXTINF:-1 group-title="PORTUGAL",PT: Apanhados 1 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153340
+#EXTINF:-1 group-title="PORTUGAL",PT: Apanhados 2 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153341
+#EXTINF:-1 group-title="PORTUGAL",PT: ARTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153342
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153343
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153344
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN HD (H265)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153345
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN Movies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153346
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN Movies FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153347
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN White
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153349
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN White FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153350
+#EXTINF:-1 group-title="PORTUGAL",PT: Baby TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153352
+#EXTINF:-1 group-title="PORTUGAL",PT: Bacalhau Com Todos 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153353
+#EXTINF:-1 group-title="PORTUGAL",PT: Biggs
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153354
+#EXTINF:-1 group-title="PORTUGAL",PT: Blaze
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153355
+#EXTINF:-1 group-title="PORTUGAL",PT: Blaze FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153356
+#EXTINF:-1 group-title="PORTUGAL",PT: Boom 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153357
+#EXTINF:-1 group-title="PORTUGAL",PT: BTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153358
+#EXTINF:-1 group-title="PORTUGAL",PT: BTV 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153359
+#EXTINF:-1 group-title="PORTUGAL",PT: BTV 1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153360
+#EXTINF:-1 group-title="PORTUGAL",PT: BTV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153361
+#EXTINF:-1 group-title="PORTUGAL",PT: Caca e Pesca
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153363
+#EXTINF:-1 group-title="PORTUGAL",PT: Caca e Pesca FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153364
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153365
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal 11 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153366
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal 180
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153368
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal Panda
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153369
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal Q
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153370
+#EXTINF:-1 group-title="PORTUGAL",PT: Cancao Nova
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153371
+#EXTINF:-1 group-title="PORTUGAL",PT: Cartoon Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153372
+#EXTINF:-1 group-title="PORTUGAL",PT: Caçavision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153373
+#EXTINF:-1 group-title="PORTUGAL",PT: CBS Reality
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153374
+#EXTINF:-1 group-title="PORTUGAL",PT: Cinema Portugal 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153375
+#EXTINF:-1 group-title="PORTUGAL",PT: Cinemundo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153376
+#EXTINF:-1 group-title="PORTUGAL",PT: Cinemundo FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153377
+#EXTINF:-1 group-title="PORTUGAL",PT: Clubbing
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153379
+#EXTINF:-1 group-title="PORTUGAL",PT: CMTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153380
+#EXTINF:-1 group-title="PORTUGAL",PT: CMTV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153381
+#EXTINF:-1 group-title="PORTUGAL",PT: Crime + Investigation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153383
+#EXTINF:-1 group-title="PORTUGAL",PT: Crime + Investigation FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153384
+#EXTINF:-1 group-title="PORTUGAL",PT: Discovery Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153385
+#EXTINF:-1 group-title="PORTUGAL",PT: Discovery Channel FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153386
+#EXTINF:-1 group-title="PORTUGAL",PT: Disney Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153387
+#EXTINF:-1 group-title="PORTUGAL",PT: Disney Junior
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153388
+#EXTINF:-1 group-title="PORTUGAL",PT: E! Entertainment
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153390
+#EXTINF:-1 group-title="PORTUGAL",PT: E! Entertainment FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153391
+#EXTINF:-1 group-title="PORTUGAL",PT: Fatima TV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153392
+#EXTINF:-1 group-title="PORTUGAL",PT: Ficcao 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153393
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Acção 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153394
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Animação Falados Em Portugues 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153395
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Classicos 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153396
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Comedia 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153397
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Denzel Washington 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153398
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Samiel L Jackson 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153399
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Thriller/Terros 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153400
+#EXTINF:-1 group-title="PORTUGAL",PT: Filmes Western 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153401
+#EXTINF:-1 group-title="PORTUGAL",PT: Food Network HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153402
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153403
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Comedy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153404
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Comedy FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153405
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Crime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153406
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Crime FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153407
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153409
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Life
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153411
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Life FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153412
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Movies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153413
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Movies FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153414
+#EXTINF:-1 group-title="PORTUGAL",PT: FTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153416
+#EXTINF:-1 group-title="PORTUGAL",PT: Fuel TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153417
+#EXTINF:-1 group-title="PORTUGAL",PT: Fuel TV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153418
+#EXTINF:-1 group-title="PORTUGAL",PT: Gato Fedorento 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153419
+#EXTINF:-1 group-title="PORTUGAL",PT: Globo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153420
+#EXTINF:-1 group-title="PORTUGAL",PT: Globo Now
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153421
+#EXTINF:-1 group-title="PORTUGAL",PT: HBO Portugal 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153422
+#EXTINF:-1 group-title="PORTUGAL",PT: Historia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153423
+#EXTINF:-1 group-title="PORTUGAL",PT: Historia FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153424
+#EXTINF:-1 group-title="PORTUGAL",PT: Hollywood
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153426
+#EXTINF:-1 group-title="PORTUGAL",PT: Hollywood FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153427
+#EXTINF:-1 group-title="PORTUGAL",PT: ID Investigation Discovery
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153428
+#EXTINF:-1 group-title="PORTUGAL",PT: Inside Formula 1 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153429
+#EXTINF:-1 group-title="PORTUGAL",PT: Jackie Chan Adventures 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153430
+#EXTINF:-1 group-title="PORTUGAL",PT: Kuriakos Cine
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153431
+#EXTINF:-1 group-title="PORTUGAL",PT: Kuriakos Kids
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153432
+#EXTINF:-1 group-title="PORTUGAL",PT: Kuriakos Music
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153433
+#EXTINF:-1 group-title="PORTUGAL",PT: Kuriakos TV SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153434
+#EXTINF:-1 group-title="PORTUGAL",PT: Localvisao TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153435
+#EXTINF:-1 group-title="PORTUGAL",PT: M6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153436
+#EXTINF:-1 group-title="PORTUGAL",PT: Magic For Humans 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153437
+#EXTINF:-1 group-title="PORTUGAL",PT: Marvel 2 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153439
+#EXTINF:-1 group-title="PORTUGAL",PT: MCM Pop
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153440
+#EXTINF:-1 group-title="PORTUGAL",PT: Mezzo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153441
+#EXTINF:-1 group-title="PORTUGAL",PT: Motorvision FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153442
+#EXTINF:-1 group-title="PORTUGAL",PT: MTV Live HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153443
+#EXTINF:-1 group-title="PORTUGAL",PT: MTV Portugal
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153444
+#EXTINF:-1 group-title="PORTUGAL",PT: MTV Portugal FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153445
+#EXTINF:-1 group-title="PORTUGAL",PT: NatGeo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153446
+#EXTINF:-1 group-title="PORTUGAL",PT: NatGeo FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153447
+#EXTINF:-1 group-title="PORTUGAL",PT: NatGeo Wild
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153448
+#EXTINF:-1 group-title="PORTUGAL",PT: NatGeo Wild FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153449
+#EXTINF:-1 group-title="PORTUGAL",PT: Netflix 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153450
+#EXTINF:-1 group-title="PORTUGAL",PT: Netflix Kids 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153451
+#EXTINF:-1 group-title="PORTUGAL",PT: Nick Jr.
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153452
+#EXTINF:-1 group-title="PORTUGAL",PT: Nickelodeon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153453
+#EXTINF:-1 group-title="PORTUGAL",PT: Odisseia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153455
+#EXTINF:-1 group-title="PORTUGAL",PT: Odisseia FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153456
+#EXTINF:-1 group-title="PORTUGAL",PT: Os Batanetes 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153457
+#EXTINF:-1 group-title="PORTUGAL",PT: Os Malucos Do Riso 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153458
+#EXTINF:-1 group-title="PORTUGAL",PT: Os Simpsons 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153459
+#EXTINF:-1 group-title="PORTUGAL",PT: Panda
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153460
+#EXTINF:-1 group-title="PORTUGAL",PT: PFC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153461
+#EXTINF:-1 group-title="PORTUGAL",PT: Portugal A Rir 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153462
+#EXTINF:-1 group-title="PORTUGAL",PT: Portugal Tal E Qual 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153463
+#EXTINF:-1 group-title="PORTUGAL",PT: Rick And Morty 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153464
+#EXTINF:-1 group-title="PORTUGAL",PT: Robot Movies 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153465
+#EXTINF:-1 group-title="PORTUGAL",PT: S+ FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153466
+#EXTINF:-1 group-title="PORTUGAL",PT: S+ SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153467
+#EXTINF:-1 group-title="PORTUGAL",PT: Series 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153468
+#EXTINF:-1 group-title="PORTUGAL",PT: Sertanejo 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153469
+#EXTINF:-1 group-title="PORTUGAL",PT: Slam 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153470
+#EXTINF:-1 group-title="PORTUGAL",PT: Star Wars 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153471
+#EXTINF:-1 group-title="PORTUGAL",PT: SyFy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153472
+#EXTINF:-1 group-title="PORTUGAL",PT: SyFy FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153473
+#EXTINF:-1 group-title="PORTUGAL",PT: Sylvester Stallone 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153474
+#EXTINF:-1 group-title="PORTUGAL",PT: Talking Tom Cat And Friends 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153475
+#EXTINF:-1 group-title="PORTUGAL",PT: TLC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153476
+#EXTINF:-1 group-title="PORTUGAL",PT: Tom Cruise 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153477
+#EXTINF:-1 group-title="PORTUGAL",PT: Touradas E Marradas 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153478
+#EXTINF:-1 group-title="PORTUGAL",PT: Trace Urban
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153479
+#EXTINF:-1 group-title="PORTUGAL",PT: Travel Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153480
+#EXTINF:-1 group-title="PORTUGAL",PT: Travel Channel FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153481
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Action FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153482
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Action SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153483
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Edition FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153484
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Edition SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153486
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Emotion FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153487
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Emotion SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153489
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Top FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153490
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Top SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153492
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Record
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153493
+#EXTINF:-1 group-title="PORTUGAL",PT: VH1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153494
+#EXTINF:-1 group-title="PORTUGAL",PT: Vingadores Animação 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153495
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dtW4ZHbK6fhAcYfhUL4x7IWeclEzncSjUxzTlSSQ8b-6Q.jpg",PR: WAPA AMERICA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117693
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dtW4ZHbK6fhAcYfhUL4x7IWeclEzncSjUxzTlSSQ8b-6Q.jpg",PR: WAPA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117694
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/ykgQhJH-sW7Kaqvf8Hx-5_klO2IsHcuCjtFumujV9EASr19z9uHBURcjeyOMQXmB9PRfzGJslNSohrMy8_VyycrcRkHslbouz_xo8IWMGqDgSup8yCllTvjpUUoe4B04aNFHIspZZ4q0Cq2PfWHGVw.jpg",PR: WAPA DEPORTES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117695
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://www.jumangistv.com/logos/mega%20tv.jpg",PR: MEGATV PR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117696
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dtfOC37VMVkRNiqnHNuyOdr.jpg",PR: WIPR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117697
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dt3MC-hJUYnAtS890kXOVfl.jpg",PR: Telemundo HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117698
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dupEyqz_8oBwFUop9X21193.jpg",PR: Univision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117699
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://www.jumangistv.com/logos/telemundo.jpg",PR:  TELEMUNDO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117700
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JN9nlQ6cXCmRYi6oUpv7FuABP5vsgWa-DU3sLx53wqyO6qWXljdDbHPxuMWV2dj4AQ.jpg",TeleOnce
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/142873
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JCWUnDJPlW7Lh0V_yfkPnCL50AIrDgf2nUH8TVxrR2Wg.jpg",LAT: Mega TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29366
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Puerto_Rico.png",▂ ▄ ▅ ▆  PUERTO RICO  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30421
+#EXTINF:-1 group-title="REALITY TV 24/7",24/7 Alerta Aeropuerto SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149351
+#EXTINF:-1 group-title="REALITY TV 24/7",24/7 1000 Maneras de Morir
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149352
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="https://carreteandoblog.files.wordpress.com/2018/04/a.jpg?w=320",24/7 Mayday Catastrofes Aereas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149353
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcEd3x2L_c3OqUNvX_IxwhbGA-BOq9g6L8SLyT2qrhKCxGYQRN-0CvYw1AfO0yOL2zQ.jpg",24/7 Lo Que Callamos Las Mujeres
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149354
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/XonkqGJHHfGo5UcmLePs6dlGIzq9tZIgJK3YpKZcLhDrTCBfBrXIg2UdVc_4MAlWMtYinxKKX2nz0P1hqfJgKPMukpECK624M-Z0xXlyGLM.jpeg",24/7 El Mundo De Beakman SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149355
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/UTGjwfgs4piJBMSPq4SMQwaZ7c5herZm-kohg0Bh3skxa5NMyvuwQ_Ab6IXq5Yss1bCyzsxxCWNdOmEh11OQqClo_vVJ5GF0-CxSnQcxY0vAXKOExrWaBNRr8otGtw_aME8hsBJjs361zYlZsi4S9GEx1u6rQ1sAAhTc0RWerm8.jpg",24/7 Caso Cerrado 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149356
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/UTGjwfgs4piJBMSPq4SMQwaZ7c5herZm-kohg0Bh3skxa5NMyvuwQ_Ab6IXq5Yss1bCyzsxxCWNdOmEh11OQqClo_vVJ5GF0-CxSnQcxY0vAXKOExrWaBNRr8otGtw_aME8hsBJjs361zYlZsi4S9GEx1u6rQ1sAAhTc0RWerm8.jpg",24/7 Caso Cerrado 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149357
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/UTGjwfgs4piJBMSPq4SMQwaZ7c5herZm-kohg0Bh3skxa5NMyvuwQ_Ab6IXq5Yss1bCyzsxxCWNdOmEh11OQqClo_vVJ5GF0-CxSnQcxY0vAXKOExrWaBNRr8otGtw_aME8hsBJjs361zYlZsi4S9GEx1u6rQ1sAAhTc0RWerm8.jpg",24/7 Caso Cerrado 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149358
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/UTGjwfgs4piJBMSPq4SMQwaZ7c5herZm-kohg0Bh3skxa5NMyvuwQ_Ab6IXq5Yss1bCyzsxxCWNdOmEh11OQqClo_vVJ5GF0-CxSnQcxY0vAXKOExrWaBNRr8otGtw_aME8hsBJjs361zYlZsi4S9GEx1u6rQ1sAAhTc0RWerm8.jpg",24/7 Caso Cerrado
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149359
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://vaktar.vip:8080/images/8692313fd5809840bfe9306e4a700e63.png",24/7 Laura Bozzo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149360
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="https://i.ytimg.com/vi/_xObp2uVUNM/hqdefault.jpg",24/7 Exponiendo Infieles
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149361
+#EXTINF:-1 group-title="REALITY TV 24/7",24/7 Cero en Conducta SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149362
+#EXTINF:-1 group-title="REALITY TV 24/7",24/7 Cero en Conducta HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149363
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="https://www.pngkit.com/png/detail/292-2924194_rosa-de-guadalupe.png",24/7 La Rosa de Guadalupe HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149364
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="https://static.lared.cl/wp-content/uploads/2019/11/19152859/COMO-DICE-EL-DICHO-480X480.png",24/7 Como dice el dicho
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149365
+#EXTINF:-1 group-title="REALITY TV 24/7" tvg-logo="http://jumangis.com:2082/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1GOAoa8yB8OKRBATopybkIvrt17akQ8TmciBZ5UzXUEvHVfkJ2VI4jOccDBbjigFDtnoUM9D1OqvaQ9I_xMZSBTDslyO1T9SrmksVlA_LNvd1mZCKQ0Jo__mqJ4Qpj2LZtbLgsvkaLPXHmnDM7eXGpYMlaUptpvrCDEUwPcB0trnQ.png",24/7 Just for Laughs
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149367
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2F1jA-1ju0gIKnLBrxpLgI944x6P7SuQnnNqtiYg0b7h8uy6EuOxmW09JQvD25fqw.png",Rewind Radio y TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231614
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl97gk7yQR8zh3NzDTe7_Ns9p6yu6kzW5q0g80wkFdK_ft2J6ORpTBjP6W3QsZj9-TA.png",Retro Plus TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231615
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl7NftG2ROFDJt-IFnuQ2Umeq5X8Sdi6kL1sI1T2pnSM_CXdelJ8SRgnTvFv6lnILuA.png",VClassicTV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231616
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRb_mJpth0WY8JVkMNPsFOncsYZse7pJD6qNqAgzVM6T55BedQPw6FjOL6oeRh6rCbg.png",Sativa TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231617
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlwJAd2A1HP3Uah6P7snxq6A_zniAcejAfR9uuk3nmH5dyznwXVgOAh64DBDcFM5ZUQ.png",La Chilena TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231618
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRbFenQRmH14woFzXCkl-CZlcBYr0w8PaK6jcz78z2nG45NoPvv3VcfPur7xbLMgQjw.png",Spectrum Channel * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231619
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRcpVznVOBLmA8d2nTwk0aElBWTUdCwaKZ0MA3csejcjU3HPDFv13bqqrA3t2DtT5ew.png",EnerGeek * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231620
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRUAypnW6bYf4JXJCz_kVmaZwhVRKAdU_15Vxs76i7nW3N8XUAFjMPxuaBhLR8-w-Dg.png",Modoradio TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231621
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRfJSOEZfIrg4JtZVOEard8Hx0t-NnGsnMIbG6vzBjy2o0F5VEirYz5Qg1kfrqjEURg.png",Kanade * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231622
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6LSOo5x-oujGJ4UKEZDuNACS6AJxOBgItFW6aOhty5ZXxAArO82FZUF268hfub7cg.png",RCKTV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231623
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4r13VH_P6npwia9_8CUjz7t0QDj20AHkavGU3Tg3KLSuiQ4uvMWqNxHxKzjbvh7Xw.png",Ruidos TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231624
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl97gk7yQR8zh3NzDTe7_Ns9p6yu6kzW5q0g80wkFdK_ft2J6ORpTBjP6W3QsZj9-TA.png",Retro Plus TV Señal 2 * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231625
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2VkNYvIPnGFRkXY98A-Sl2d-CtIaVRvYZaBS766Oj2s-KQf_r6qZeX32QoTkNPWpg.png",VClassicTV Tropical * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231626
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzswrY0lmDdWHWaEQbXwJW8xtUEl3yDPooZOR0682NFJs0d12KW4olYBbXHHGOfJ7Q.png",Latinos Radio * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231627
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQIUVF06X2baFPtCAMhQuBnrOgyeEiyYRnFb1f2V9YSQ6j6qHoau4VU2OTRYU2shzA.png",PlanetaTV Music * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231628
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQIUVF06X2baFPtCAMhQuBnrOgyeEiyYRnFb1f2V9YSQ6j6qHoau4VU2OTRYU2shzA.png",PlanetaTV Movies * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231629
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRRckWCHYbBYRWhr-9MEPpttBn1lSVKfHKz_zlCAdhCtcyR2wyXoRiXQBZOu0RET77Q.png",Karavana TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231630
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl__PKl7_gKQIzKuY5BZodhVlR8KQVrV12SQWqJgiMMvdDNRaxmW4leE2GhRzL60adQ.png",Radio Continente FM * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231631
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8ZbhuMNU5lqU_-3Z3kh3FFAG_Crrtjxf53ZiMR-wtKWy_yckZyYzEVbz8zJwBkSGQ.png",Milodon TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231632
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8BbWshxMcVFH28UU-_D-UMx8abYXDRJsiJ3ICTzUdNGYohIXRA_mO64g0S0xAVgnA.png",Canal Noticias Colchagua * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231633
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3N9X8KE6w_pQi0DwMLxL11taN3qkxIkYO-FfrsrLorCFLsxjqMRZ6Wl4os2Jnp6wQ.png",Red Circle * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231634
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcE32fjA2aTWk6ek4qbEz_LoQyj89GvpWxEr994yKbLywyOckjhZ0B6OnHqffLDwh1c.jpg",Canal Pais * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231635
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2UFg8Hyi-In6NrweoUR6Hv5LFzsGhFFrFJ4lbS9X6QvSxk9WOMSO-Cd0DGaLsd4jA.png",Alerce TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231636
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0kTcTV3boKWgN_eTeN1se-SEFs-Aw-MZIIMUNFjFWgxpGdiVfI_jKE4ut3OzOTrgg.png",House music TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231637
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3c8ZdUcvZG7bRTgbDZumcMBg7ZREFbBL15YBN9Z6fH2mtChf0_MfY5qkqMBWZRouw.png",La Voz De Los Que Sobran TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231638
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRYrSCIy_IXMpSlmpXEuuHJNIE42-r85z67jNn16kD0vzEZzW-G6RGLRcn8Ax2LHbvQ.png",La Melinkana TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231639
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRbeDkWEeqr5Ag40aSFZbfE6ojZcxyuGW95GKM_MfHkcErPTgEAu_dwa7h-3QRyOFJQ.png",Sureña TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231640
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRf8MAmRAgKllPAwzkuz5U85JMljk99I4rJyWPiCxjfNfPj_cd5lJmOurlIbSlf69zw.png",En la Noticia * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231641
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRWoXArYDtYjZzVxkbB0NzkKmnxX5WXDPAMNNXP_n0nozPRwLJRpk4zpjEQXg_t_O_Q.png",Radio Acogida * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231642
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRWW03brai3Ww5z8W5B65OIr-Q0r3uc_u4oAr7CscaoQBWln_NIN6b7xZOhpv1MojfQ.png",Siete Vision San Fernando * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231643
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aReEH0_YUSC38mOes2OaiJm0cKBK8Lm0xGrH_ZkdF7EWR9nxVY5ligeWp-MZzZK055g.png",Veo TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231644
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRfxIRFjOuymVAKnTv_Mi3yOJM94Ln4PeWInYadZnjMBi2HJh3gTwouNvh4-7ZNRpfw.png",ATV Valdivia * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231645
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRdXe7hHDZkZhpubgm5WjQaBd6MrrBeAvDgCRcSKTrbnbEeyiaj1rPHC1jh1SRQj8Tw.png",Canal 5 Los Vilos * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231646
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRSW4psn2iSJJCUeXUU6OuP28njqxPCMgQ1SVyBEuHrLAi7eu_qp43gDB1--39RZddw.png",Cauquenesnet TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231647
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRUUCPL-E5u3G8UXPTUF0SU5A6mdp2qF54BHR7FWdonSkfecJ1x_RFaU4eFWesY_0gg.png",Tu Canal Colina * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231648
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRa0E0xxWuqS9AP6gVgTp1ZL-E4RtNLviyB9W4_0PitN1Tixz3cVAB585v0lXr9xdWQ.png",Televisión Minera del Norte * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231649
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRYJSd0aoA_IZmyj6rm3kGVYwTW72-kriYOaRvy2uF8ifgmapGvdbrqZPTavYCzjHNg.png",Canal Alta Frontera * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231650
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRch0Q52WR4sGU1k-G22IvHRPoFAv4d77uWlUvABcXQmy9D_tqRAVU47MYoiwi8URSQ.png",Señal 21 * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231651
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRU5Bs4uCjYlcGnVYwL-cAZlihjEW7UDICIE08lq5ZM0vtusdVsu2pooXrLEdHrNUdg.png",Flow TV+ HD * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231652
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlz5wELXQ2CDPpg1WpQ5ZMYf0BTZnnvbmDDFmj4oAmiXkzphoZytIwZoJM29l1Nlqeg.png",Pinto TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231653
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRdKkw7anBquf6zidkLViUKkYC_uS8GilRea8K-qJxUu6B8fZ3p9USTLJdRgj5AokoA.png",ClickRadio.cl * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231654
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRePOuYhI22bmuWHZNBIcc16YIMJ8Qa3x18v-8vXmkSp49jm6YMFMW-63PmZnBCYxmg.png",TV PRIME Music * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231655
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRRsNvdbhzrXlimaiN126Z7SsaH1NGhq1ngkqXg5eacqkVwuVqhZ8aopeIC2eCmyzrg.png",Los Sauces TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231656
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRWYCDL429wJ7D55mVpLzFRCZamAcjFW4k2xuxUDBWYISTqgFdwqoFgJKGq_ZluBD1A.png",Unetev * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231657
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRcIXcN84kpjw-F9LQ-1rVJQ2bKEokChM4gzT387Erbr2p2kw9Y31bEBeZBPXe3xqUQ.png",Radio Edelweiss * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231658
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRZX1_ecDRispyF4DaB5TE1jrAiStbhPb1kullVFvtuT0sacJwk0Bufojb7dZ3bxfzg.png",Eternal Metal * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231659
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRXakdncD4cGSwGoScfS_TFUKbERkTjsBm6LB3xq3eYe5qyVYtIGO1ER1td_pId1idw.png",eplusplay.cl * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231660
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRX7xXlKOfmxqQhIvtuDPZvyw_z5aFvFEj3Yq-NkEg57HiwXZWycMhfb6a6uXg461vA.png",Santa Cruz FM * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231661
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRWu7A3wUX02RUGHHPetmAaOeZXKWeI7aLefZpfhl3GcXFDvOpLsFmoJMdKh3HqC7YA.png",Radio Area Bpm * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231662
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRTFa1zMqreMVHFnQxjZ09a7NHmxvCTZWbzzlO5ysiC_Kfo8Xre8Ek3RiRSmRFGs1fw.png",Telecauquenes * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231663
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRVoQi_C_R-9S4nktbe53609gDMiIGiMmnMSjBbXSx11PrgSJdzDMYDL1UqerUr8cxg.png",Moni TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231664
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_W_js4SpX1Sr-ZHWs8o7LbR6Gis0_4dIHAf1KO5nDm4XNmklSu1tCPpqO3XtQxjqQ.png",Lanco TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231665
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8UKwqEYDKHMVr8MALS6G_ZB1pYh2C_xXgRU3lGbdqzD6JHzTfmqeidvA0ox-Tp1Nw.png",TVM * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231666
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0GSbrdF7aQeG9yA-W_pXLOQ5OoEN6UkVCcqkopUX2vRDoya88XWaU2-DIPouonwcQ.png",Suyai TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231667
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl30QCTX-Z5iFy5WninZoSE9y5zbBJ5nDwUm0LnjiWmRxIarKLUSk8-JjorFroyumHA.png",CDR * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231668
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4zKKZu4_zvBAisYqUSZmXtzuJWE7NxySkZL98O-nFMmUY9M-Lm7klIEhLN3r4oyAQ.png",Autonoma Radio * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231669
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-gaC_KqK6LQ4gzsjWbgtHgTJpSVEC7_q7sGud38pPyOtp96od6tgw_wRNIyWUQrrA.png",Freestyledjs * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231670
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlwkTdi5NjwfoM6VZ2LVFRAlol5qcv8HlXt4r-Kn4Cuqfmjh0ZGmW3m7V3UScFhRHBw.png",Radio Q * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231671
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-zmdI1iWdZM_wLzGXdB3pBUJMqE9-1QiI4Ezp9w5N5lvbryvwKwB8ZUNNVgNR59Pg.png",Dance FM * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231672
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3f8X5zVigr0TNy8pOtJIFsOZR3WTmVTuAv0qm0Z5GJPpdp2A-MHBNNN4VS-234vTw.png",Solobailalo TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231673
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2vqehidlLs1TkS_J-e-0ueHszTMHm7DYQ1sLjcUTfE9OTuJ_hwWjuiBSvFKL9T6zw.png",CRTV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231674
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0yUZ4BI-HRH4hQfCRU_emEl1XnZfiUlxDjmMKrd0zTs4-aMxFhaXMLLBMUm-pd2NQ.png",Opinionsur TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231675
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoglRR4uSR1GU3amh3LSvpi6AEIorLBnjs3ITz9SZAaLFJ4Wvx-25Ial8gG34NniGRFvv3ubpD6EsFqfuwVg8zG59GrWsb1HVk1WZkeg4aEjP7HsoY4zLbTw3U_6x8JwIh_lFuwJbOUWeq-Z2smPLQFC.png",HiperTV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231676
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3DQkqAtFcQX_Hk5VpCbJh0V35CEvnSlgGttNoQOTFg0YJ7mC-H4_GHJs5yFzV3uMQ.png",Onda Radio TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231677
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlwr8O3d6fVx3sawCUEqtbMm32AcP6Wm_etCYPkPbjv3ZijAbyo6zdoxAcjrEzHUsuw.png",Caldera Vision TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231678
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1Q-I6KL7PyQPaBzE-CrWyzdnDhnlVJ6umMyEDIUGQPSfPCCgLmhfNXLRke2IOct-Q.png",AMC TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231679
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQCPlpvJaEGhMyANMp93Qaxp8dTAg4k7XLzO8Nk0901qIX7etMSKVgJQ-WMFub-0KQ.png",Super TV * | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231680
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiKUCYDLfd-brRVF395k8wYBoX5GxpjPn3f8wiq67-9vpht8vtcXnzuQXP9o75FEuIpbZeORZK_-oJtFbN6sVrWf_I0dZMzCxzMt3M9-Gwk1Av0xutfdMUjcJxMrP9-owBAuD2e44nsGJx4s6Cs7E3w.png",Infinita TV Premium | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231681
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmog0MVlS1ICRe2ZwEguvpaNQmxDA5OmGMmzGoYn1yPp9JhhUFieCjLngNHjbO54k881SSPkdSI280ImfHZHUQds5D-PUfcVJqMTZ2kc9X05KYw1hA7ehCp5kT7ende0csS0LHhWlCZsNKL8Seil6tEkd.png",Frecuencia Musical TV | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231682
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl97gk7yQR8zh3NzDTe7_Ns9p6yu6kzW5q0g80wkFdK_ft2J6ORpTBjP6W3QsZj9-TA.png",Retro Plus TV Señal 3 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231683
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzUmNHRoEBqAKRaI9IyFxKR4pSwQkb0VAiZH5pcCF4O6SVqftupZHCQPycKWrHZK-Q.png",EvaStream | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231684
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9cFkVLhBTo3P6xE9W6vaD6Jnem8_g_1TW9JxWqcbBMivILOZ7RraSgwi0U8_UXj-Q.png",Eva Retro | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231685
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0bhgwVuVOvYfBMlvEjYF9BsaWk-DUFEoMUodmWGpzl3wjptjmKaY0G1BleR3BFgRA.png",Viwix TV Terror | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231686
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0bhgwVuVOvYfBMlvEjYF9BsaWk-DUFEoMUodmWGpzl3wjptjmKaY0G1BleR3BFgRA.png",Viwix TV Series | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231687
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0bhgwVuVOvYfBMlvEjYF9BsaWk-DUFEoMUodmWGpzl3wjptjmKaY0G1BleR3BFgRA.png",Viwix TV Accion | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231688
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0bhgwVuVOvYfBMlvEjYF9BsaWk-DUFEoMUodmWGpzl3wjptjmKaY0G1BleR3BFgRA.png",Viwix TV Estrenos | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231689
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQIUVF06X2baFPtCAMhQuBnrOgyeEiyYRnFb1f2V9YSQ6j6qHoau4VU2OTRYU2shzA.png",PlanetaTV Kids | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231690
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-Xw-aJ7G9QAMLU8iT6-cSWsSG8P780AkRzfOkVoqVVwC0XGLKhX0mkmcnmhepde_w.png",Retro Play TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231691
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1BcSIrF4VpP2TAvfjoSNGW2lCZU3BAnNlnvkY4VXtD4U-Ik1tkEgHGbmiAc4w_LDw.png",NTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231692
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogN7U4w3w1LHgNH7nV-wbFNLPTeG74j0y6m6nc8LJdDBHN6WZ58XWQq7zs6IPare5f6dsLMr2eWfxK2hiqSAT3ryZ5kuqr0KEiGiimi3W5Yin6czhj6Z_gwjXD1ul_keW2GFA1DVUIuLF1Mx3oorB3c.png",Pintana TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231693
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiXy7mGLczfzFl6gmfWwq7zSlQE8S--YmbSjTF_A67J0THu_n4MYKbFC4ONwOBKEq6ObRFNp2Z-NUNFwR9N4J7m5FjZ2bdrPWe7mCxQ_ArvxF8r5xiiSAzC9p_kJC3tLxqSPt4iFR7kHep1DmYt9O4T.png",Pichilemu TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231694
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohQuViJSC5c99yUOAKTD5w7rO39VTdhMBbQCg1UYpz8oYwQswemwB8SUVgvhB6ghLtNnHZAtij1PTFVcp44CEKjFbqOeV0JKVgWaWLXZmOlnSZkunOClP5UlV4w08ExDIVn2_e7ZE--ESV-_GWr9ogN.png",El 3 de Conce | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231695
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0JyPexVnbDkCGXglJ0EknP_NUJWsKgb6VFvEg_qkrtfPhvJ80VLl3SRITgVXHxQaA.png",La Granja TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231696
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5Uyrw9lphmlc_E0VMSCwusIf1ttmmXYM428rphyvMpJaPW6EkvzX6cBLyuy1HNPQA.png",Exprezion TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231697
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-Hf2JxeexyjTPwBK8TxZFUFpw8J9hc8fONWRPsG6yhb_BQwjTqlHkNmGigb5EtYUQ.png",G Vision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231698
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohbDBvyD1sq3UgbTm8-gm5JY9RcDpwy9ocmWHcR6FAtFi9KPidoh1aUGNw3XyvJO88ZrSiEo1g7IzicjshrUfOyxWslfhnaVUmTUpwZKbblJHHsZhWuqtsiXitpmeJWSF-kwkQcgFNE0yHkhd25QUmC.jpg",Wapp | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231699
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiFObPi_63Juy62RpoN-MoXwkzMSP_0cPb6wuH0cPRc3lhBZLL3pMwqjGCqRvK83o4LGrNdhgwZ4fenUz4XvZVcK0oT9RnQUaq9JGyH5pN7DjejTibDj8qQOkVz75wpOuZ64j7J6Ynp7o5K5-zZq6Oz.jpg",La Red | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231700
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiaSARR09XY3bgcuZb19jAf1LP4xv8zqzN0B2zYDjizolcO1xbMUu8_EAucPEeRuvqZKJokA_baCZWUaELKyONH9tawVx4fjJ5P6tAJqxUr9Peppq7s5IBvwKPAnNOH59P212SnLwE-9QyZOHxE1XwZ.png",TV+ | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231701
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_8f79NFMLPZy8HUkam6QOU9GnNuo-15zF5Z2n3pj7USKe4KPklYXVZDMaWs5rgugQ.png",TVMas2 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231702
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogQt2IfQdB95Vc1tillJ7bKw4XNaioynRFZB0ggKfoGnU2_z8zQqfmcC3BwgoKxWpYRptyQw4Rn6R02AoUBNkkn0ljuroiIJII_Kjn8ARVm43rwJrNkjZYhleLTzsTCR0szvrqX6ltQj_hWI5dPZoKp.png",TVN | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231703
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogQt2IfQdB95Vc1tillJ7bKw4XNaioynRFZB0ggKfoGnU2_z8zQqfmcC3BwgoKxWpYRptyQw4Rn6R02AoUBNkkn0ljuroiIJII_Kjn8ARVm43rwJrNkjZYhleLTzsTCR0szvrqX6ltQj_hWI5dPZoKp.png",TVN - 24h | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231704
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogQt2IfQdB95Vc1tillJ7bKw4XNaioynRFZB0ggKfoGnU2_z8zQqfmcC3BwgoKxWpYRptyQw4Rn6R02AoUBNkkn0ljuroiIJII_Kjn8ARVm43rwJrNkjZYhleLTzsTCR0szvrqX6ltQj_hWI5dPZoKp.png",TVN - Reuters | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231705
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogLXaQsI3hoQfaREvQEcW6T9Ntfq0X10tvDfIIQ66YtQnjYqkTS6qj5BjyWwFPPc2ToxcfLGDSga26cJkpSZML7eIER4eESvEIwH2DVL3_ov-AHZIQ5pqvIeTwQbyK3aYKP3RK9HuqdoapfnSBOZNnH.png",Mega | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231706
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj1OncZQZ5J0GDcX4LwH__LBBzwt8ooEtEMuo1WPwfLU92lPH2O3tGsbCIaC_riuQtL1Xk_v3GvdKldkikgKfXbNb514If2HQo35kAlEJJMvR2mjEfCzC5Tx9CgWwDdMWUhB2Z9Dl2eS-ShwuvA_wyJ.png",CHV Contigo | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231707
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj1OncZQZ5J0GDcX4LwH__LBBzwt8ooEtEMuo1WPwfLU92lPH2O3tGsbCIaC_riuQtL1Xk_v3GvdKldkikgKfXbNb514If2HQo35kAlEJJMvR2mjEfCzC5Tx9CgWwDdMWUhB2Z9Dl2eS-ShwuvA_wyJ.png",CHV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231708
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohNnId2g5xaeBbAxBRn_8LORcaXREz6olGHHxGjdyFUc0soIcitRrSnYDedzXNp7Tlq8n83Yev5hXC61F2v1ZvOGmLsiyHuR5QXcKMXbDaIM9I_wx1L_EpFN3ey7ceKwjBV4PckZ8v2k0BUHX1XC8tq.png",Canal 13 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231709
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4QTZeS3yepaHCtk9aKsqeONHYFGc9davIgYusTbUA6ZKnM9JoeVcAKEaXdd4hK-_Q.png",13 Cultura | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231710
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxY-dUZ8zAoQhTl8dEZLy9Qq6YNyISjS5ivAUa6hUY5dgpDlRfUZa2ou2GzF_48C-A.png",13 Entretencion | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231711
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_4KXxO0d5TFQn4JcHpFHKxdfP0DVZiNzptuSS3aLcawBuAzP5AOZixzttZeJeT7uw.png",13 Prime | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231712
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlz1ZFt2m4Bbm2jFFnOupn6pK6aY0hOAhMdY065siTKxK0p7xx9BUa5WfdamqeU0LWw.png",13 Teleseries | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231713
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6GCRQo0ljQ3Nacaq1yot9fsZ8RHeAbisSYs3PWuSnGkaCPeGYOv7x_2vFQ-YEy8IA.png",U Chile TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231714
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxDLGD4MXCCsxePLYm8Q13l66jGxGLZMiCqKIgaVDSAgd40NO3d8k6Gzp_AXWeYWAQ.png",UCV 2 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231715
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohOdq__5BLi7OPfWZOwLf_HsHTXkHBvOugJopoRSUeKZEas4GPFK1HJZWxtTAFG1Ixy8iPJsQ4Q_k4rX0uvIHEZ0Y-gBPmVGR2zu2ripAqWWgpUdlhxyIUC2bM_HuM78lSIKXNgoyNecBYr8HlJ87Nm.png",STGO.TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231716
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogUSKOtBvkRt_4-ncpTJDIpXEZ3C0SNhggNH_ZpnvahvjiWzdbNERukllkmWh0IdVRc4awevpeaOz_9CU79SOgCKrZSzLSrEQ5x3SvuOq6Skt9tcLHyZc4eFAMZlCuiilqN__TbngJ-K_Zbj3bD-dOx.png",Campus TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231717
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyX5_HoV7uA3nywQUL9YAeSkyfIZKcD4gsWcaqb2Ubrb9tDU0gqUEFF_btQ73whXrg.png",TVU | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231718
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9JK7RQRVukfBGW53SMT1CQ0W3s7-NgELz7i7om-PoLncQ9ZmrucN8C5M6pX5ZCB7A.png",Universidad Autonoma TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231719
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohztkPuWCBoMdj0cdWmFDWP3vow5jQ6jndk4qGyAj1c-sAx8e_4zrg_-Pn65fhWScrLVHwNCWD2aYTVG9usXvnnKGRQ9fVI6mk_oUIFODVBo7kVUFyBY_1NPY_2u8MDS8-rSEPqR3wkkhlBCgVm0cWo.png",TV UCT | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231720
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogD7BeDwhL25zkU0l6k7QKYGMlF_l_CJRy4A4eV6Ua4St6b_KsrYORhXAS317GEeLo9qt26SLpz1tfASGwh9kk71Ynyl_Pl7BCrWMobe-hsoB9I11avmrDuXQLpxihyL0OmQxsDHBRQiOpdqE5ft5Xj.png",Ufrovision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231721
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohqYFIIr-nnqGI4sGVq400XwlG5Jp78Wy1NI4KDNLvlVhS4249IXK4TcANxTkFZw4FjQFdHh3GfFlalOGH-IwdazteGqatwfuKOv1odu4yBXVz6OY8NzaUAvaVPfFK4SeuL8XSZ9_iWy3uppPNkevtY.png",U Los Lagos | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231722
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojDZ3o5ES2NOUp1zUaSwic_0_5QZ05dVL9pU3G6eRR1DUMLeiE1_Zv0PiouViNCISSYLDQOvVjqLZF_XiN_QJgARSeQp0O2O82pEjDF4rGYGgJvvG_CRfHdWM8CZtqj7ig8XH8Ekyp8oUJRUtjQEsmQ.png",UMAG TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231723
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojDZ3o5ES2NOUp1zUaSwic_0_5QZ05dVL9pU3G6eRR1DUMLeiE1_Zv0PiouViNCISSYLDQOvVjqLZF_XiN_QJgARSeQp0O2O82pEjDF4rGYGgJvvG_CRfHdWM8CZtqj7ig8XH8Ekyp8oUJRUtjQEsmQ.png",UMAG TV 2 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231724
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5tUPP7NL-Bnvjs7-kwWcB4W8qQEV7F7k4kDMjbwZm50rZjOfyhPdYmWZVrNdwz83w.png",UesTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231725
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzM0sHjrM0esM3O096Z3SPSBDQ7sOusvNW_XFVrcXA9B1bnxHBi-o3Kg_1Ug9nncww.png",Camara de Diputados | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231726
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4IdIp2-SkI-0LHrzEKVF0JOCJXVPdPCQx19HNkLXOVBgO44QS7HzAhTfaEr2tdfRw.png",TV Senado | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231727
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-enHRFumZhC_h9VaFyTaR0_gzfuHQhyr5zpZvl19ieazfJiHzZuq2DbzBfzAKAKSA.png",Cultura Online | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231728
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiQ813V1hTD4JRxI4bhqjnaqpEzUWNv-pC37Xty9ylYJCKTs1b8COXNVClt93FPosOrnbfJR3iQ9T5ykrem6G_tvxiXyKh6h7WnVmMAKjVgsEbU5wp8A4EvYmndEzbYn8UZH0hZTOZkb8bAEmaYFMsd.png",CEAC TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231729
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl76NI2nmN0dvVHLH9l3Toc7qi7e1YyAn0li5v2Cly8nzAH-1xTYzMHfYz5wXu68T-A.png",Puranoticia | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231730
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohRaO_tFgN5vt8bfQx3IAWAMZiEpnB4W_eeExtKKKqxsXYS9IZdsk3o7tZg3-fvB4V74jWcNv1kYzJiBCsTbiItphvlmzVmtD3Ts-BFbBesuNNk2uqPaLCu0jSYG0FdC_HvZly1IR4udgCm1mtuJl_n.png",TVN 24 Horas | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231731
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohRaO_tFgN5vt8bfQx3IAWAMZiEpnB4W_eeExtKKKqxsXYS9IZdsk3o7tZg3-fvB4V74jWcNv1kYzJiBCsTbiItphvlmzVmtD3Ts-BFbBesuNNk2uqPaLCu0jSYG0FdC_HvZly1IR4udgCm1mtuJl_n.png",TVN 24 Horas 2 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231732
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6MnEA0AijyzFjyC3bEUBJgYgmOFJlE3MmSobtjnutCma2ZyeuSbNeyo_4RRs_9UVA.png",CHV Noticias | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231733
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1PQgy62p1e051HgtqhGKAhIvBPbcXrU9LuVkp6KMlUbukr-sUTUN2D30hSAIapk9w.png",T13 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231734
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiDgvGLqmiuimJE8dBAteQc_1TGClMfMPE2wc8lRvtO8-xxI1TqSYdnMfinOYJXKcJtYOcAI8a3qNpuG7wWX7qmBHfsvR9vruv_mlHROJFi-W5B5WldVT3VLm8-FZbxk5PPqxeiXx9WIizwtXtzE7gl.png",Meganoticias | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231735
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9xM7Oyu2LsJXvKcaWwEiis5aU8ShPOMMp39GFqSow9wetMFYisnEypc9Gdnt5qyng.png",Señal Mediabanco | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231736
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiwenlXR-y3SX_PuTWMtwVlQFLqz-nMhdFWbRojzEMtThfErEEA-AjSIrgZC6yeaTM2e-ofX9oAd4PV5riYYEtEr0lTyqyHq1O2iH7OkQBV-GEQ4AIKtIJ1WzMGkJG1dak4iy8jYF3qffR9DKgBm6Dw.png",Teletón TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231737
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogLuLzsO0XH4Ds6yCVw7QgVWoDloKUCdAq81bnF9DvpOBjE5HbAXMArtsvad7SoOjwgG9QOWD9Qt_uvjq9513ehvbiPEKYuTC0hrLa3vbSun6IPi4Tm1MJllPm8HEWJfZWfP1hcN8kryRDBqhNMKkRC.png",Solo Stand Up | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231738
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRaGEyBdcbwVh_zqFHVu3bgPh6zFWlNCvOHOohhOiYvC422mOFBUYCU7w3LnWdZ-oag.png",Caracola TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231739
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5o_8M74XSzH7yYgUZvn4_90oudZjVsnQjMYxpD8QMBK8pYIP6fygOj5leQo7RXsAA.png",EGM Channel | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231740
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5UQfVmddn086IcqBE7eLUwHgqXz9JyJgpZO4fV4gSxMYpNHjCu92rylqlm5H4btyw.png",Ziza TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231741
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRT9I6VeAXrFlOrrlcJxRie_auj6MCjXO7tsf0ptpIYrQAamkgnR5pnF-zgdw9QSIDA.png",Radio Lado Oscuro TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231742
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl7sY3qEHgSsIWkVbn7c3Fm-cnu2wqJmBy_ckDu7zNKH2pGjNL8aMwM3IS3ctGQhBtw.png",Raices Arabes TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231743
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogOwCS9LUahgajqW6EXwjvtZePD491AAjS5gZMtboMrVFB_8fRGzZ6J1YMANuEwIGdCxMlFzrpB699ZRMpBxhpAan5GLOi7JYTzj630KnB0-aoyAZq8bRxov1_c1wp3v7j1UIAUpxXPbxCBQqLEMm6Z.jpg",TV Pop | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231744
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5EgKGFNarOVVWVRme3_fP_pJMT17bGmttpxo2HhWzkBWfuO44czPQBEKvlVKNiOug.png",Tevex | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231745
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohBekbrKEFOx2frOIgvlxYJ7c7PQcdEhdd2q_X-wDSidMChbnhhlPPc89npUyo2as2HUkd211AhzA6p1bxnUa7cohtSW21Zh6fcBjdhEVPoEtzBUiYrTpcMtOKgaufaaUa9yEBcSb5EQ1jJzo4dmKG_.png",Chile Channel | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231746
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzXgDNQdZqfDp7wkLbOGBXd5iiTNjBS99Fhk5BVF6JGGN2V_n7bXx9R1llQlAmH48A.png",Campo Abierto TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231747
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9BQARjHTzllR7UHAweBWNiaxC1cNhUdMbjyc67VnUrWdXz4q5uqQEGE1x03oGqIGg.png",Canal Turismo Travel TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231748
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohZjuV1sdDQIwob6btc306TT_iBZ_BiNb5hPIX2dQov6T2MDh9SDScs0ThlEgUySEv1zLDuAaGdcwbXnKzOtTLjI7RE3idSnCSAsTvbCVPK7jAqtQxGN6SDfPU3SYWTNUpSjbYUc97EjKkDv2SoLLOF.jpg",Arica TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231749
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiog_XwzDtm5Q2h4b626Bneedon-PuLNIb_EDc4eKSVAQuGMjusUPpREKOu8Wh9pePv6e_TqHlids6aZEi37-C6aBH0a9nzikodOPs-nNz2-_pZzdAans0TktRNHqOfLVO7hE9L2g9rASFPvOdgJXry.png",Cappissima Multimedial TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231750
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh_jfGnj5Yr5Z9-xijokW4HNfMkQnSAP7gd3k8hIryDDa6SCzRx_mCwa537GNwsyTjzmRFXjRc4DPL0yvaGa-lSmLBRDI2oFam1v3enJ9gni1mVJdaq-S_TOrGzgxXP7dLC5k1ygaUJW4tOVaIfoZfw.png",Puerta Norte | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231751
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiyBMkw5O3O-2gD-ak32XeE-hj3DzSyfQUbEw5-QMGQel2WXNQ8lgG1avQdMekglqH-v6BJ46o-Se_1zAlY9EAn7x5OOq8vGuInULOUTcgft18nbThgi9_Rnl0N2PfT5K96D_yC9_7j6qCCd4-onCGG.png",Iquique TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231752
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_gDwiBj-DSTfEYRhpGb6juxiaHKu6VHgCrZSxkdIUIdJxU_vBHmnQJwDuJTYtIDxw.png",RTC Television | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231753
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogcGCAHJH5h4GysqqvB9P8w3Y9RUiZo_wXEFB5CJhk87aV0Gd5abN6_RimswJ7gmXdYApwxt5gKir1xcW0UjxOb62YmvIKhpk3mx8I6WbGPUZw-AZ75EJZgsNoyCoYreo16zj2Ep2r-Im3z3HoigaJU.png",Antofagasta TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231754
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiV7p0FEEfdHSnaQ5okEeubF7FOIqaWnQPV1b7MuDhhMu3S-p2skSC6AAd-ORQT2OzK4YWUaUrqmacdU2TmmQDxU260DSiJKaRebig988cnMwTIiVhC4_Q1jUSQLV1NiX5E6jkQyiBTYYcN97jDtQc-.png",LRP Television | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231755
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-PfIAdYBLRTOeAeqej8eq3uEn5rSsFY_izmbCn7yVyzZ71tt0VL0nsSmRpGe0Ozag.png",TV Norte Digital | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231756
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj1J0yPPX_bC9rMqmf6slunnBuMHy2-BIP5OTanLrMf-oI8aO5_ASKOkbbIWsR2sTVu9h4vUsOHzSo7eEgr54ZLVm6HwT4Kl0wW4bhTNamw-qLWMjPelB9rTlnVqtJtrFMZZX_eQyHfj1a-rRMB4ygt.png",AM Canal | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231757
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_VijXrvkXmmA33KhgppbVyiRX4nXUbwe7WPcoPGNZ2zEi15NBaBsLSX-ygmEJLtMA.png",Taltal TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231758
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5mwMbX9XXFIJsY4jkY52Gp-vzOMGPZBdOp1IxP_REvR1uqFM01hf_UYj9UNuPjg-Q.png",Holvoet TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231759
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj7c_Vd7utPd9RQOC5l18vLtN_AlaHLMsZvKyGGG2dK2iJinNadWPT5kN5K_pVpNJ1CUapTtE62SG4skk02TL9eCxVBqAgd1fLIqJZS6XIHhrZ-n1lUeKqIOEz9hSwngCyEUpQmO_453AQumBju9rY3.png",Atacama Noticias TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231760
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohOy2xZv5pfhi1nHYbMjY7i8oBrzvrOrBc91xp5Ckigv1rMqCVpcJfHXf4U7kVpDOUYoHTC7QKvrn52WUEIvYnqkPyzBQ6T0ZECLFaMHP8_C2YHCrz7auDA-JcUayFPE_IjDRsEQzPBN4ZhP-wOefxh.png",Atacama TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231761
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoid__phj66fDNSM9d7ye_y_dDlQ6PXtC-tY-Vx4QxEo91L0vt3zshCZyRNmc1K-wkWIVxOKStH1uTt0VtEnRJUh6H4AmSF_P0WVEJYFrdpRtavOLaG2MmowdEWptfK3ddHhneQ3WPLMikTRmT5LUTRc.png",Madero TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231762
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojBBsodySeUHWJWaWVglGYauXYxN8nwtn4S4gQVDmtWx3VmVuKNtPaDjO8rF-bpEoKlZR75BF3GmlLsy_ghOrrxVuWF3rMHFtZtXssv-CLvnjAq1JvjJpECO0mpttVfKgqvDTQdDoBleeIm9YJhOhUG.jpg",Huasco TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231763
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRaba6AiF2YHt49h6lcG5ttgkNqkhGhC9zQOG_X6nuflHua3jYucSyTod7wNa4iDD-w.png",Alternativa TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231764
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiLNm-XUuhe-QStXDW0sMk3IXrkV8uvU_OUbCaP2E-UqXiT5fzEEqFP7QV_8nBkyh4NZ9nHH9cUJHYtsLo9CEGc6mqthvpt-8eE-T2k5qo2i8ZrXkQOt_nZ4izCBSfdgteytotg0JmcyOCnUuhS6Lcj.png",Enfoque Digital TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231765
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9e3YgUA4L_Lhac_3hmbTRe02c-1mzzk93XlOgKVNCCmHyL0cvhP8ImKY2I1q0kQ5w.png",Origen TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231766
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojRtJXeBx2nqchN93sBmK6ngzLnBYK3dKyvy1seezusjV2OH2Gl9ooGGYVbu3dSIJD_d7bQ0lDPmLnv-GsUXiv-B7qMoBQKxajLQHV5Qx6CeHFvrYdzXYYczk_2BHU1jAGMOls0UUfplOcCYpTr0MrU.png",La Popular TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231767
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyEqCBW2lDSTfcTN-wb_v95MXItXP6bRkdjGcF7f5V9lwwTyVqOAg7UMiMRjflByWg.png",Canal 1440 Coquimbo | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231768
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh8be8OcpCQ0hVEwfvjR6cwCsirHXIKpj2RYtOY_nRtvYFF9lpgbs0cIJE87huJf039gqE9UEfyfr51z2x0mjh40CqvE7bAAilAR0YCxOUS-9Lfpr7vz3MEabOUFD_BdzmHNBc_7Xd7uDK93dgTePQZ.png",ThemaTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231769
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogEzry1eAhJhmC3umC44q4ipVRxy8SX1Jd9MfdOIWv6O5KOIgVrbXKYk5-_jFDIqDyxEYHxTs84fOSnrmmCuZeReZ-cFYvKe14lgn7LG1VKXCeX8jhVB0s17wrv8OdQhO3vrZgA22waTGPzuQr3vu_G.png",América TV Chile | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231770
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogVMimqH5RNiH3fO6zUE0kYF6LbmD28NwOuuLkxBankIKExg7n75753CQ53GVXyqD8m0DV_gLtMN0d0-4utWBzw0UhuQQ89BJkvlTedtx-z_5SxaFfeJC2pkYiTcRSuihGT5phdC62j3sPcfxkXxoKG.png",Nortevision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231771
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogLvvxkThjm9U5EHN8rVSuFUU2PU8UZgGyOywI382jZ_zPhDqSmWodOmXv-fi7yZQY5N_dA5wvrQ4P0QGgSg-ZjFSUcivBzexjNvcPHxLXTIGcb5s_M1zBnTRQiTXBcwY8a7Kk6afkbWA-A5XB_Z4Kt.png",TV Elqui | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231772
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoi3pMpuTwclet0IeAYCAAppfndLLm2Aqq6PQQUbdEHAhGdfgy4NdY7x3RtscD4xDIkkjnwNghfJnOkSxzL3fkAx8FTFUo52zvmZPheqqPH6jnIPkiDCqvbAACWKyHlt1lClyfJ_H82mBVMecB26ZDh8.png",VTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231773
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9_y2As0t3l6_gT6yi_7ru1GTDRVgXaot0OVFhIIz9v1vv_JEf-JqTJy31tB8uz6Hg.png",Canal LOF Aconcagua | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231774
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiXKuhkZ4yWGSXzwk14ILYmtok2yfLOF4mHU0aldlaicElanr5siJTqU2G6yRJxTWN7J7okNb5AxTnbwBcPfhggDsKKIYwKLg1_gLC2_4MY86Lqlhxb9PJKBQHg9nNfhkGDqfLJDLD-T8fXyDrvFYFQ.png",Canal 74 TeVe | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231775
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoja2_Vtj2S9fPcB8ea2VBHsgFZL7cXcNKDZ_cicouydP6tO6UbnTjDV3VInqM7uxg-cE4WvS-arHzxVzz0FujtZ7IJ_Ihf-22x_9PbbQ2rVbG2RpR5Os6XkQJHsBBhXh9LA5eXisx_sun2ZSsXhWe9s.jpg",TV Costa | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231776
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_AmbEdrFbDT7ErArWt8-n4uHNwZFVFdSGfb7QMm1TmzUls81pZENOJ_M3GcuC0-cg.png",Canal Local | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231777
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-6WCDg-EbpL3Gh2t9JCTGmzpighbtJ6t-TrBkNXsI4LeIqN_D_x7fnlk0FGzyAxoA.png",TV Quinta Region | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231778
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1RpDMW9V_Gsg_rj5MTJjaic3KoQX4_gbarVkxR2mBjnb1ppS9IhCxSbmLEdpPKzlw.png",Vida Nueva TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231779
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-wwVvXng5Kzwgeu7LT3XnEuxPX9F8BvpU61HRCodPZq3mwa4v0pGogJ6hwdjrVD0g.png",Girovisual TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231780
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogIvI7a61rOvEgQQ922Eg2WX89MM5Rr1jXNLi_BZ99mlf6vc6XFfpkFCvnwRr2C2bt9wYjeZlOEMybstxZGuNONYDcNIjr5EuL1KaklQQU-29hGLp4vchpffA2kxa9DpipJGuBW4Z59qyVRNJ4Wxk5z.png",Frecuencia 7 Aconcagua | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231781
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0x17m4si-c5y7sx_wHtX4SxKrC94nmk8IaltDLQNTUxzlhfpINs1pVQSTi1mC4oGQ.png",Estudio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231782
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoicrFFP3Zxw-NBYnZGXwToyzH4xTF6UEsewGeTNtqKPaq9AdAl3hy0I25LwGUaOCi3Jfu9PVymO31flmoHIoT22FB86uaqZIL3c0Kf9-VKKO1rGO6aGcSrloYuCIYnUi7ixg2ljmDLi86GcvJp2dXtn.png",Canal 2 de San Antonio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231783
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6EQX02faWf1AtvdQ7k52Sq7drsvu779XkftoRSP7CeEaI4PR-tTzpZcal3jcmHZOQ.png",Plaza TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231784
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5-FbCkPuIo62VtFNtx2VnBjXQaMJVvTozb5bVj39BfTMuWWdexG3azH1j9VcdVwww.png",TVR | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231785
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyBRvKHLjelI5Gbw4Flyi4GM5YcpumPPRTzc9oNpKhLiw7UKBSkpoe7P8NwrOiNK_Q.png",Tendencias Prime | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231786
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6J9zEQHSbx8peQkyroaJAyyg1gSzcyiO255Sk7c4fR8Ef52CJ7qaUi04n22ZpRb4g.png",Vision Plus TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231787
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxoR-ZiLzLDJ5RDz0RMzfRo-iD-0ErqsVnSZ1D67R8NLFhaBVGrVpXEb3RK1807xCg.png",Autonoma TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231788
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl787WpcPTjIPeRseNEZdWsq-Hr-cFBzinPsROBjsMTKX2Sw7nc0Yixr-JI-VQNR0rA.png",38TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231789
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojBFuMu5YS5KMOKxjNcGuEmW1oPV0KjAtkoGPvDy_VaJ64XTcLd6UJYEjFAEsH9IBa9B6y2l9jFguVrldfZNaujay2xDgiELkklwuYQ0o3sySTf0bcyG1AK8BV89Y1VlszQMbPr0sFGIsd5ibAaN_r0.png",Buin Somos Todos | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231790
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyUg8bcg3VLIF-8y08BRUL3ARJPg1NqHmeM9YRMGjndZOD1SOF32KMpSm0UxbFjE9A.png",Canal 57 Melipilla | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231791
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-yeiHJN-GTaA2E819lAShJMsZL5hY_ceuVwjbdIOm-gc775fSS0dUDYh_DV4SA18g.png",Telecanal Santa Cruz | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231792
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1vSkmkg9SzPLtO9-doVF4P53APlKCCesQnax6IgEh2RwhdyMrqnth1e3XWLPAXe_Q.png",El Tipografo | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231793
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxE-KzmBtuJjLYCR7OKbVnqle-Is47VyNJSyP6qCrEKPQlJoFdDTHLUcQ-0g_Qh48A.png",TVO San Vicente | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231794
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohjGhMbP1XP6dQxxqG3lOb4RpwLQLMpu-1EkBKlD_trnvkT7djMSZQc_jgl3aWSAo_gMVtS90bNi1JgD5o84unk_yRQKA-ccRrpsEuDDtDc0Qt_10-s6sWATiFBotBTiEgwjvlqDbmGtJ0EQfeSXTBY.png",Sextavision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231795
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiJPFVqXtyLpv8Ugy7p0Rsb5Y_hLEWt0WkbO4uqrnGbqD14KtRRGAfDGRl57djgbfIUcRTZ_ijj10LbQyKMg4058rLLsCMLnIjOGu7POdFWOlPhcdCycOKtEXCxk0QmuTglhSZ53eQRD68LmPPMMwsO.jpg",Ekiz TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231796
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmog1NOB63H0JB3Xt7f_SfEketQMUoRBTQAhJgmrrVZeNT9cowNoFpUN5Aty5O_QimgNdU4aAoCciHdXnOFGYRms0y88pjqz9JtpxCVzHNt2_rEEz5AqzYQkEe8wBdkPkMo4yUDMrtPaU15VnCudC6K3v.png",TVR Canal 11 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231797
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1oM9lGRQUjR0jsV6JCclcnIbdWcMpzmh-kqffeouAA4qLWJft-kNs94BbqxGAmdMg.png",Telecanal Talca | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231798
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohcig7UQQu5825z7OuwEyL8g8kvQiy2eoRg9j6QwyEy8a1ViN3p2lO7Wqd4Y5F4UmeSnl8mYswwwKTytHzzXF9HeuxSp73T4jbCXpKhE5HrmhtjPJuIljek8fp3qphrq8J9wqgXe9UJ5ik9iQdsJ2b6.jpg",TV 5 Linares | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231799
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4_P3yH96V5ZQ33gGTVb_bt60B-x-Sm5M3J00XQ2HxSepL0TEIhmlda-3M8PQtbAjQ.png",Contivision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231800
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8pGTqo8TgCS_KbquSx-iYV8nY2XGMurnKx4quG936jox0SCtXAOFAcRz4LmfgSSfw.png",Molina TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231801
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6-OEFmBqDgDNMcFy-e_z5weFrfjpcIvYUdiSKXjgsYASzlujTvk18EoHW1k1uG4gg.png",UTV San Clemente | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231802
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojCgdldZy0B__YEylayl8LsPE3_-fRRQKyALcEld-vxwblKbkN7DR-JhoLA1EYFlwUzr2P-id0z2F3LDXkmpCWlhUfMBCpcEqSqP9M99puRDa_w23jzbgCyF2boD9V1uKj-MQuyHtc95TvjMe_MD6w0.png",Nativa TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231803
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojDNwbaq40eaZV-m6eVOMpPSgH5XJGM8BWy6YJrqImWvmQZn1f0PJWnGvrRL_0VgIoVhXcb73utWZ199VmUCLARl9lKX7USsbLLd2VVkc8jdjCM6BxSbYWC9RWhOe8mdtFLrvlppiBL0pp_WS67K_G4.png",Tele2 Web | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231804
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0Xe7okO3_m8yZp7kaIckqJnuwTW342Yj_Aqf_hDlfCElewQWvmwhHfJ2tyr9dAeqA.png",Maule Vision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231805
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6bnyvJJ5MtGMEmBKenWPk4qVB8yxCwlCI1gGEMmJP2SfjpdEXlm1twsIkl_UhWU6Q.png",Nueva Region TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231806
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj9r5fK_QoDt0qQNal3Yw2DMueopbCngpguMYMQVcZl5OB70TH_iK-rNOR53ZvSxWHDnMLrLjVHgn0G4fFE0boy2L37bDwfesAUEOAsjclG450TBVw6-YxB_RYH9cvn3QeOHMMiokiygPfO_TrcQ_4e.jpg",Canal 21 Chillán | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231807
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1RARalGorlYm5sRBLkjAQlLIl81r0ftbs3hMoK4WSoDjkDr1lujmSrnWb0hNhz4Pg.png",Región Televisión Ñuble | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231808
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl86g8QcXbbxPLCO6gTQEV0-bxHkc2gKUVHxW_1B_kLby069NTPpBW4vg9UVCo_MwQw.png",Canal SCÑ - San Carlos Ñuble | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231809
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6nsrkFG3NaxJD6OfQyVT_sJ5yLlndafROnrnKFubs3r7FmJwcDoYREG7sk6I3jJGQ.png",Ñublevision | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231810
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8nU9DYIsuHV7UYxSILrn0znxQ-cx4_ctwWLKW1cCIz2vog8yclN1kGt8teCex8XAA.png",YungayOnline | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231811
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3g0cwiswXc3sKTGQ_otYfAqAdb3L5ms4FOLLGlcIKu5mrBYKDBFZmwF1s1s6tq-7Q.png",VP Televisión | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231813
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojCGQSAXaeW-IIEvJ_zw4HtfPZ1ZJV9pB_2r7aRqkmU3qwMLWNtis-RKZe2KHiKqiu2HMO_aBz-yLf8pcxaireTomJxkbDakNxfuopjxBR9LdXP103LLHo4y8vvZmyZuhcAmacl92JKYkKoV_1kqo3N.png",Energia TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231814
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyk5tM1O3mnE2vFr5Fr4kKWj5KuewFaVFQ1cRQvTQiPDVCqYq-EeTxAP0yGhprG0Qg.png",Concepcion TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231815
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiwyrh3b7_sDPDcuLp90E06jlN2PQzMLX3EJiRTZmpI5VuYgT4rvPVxTue9y8RW2tXamGy1lrOgpHKEkszpp4ZsRjHq0e0RUfjpN_4d1UM08XX3QuPM6wJXPzsJ3FiZVOEwhnKfR30w_fWCBz8vFT_t.png",Canal 9 Bío Bí­o TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231816
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxE9oy8MGkzcHsMI6az3GSe7C3LMo4C4ZD1V1Kc1hurAddme9oIoLoUo7mowq_KRIQ.png",TV8 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231817
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl7pBFi-QN1MdYlOBzCh7XsOGg18XyMaZ26QhkraHle_BRXIMeqTan3v75hvS8Ji8JQ.png",Pacifico Television | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231818
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojVoICUnedFxiM42lTH4GsoBWFui6r1tz1MVR1Yi7xkfm8bTNiiOPopFCKuKIx6QAYRcySkumMtH0mgPe9xbv8GoV3gUS-cQepKbYHETkxwd9qRTASjbB9-Bojyh-lGSHQdVbqh1YTSsUcFvsj9lBBP.png",Canal TV4 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231819
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYly4uDWi04ejjeuAyipRS5FPcpT7bwh84ezB6Hqylgg3VgHbFgkaOBhKjc2tLRR1xrg.png",Juntos TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231820
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiTk3g16lwBOX_QzsWi6bZkWZGZt7GoQDli9Q0ezdL7KDiSznBvmaNGiaw4KJd4fjX1pVNXEqu6nyncpJ160X2rR2dSIE2zlQl8DSPyfDKYB3d_m4goiRBYC_hT3wtWFY2OpGQ_CX-sXIvTG9cRa3k4.png",Club TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231821
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojrsKbKSoG9QqQocHD0pvcQi0mmIMdHfV7ozamZq_kEIvujBdVNRODYiWfPhiM6_5ynmdT0KIlVhnYAtUmf4CylWdYk73ClJcIa7TLnmzy7KXQMRGuEFStdlWByxP7lFPWhL21YylRtTvrekLnseav5.png",Teleangol Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231822
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl35P3XdQJNXUtLo_qzrMV7BoKDlgb61J9JIIovEIftNG8HKAQBEmndhmHNwANlD6Wg.png",RDO TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231823
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohKrcQ7D_tYy8u74yTOtxAgGG26EArisRXyOgY8LQM9yPDyZuCN463BbQQag4GHAdL96K4QioogQbrt05ETOtagTN1kEGehyfUUY7OOYEXKi95mx4IE-n4WkiBO7SEz1nRuUav6jqJncCYCL4-MsSVX.png",LTV canal | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231824
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogBWb9bs2_1Z4PhFrdyyBV8omOlIG1_G8E8fEk7oOxNKcCFw_G1gySmcIhUcyDSekJU132n035dqNY6z241KdfrnzgFpS3guezYy5kYh64aMIWZVojZoIpQc9BReW5cetWtt8DjW2dAyqXcAdPw9lHe.png",Pucon TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231825
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojEq8qItaybEqZtVojf76NopvMYvFNH6k0AcjI1nO5CcbJtPJXrAlkMvnYlRtvn78glBW6MaR4Mm_-1AydNLRYjT6WZ21NSVTjzuQNmUhW7ze836wEfalrXcfdvVAuG8kF0Jt5nJmJqTw38n3BN90RW.jpg",Temuco TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231826
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojdaMPV7CK9P7M5PxKbkpBuTlLTWLPVR15AtNUNy8e0qhCW4x0Mwkosag1p7zeWMFWxsZb7LwP3x111KhTqNStMUo-radSkesIwngkaT0AfJmjRJvB4W-pMJYh0n8au2WXSxzzTnv1boGmxAfyJx4U_.png",T-Vinet | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231827
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojzzPJo9hY07kDGjq2-yMoUhnfRQ4uqKkpIDMYItTkNHMXAz1BEmzcWCf4T4smzM7R1fWctDHLrZd7fT1EWVvGOy1IgP60-sCccSXScOQYBLVFefs4tPryqyco081aA7xt1p5Zaz855mCMbVNeoYbYb.png",Canal Latino 54 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231828
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiSjxYosDmDtMUcLOFe_9w01NIePFTDBDTr0Y2_U3913ku70eUU6XeXFafT_TPLnwWS7xGhmLY8zUb-VbyVEwtzCIFyTrrGSm5-NFqjY3M2WxVgAMuxGn8SaLUbC5J9mQbRq4Bl5hwy1LNvwv_btlYT.png",Decima TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231829
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlygPa1J6C7VtZaYS-j4US6MpRuYhe-8B6uhbRZxbdwF568Z-O3gP4BdlxGUG3DHdFQ.png",Canal 2 Quellon | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231830
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiNDqwhihkBreubDJoRXeDe1u-ODKM-1IXmp1JlnlZ_JTj06FHJ6-SvqaJawPy-o4Cw_jHcdq288eds6Pi8hHIXw0GE-Cw1tZsCvUsNLSlkh9mq4x0tFAL1gH1sVqf8hSpi1uyauYrT_hW78e1nmmU6.png",Vision TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231831
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlw3z4L-pACuH5XeP_VUnRTBqrEN36cWc7MfyVZXLKZ6Sf6R3n2X9qJXukp_Z8G8z0w.png",Canal 5 Puerto Montt | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231832
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4uzx9mLBLR2B4NQbQM3tPPgv6jRmZ1qIO1vCQZJMBesh695G2UNtTkC_GTsBK_lUA.png",Canal Chilote | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231833
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlz-NMnYyIRE4-Y9pUw99J2FquPuIqRh6BXGdSre3plNxpjuAKovcJgBC2FFC7DpUdw.png",Hito Cero TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231834
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohorapBXYuQm4sP07tGzTlZdUcdKbXt6lI6PmuCU2Qj5Q4r-jXdqtu_8NxbXF7msxIZH11CWELff1qdwheZlVxLwmGA7zUTMbb38nhtNYbUQkn0LJQsXAlJS_JiYdy16ClcJ4d3wbrtUvDIDSEG2yRu.png",Chiloe Red 25 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231835
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh12y1zsRySM9dWquxUgowTuHjZya3wheyxm7Lj_l1hCXyRzleR1yP3jFOPokwR0WQtkknsxm3587xPMu9hraphbUAJMUn3gbpcD5sagqar07m84GXRCz5rb-TmmZDmmhRDDFssS2ROYihX2n3BhVhU.png",Santa Maria TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231836
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2ddabcWqs3Nbo-Zrdo8qXVjoEqCM2Ne7cz3GgQ2l5oysYRi0ZDtipV-oEumMJ-6qg.png",Canal 11 TV Aysen | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231837
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzWENzeJaaFY0MnfhC_TzFxQ2jHwlaP87FsgM06SGJvgPAxrtplc8_WQrUI4FVchhA.png",SurTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231838
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3RrWl03EBZyKfGT_TtUNYcO88JW1swPb_OIXeZYzClxlJ-QgRRVWtwGg0mpWfafGA.png",Aysen TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231839
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojXdm5XsmI-8W8ooRV8ccUs9pNDFGRaQoaXthOaC-rQcYCve3ty5dOY-y6Fc5tPryrV4D7Znjr6B2KaSKnRdi5WD_rc4tblJc6TBzn_jr2wPyR2-uAlSVEvwXejliSOYMJFKhBk1VasR7aa4Bt2SiTz.png",Soberania Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231840
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmog3N5ZpMKYY7KToBQabi5zUeWmEQwV3baPCQkeaX6eaiP8OEiLZlibx8Oye2GApCfqqEK5vdwJ1_TW35La_eSJqQx5bFYPq3h2mIlupOU23qDbHEBcl3IXvf-2bQrU5rwnVx9-dI705ppEradAI0_zs.png",ITV Patagonia | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231841
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9cFkVLhBTo3P6xE9W6vaD6Jnem8_g_1TW9JxWqcbBMivILOZ7RraSgwi0U8_UXj-Q.png",EvaVisión | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231842
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiDAU3iayVppW_UvQo7Ema6PjVrjCzE8r76S7VXep4pNg1SnO83_X7jTpQe_N3JXjl7Fb5shGJYi7vFn-06Uf8uvjmWjASW0PsXMCyj6BDUIQaVo4jZYSdtute9W_vmbZMhT8wROmBGsEu9XCtdmozN.png",Canal Sur Patagonia | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231843
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohS1KFmvLjU2AdmmNhK_bSzYMg4FMeGtOoQI-k-txG_jBe9hVjiULrX4F-VhRI0rOdOMEsQh42CEiyq5IUxHV3Ifwizx7Zi2Uvjk7rOcTUE6UwAD4KwecAD5ABqtCKWbKvYNCv5-23yBamHdQpXH78s.png",PinguinoTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231844
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohV-tRYyMO8qCtIQCut8yV9k8qAqj77U0G7n7_UB-3BHA4k-jdSo7thf75Df-dR1mx6kmx_jv6ErTopffi9x35KgzFLJETj8M1JkchrfRHG6y7ZwDwHurMZ_1LEorl8-CBxM4--3yoU_ROBUU1wZYDV.png",Teletrak | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231845
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9UEQYhM40KSk_rNOMs_bo2qTtQM_9LdPD-t_Qz5zTtjpJX1VTrXw_iP0FdRPk2oNg.png",D13 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231846
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoi8OEOpVqCeEcBGmDQ9ALxB4K9wPV_0WWWW_yds9avqWTdxca06rY7jOJrT8jzL_4CPl6ZxRPWNF5v9Y3-rV7SBJC0cC4draqiZv00K57puJDfOlPvtGXu4Vmnn0NTPbCYAqHzOdlkLIEZqsVL-IRA6.png",TV Turf Movil | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231847
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoii6qHYERZYyL-BcyI0y67kE47-UujoIlAa4WJZrlSw6pIU-g64n59TkeW4tXCDBWYa9e1MduOTtcgCTAb60Nn22eGG9_ywz7Qz_j4wG8Sr8FBG5kbmANKem0naocjJC4OIE1nS1ol0kaUvdeSDBjCC.png",Valparaiso Sporting | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231848
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl7ujsq20ElEEpaCryTwq20Fmkb4vACiLlAefevmr9qDM__1HQYikhipB6gOU-MzpHA.png",Bajo Cero TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231849
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0bhgwVuVOvYfBMlvEjYF9BsaWk-DUFEoMUodmWGpzl3wjptjmKaY0G1BleR3BFgRA.png",Viwix TV Music | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231850
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1ukrDPaGqu_WpIfZEBH7EHpv3nKLhVGi3SaQDNNhbTfP3q_YmNcGBIzhtJzh-uwvA.png",El Galpon 80 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231851
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQuOYIKAGn63ixdRsuKxYjLvXsMK4ThQfM0CxT2S2vn6ULzLwVGJ1kdkn52N-8eJhg.png",Sensacion Costa | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231852
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-Uc0Wccb1V6ijVXC8n5dfQUkRqA5CVdMDopdhJWEiwEwECYKL_oVQtHL5_C6zj_pA.png",Radioteca TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231853
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojF7QpDHFeHzePfSyxWvt98bNgh_fEC9GuTUqYXorjzAiWGDzW76DdoWu2Vur9v6v66fCZrrYN8aH_fmOyiH7IxCZDxIAc5ppgzXmvFsKq_5VpBpfIc3Eb1-7mNqqGbE3sMBsdWSmGSzd40Ki6gYrqC.png",Re7 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231854
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojMaBUEdRMCkv1r1quS4BcLfyQwbrZDwqrigainGzAtkxXcY7YYh2uVvxA4kHxeakyQQSiX6lrJy_41coKi_98SU9wPVb9i0n5FErTuSJX3bLqiWbzVioRRXv6uAIsHDhmK0AYdvCPnvEgl-SXnkRNb.png",Recuerdos Retro Radio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231855
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojdBcJQQB3TDE29DoXUZvkJwP_kThR7tdVHAGYm14NxsuL_7XA3ipRVcs3CcRNg2M5sVIQ0C_LMTaDULN7MxeZ5dXk4T3E1WUMvv7tqOO-iGcG_7xjbU9rDAfOL_EmMgFZQEVdsJ_4gdQJ8mHkL4o3c.png",La Sabrosura TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231856
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoi0tQTpBt0PD3XrG0c6gD96FYS5Vuf5h0wfHoSADjKE7YA1jjX7x3uWrHCNfn1awiROJeXOdTDhdXakHce3eZgNBzUKCOBG1_zYBryWzcpNLg-CoRpjVE_oXsvSZbS_K_W4c-6WiymeKZcv1k_dCQji.png",Carolina TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231857
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlziyFGN021m46Th7q0EvtQ3xYRawsvQ20VOXg8kxFKLyOoBV6RsMNiW11e9xKgMp9Q.png",Carolina TV 2 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231858
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoi0QXmI0PVOoNHvVDUH_ix-GyNMsWF7YlvIuI-uDAR-hfxCozzHhqzFmfF59hTSFGTJG8TJKq5SnNmEASuVpwEKY1gR2dYCRdoOGCYBtVMJQRrILcXbR7TyzW6vt3u_aG2e7_hBPrIBNLIZTUK1DiK-.png",DJ Loncho TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231859
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojR2Hn1Mp05kB1P-9sRIMhqzARz6rdmX0tyn1WxgCMkOveFlejChZBX00so05xIp_C46XACKw3GEAzA5rK-jyTrACDF_fsYsieLAQha9efePobHmi3YrOUgoXR_XUOLQtlT1I70hUxgNxaOXLzD2Aj2.png",Maxima FM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231860
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiafnU3NihWXScpZ2kWvy2swjhXFcg8qWB-q30fQWqCok-Sr08wYfrxagT4PRNxrXU_vWgNpaLy_2xlZiaTWi6siN8rrDc9cO3jYcu1Ux6FdG1o0pTunFXrVGQh1cneTY_761JZqLphzfQu-7GckB_c.png",Portal FoxMix | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231861
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojBpq11376zrT8o9_P0xPuKEHBYTaVO78y5qyU0bCYLgJZ9ud1MbbyJmPamREbt6UGHxyTiUk6K8k2GlR3rH2T9UpQjgg2cS9OU4PssYJO5dIhpzdfxYcwPe0ga02_fow8stXDok8aRPCmrVmZUnYuC.png",TV vconline.cl | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231862
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5FRwu8XcTqUVx9TAxMbjM8Qx_VnaDpVlokjBgHK60Z6PYWxD77yTWbWoUVoCaZB9g.png",Zapping Music | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231863
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoizYzKZa9kdIHoz-gEZVXnpQyuTeSw8rYXfyRO6ajJuiFLNs3HrAzZsHiRxoIkad8MZiRiP0B_rQ_NLF4I3cBOWYk776FVVdfs3P2YlUZMniYITCsd9VCeoGy-whevfdx5OzuBJHmHkDLHPOhrVnyOS.png",Alegria TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231864
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1a6mruV7y8z5O2JMCLlJgyfm4ynqtSJefvSgAaJgaCQvgxizXeS_G6Zf9TbcLKaWA.png",FM Hit | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231865
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxW9js9J6bj9QRFS6_wSdkmLHsjp_upxFE2srMKdhzReRukvRDfHv7JZJWbxU1KRMQ.png",Top New Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231866
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl_m7Stw9Omuf4jurZV0nZnxp_WKGEz-oAcM_cWHv7yQ4BeiIUjkL1KSt3AHtlnrv5Q.png",Radio Estacion Arica | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231867
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlx-PtTnjCsq8NSyaSUUI1eqc0qu_W8C7fPGpfA0wE3b0rkniUiNObbDiFA7Dm5lDqQ.png",Subela Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231868
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5zjtFxj9bMgzgSybCtX_vqL0T3ADGUje_CF7N4SpNpBlYXGry9fal_Txyz_7zPg5g.png",Radio Ritmo FM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231869
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzIlLNzpNDa0NWa4Zu9JH25YhgRLJtGTKhixYKmMdRbQ511x1VKpYK8k-A4LZ4I2lA.png",Nueva Mia 89.3 Fm | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231870
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl7apQgbthd9024H38AFpbDky1GqNoDm_CMrdgBcSK3COuhsM8vlQzFkiuX-rYMiA4w.png",Macarena FM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231871
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5YU5ifEL2fOeLuBWl7ymL-Y40hzQoAKOCOBWpIVM3uW4FbqlDByffY950zhW6rLXg.png",Radio Magallanes | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231872
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzQ9dxQZ34qgY8oHZ3vPhJZmhaYKk7hN1WlNMkaulQjcQvFyYQyrwsp2q52pZgw2AQ.png",Ritmo TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231873
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2AwMLOjqnA_bJn77mXSPFYaNXSGYgC0DhhJJGI_ajnO78iIjTb_ylGTCoLxE0h2ZA.png",Emocion TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231874
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogXArnG4vcVDuckR737rUxMe3XyJKQPU7n6acZZK8_5FlAWxJ3b_XRYVRSNmqAKM6Geenh6f3aGvaoZ7TEyGzfJ_Y-tSwApMapYOc-yAXq230hAmAY21PmF-HC3bVsclo0BEjjHHbq3xRODhFtYTW57.jpg",Zona Play Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231875
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogWySJwNvHWpvi9ijTpypjQtF6vroA_QP1kmWna2I4v6V0I8pxke8Qd3-oLbNLYjgbs59A2gN4jfQesx1mH0FS8hIgpJu2S73ZaDUgO0-6YNY95kQTfn9qN5fad3QfObD4joz6v3jb9VaqtChrIO8QK.png",Tributo Valentina | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231876
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl1xko92wO8-IWCGhZp-zfh0AAGOGOIw4T5ffG5aAqoFoxaLcJx2tshR4v9RUKgc8Tw.png",Radio La Serena | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231877
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6EgZ8wjUPRsJFHvn9utJ2VU4S651BjQyM1zgW_6SrUI-uJmwwHk5hKF_UaawDCySw.png",Patagonia Radio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231878
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlwBvLvSfam6c0ibD7qje-J33VWnDg3PtcI3xzQT-K8a0JqRBTgrCDGM1vephfD_iaw.png",FM Mix | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231879
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiY-7WQ6OB2Mh6A2h5ans9foge4O-qRVgJ1saI8oLxFl-u6gkWj6nZXSKIdq4nvX8pw5ROynKB8ZHinufr9cXhQFAiykxzZZyNhiVc4vcnt7COnaDonJGTEL835hn1nMXRracGpyisJOeWjLJCnoYd3.png",CCP Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231880
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogk5j2zEqJ6QQZ0n8MmVf3DwfcsR6L83TFsrOVMB5iJcooBqTvCniM89iltjqAdOfMPNeienzknLImF2RdR8gyAaIm-2NvcCdafTCtcwXB4SsPx8dwtCPSf75PWcZ9feQJUx8glhWDxl5YSi0UTc7F1.png",Red Fueguina Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231881
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl2z_wQ42HoZLDGgxFDdEBdxYE7RQ_gjpyNkqL2iedZg7O86Ak2Ifi-gtIKdm8qu8Vw.png",DBox Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231882
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxi21Bc-3MTVHTOr-_XTR1hRiGzuRa4_p-SVUXFVuycdUCi8dr4KhbbwFUxhjMcYcQ.png",Radio Zeta | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231883
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojyQSilFUov9C0s_xe7cChy6Lq1Xdafj0jW1ItToe8a3SVmotliDzRaE4Mt79rdHsRG2P7Rb5fhlcY-HZLmKTFKrBPSM2vBXDXcSaYszMdIBg91X9TXwWGANgIzn-gLLCUP0XSyYqdcyX1ZaGrha0r5.png",Radio Via Libre | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231884
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoidcEloUC2FctrgVhieRPc4dNFy-8Ew9ATqhWdCVh0cvMGWWAKiSHekb1xR48kgAKnMLdd8SaGFkN3pRigKKgZbu-j2PjdU2Xeko1vov_a04GILfVvaNGirMcPhbsPZWRiYR138D4LbQki6MllNd-PA.png",Radio Universal | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231885
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohW-JUFRUMKbWdf0f3rXpmnZKtQadg6cNQY-SssWirZk9IDzIinBR0tfzyTSd_PnfbLl_QspXK2Oe7YqOsHgrmWzJ6vlH3LlQStYVE1oer7dv3opoQH-EvFRqVBZ6JmcZ1IAxetVGvWTxB8bEUs7FcJ.png",Radio Touch | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231886
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlxG62VQO9NkN0yd_PyL0f1EpL33HcwtauxhrNNJqmVH4UQu5QCXTy9dkcHKWbjPzkw.png",Sabor TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231887
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogaytn16HayQTeQR4VnxgS9BkYh7xxxHp7QixWU6UdEt_I4x53Cq5qSb1z2FtcoqfZtKaQqksB5N0TXSnEkOeenAU30iP2Ou3ptO7lC59pR8-WO9CaLy6gOaN5xP_CsTRMhfSk3G-DR77YBh8a-EOxi.png",Radio Rancagua | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231888
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogwWx-U0cS2By_TTgOHE4QYDatLvJZOyz_tx2aXP1zORwZp0w-F9fciscXnVQmD5BrKErXJ1H97mO2SE5GWhqZ2z9srwKFL7aRbPz-bWigG7NeA9Y00VXV5I_Bqs0klzI800eLOqlK6Wrb8kxGh5hZu.png",Radio Presidente Ibañez | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231889
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogPYogkYmLtYVMLEOHWNquWaWcuNxrwP6d3jbPlghyqcTTPEEgK1Y2JO2hL87_nsdMbB6sGHau8778FZEr9PzWHmrFp-qI1sRE8TYQlkIiutmpkbMaZZ7JpDVXVhl7QOfUQJizrhIRSIa_6ED5Acd0Q.png",Radio Portales | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231890
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9TB-NFxH9TMP-qwtqyc98OcK13W1mrPi9Z8nXAi_10M58lgQL9z3g2sYVbORASjRg.png",Radio Polar | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231891
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiHKcQtL5FSLNcAHt8DJm36ZsXtnDXZgWnyc6d0yW-YFpDf1os3vYcnZlSuutV8928JKWVROpQS1EXtash0CEk_H1NbZIMpNxYyfYVIpuX-RMkGfe5jaSpJc-f0SmcKhHoEHwb3IEKHYmIoFMAK-ebs.png",Radio Mas | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231892
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj6oBGeEf01MP6n1YUFKfgty_tGXr7y6ZMSS-EyZaD4qO99GHgMsKlswOF0ekUwNfj3MWq3pDOSDXY-jxJ2NAuAkbqXO5niLLtsArR_COjQs5f6-mtGbM5Yo5FNeO-lgOxoklJ5pyvwjxW4RHV9SVgl.png",Radio Las Nieves | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231893
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiqFV34q98CIO_qjZeXlPYZpBmtODRA9K9wsGWuNBb-YtYjE-pzxn2qKK3kOWqwK4gKqxT8pMy-QwQfSX8UfplATy6iHZ5gEqpBvAVPL77H5aDLr0Uf6rmYcxzlp9ZP1Vq4POjogOV_UcNQyXGJMd0e.png",Radio Hoy | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231894
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoimKvaiw4l4qtHzlJjiQGPNokKxX2hHZKooFyhTxHEA_idRUQpODl7zimiUJ3StaEuif393z4AuH5iCcgbhlPPyYWOO9MOQ1uEoL-9c-gyfoGPOgwjh1D-uD411awNdsZIbDER5tQthH8FUjofk_TlD.png",Radio Genial TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231895
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoj_RYtvY6voNFoR0ibSArO3ZCibqilzvqCCwsGhH5Upvxz0N4encVXvv3_uUt6zz7b19yAO_cAvWSNxI3kXPfdCETXWYBoujIwEWwu0zK4tl_8fhuGka7biz3kBhoSyxLW2C55GCqlRqM0tmhxiEASq.png",Radio Fiessta | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231896
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogKKGiY11S18MjHfjSWPwx9dlGitJ8z05he7pSsDebOKc9FX9QY3ZHPhgsUmPLAPfCPcRlMDklwTk8gsakF7qoF_Q8GaWhPSs2aAFz5fOihmWqgznbq73I-UmtHqm6OdwVdDEO9fFjNRvvaswJtVcuj.png",Futura TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231897
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl44r3yAymKOj5v_wjblmgTlSTSuHAOawmuwLQt2pru6L_yRSTpCxmnC08fPGirgDMw.png",Radio Favorita | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231898
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogj4T-pG8-yPD4x-EGOqZlRNj84-I9rj2cdNxX_DqtZVP9tNOxdF0r7ZRzDILd-ZQZoCiE6HXmi7xYGda2-Pjm0qI-RYJX1MF47hhgs8KC5nrpyWpD7Y342tDudoPZQYarC-Wz8f6FUQPDGpXZAnfZU.jpg",Radio Ñuble | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231899
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiKdbyX9QjLi4Vos5nFliw0hxJOZvxkvm7QK9B0XDfgFvrNWDIiX0ncqRgwLWsaLO0MovHvlg53NZJ83wjzsJicFJoJlGOBVVqtpJVTWhYPWkvRArGxN-h7q1LRiBfjX3ZNsuV5KFpSSW6zI-4z-1tl.png",Radio Fantasia TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231900
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-wh63rFkC8Kw8RMuCdqWuvkepMcSHMMXXqLIVgv67-B-EPImAScvEhVYxXRgb2EWA.png",Cosmos TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231901
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0a6SZwRTr2B3HQZFIWlWmoWESW4JzwcfxMZxmZyqeHGyyPqn1xRoPjVNPXsdZI5vg.png",Radio Corporacion | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231902
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojqxkOTsBkXcrCy_YMHpbVCOVsMwzTGaErPDReslqtC7ZD8MWX1YOsBuZOxvq_4dcTjtx1PpSrRx7v6RmbCajEIUNYU7CsRI-fFVu9TC0QbAD6EzmM_Fd1zpElhr9-rzFdQE0SLNH6LMiBYZSyMYEp4.png",Radio Chiloe | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231903
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiYe8QHvdyQZ4wtTlxU_0vn2xcy_T4fHieTMLpv3VNJktX_fuIrqgCe0n9YU0oLp9FXpEcEVuLzO6U9dPhB_klkwER1BiBjzxSHHZgJNQRPrBJBmqIT_InyQhkfshMMgwVnxuSFbYrQ6BvzEq7LLUB_.png",Radio Camila TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231904
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohrZuhFhZCtw8appRruNgAwdKM5X52nCUPlU312QK9FhGR4BRRbKUkUzecGFGBRRLIRvq_7rF2JIDTJKtwbKu5GfSwjZBYZsOcw790aySUIaEghvow4LoZ_DGxeSyFa5TtQTOQDlgojtGL6TFJ3W5EV.png",Preludio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231905
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiG47gjPTBDvB69JbBmIfHTYaMozQfb_YCWbAorkoq1OAdEvzytZzsCc78Hbjiv0Ct6AjZlKkLujlk-92tCP6QzPZYEStMpG-Zs5TGbBiL020oVwEo6MVMxsb0Lif-oI9CiTcPKDiYIpX7GsYLfNPMs.png",Orocoipo | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231906
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohIACPRSUczTq8_4HSAQaoG-n0flNyaIbh0ZXznupZCu9Bu7a_idDZR9si4wItPxsx9YSgo3hGern6vPNMCLF09CqJ5PL1QTBgZzqfi1Ry1GaNyC9TRE_wsg9G-RMxz1G9tmTjDTvZo8rS6SXn7g-2m.png",Mi Radio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231907
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9XIrr9pq4yVCtFXY10D4JBEZYQXE5LKr1ug3YMx4orEk3huQFtEFMb8uNFOUMQ78A.png",Interradio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231908
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohQBm1L1e62h34OiMmhvyvsi9IHK5GbFWAIy99IBZJphsDDCk-0sHvE0ZkAMN9-5y-K34QQZ9sVTdqWGTcMG07pjBXiQ0L_Tf5c3XJIca893_5BKLB2AVZQYhBtw1t1vpc1Uhf3m04ysATIt4tASBn6.jpg",Interactiva FM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231909
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmog9XU8KJNMsF78IWqQlcRSIFuhidtHczYO8hUED-iSNaqSiIz2HGrtMqU3_Lt0apg8FxlbuxqFhzpZJFfrjS0-tJDgLp7_6LPfbf266vXU5y7hNY9PDfvXROpYtn5iTd9l4kXQiNYphUupXW7fxbEup.png",FM Pulso | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231910
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl6rkS92Gr5HPAags8aMiumqJi9eKowH_oWe9RhhYZBxwJugp6kfaLBaa9xhIhmkXIQ.png",El Sembrador | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231911
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh3ACjXd6vZQmfmc2yXSVevRnxvFYGkFsDl_bNuOziJwCuT9vg2aCJgHg51W6mX7pEgzsrugkWH3N9VZDFThPi6J5u_Xm-t2OIGPFA3BFwtyneNfr_pvIX08MqJDJIhlRMbq1yp6mEjWE3rBSz15R8u.png",El Conquistador TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231912
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohAxWgx2zmEwFKraY3CtPIkHobv2ttyDZ3CjZgRP8R3H6JX7MfGVPoOBTpqEvVfXBylRV31IYhoOZHpG1S_lILvU5iXjlyD4GKzl-gW_PJ4gupPX5cl-SrkW2kCmKk4gnvH2JU0zo1MbjdRoQOGu8Yj.png",ChocolateFM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231913
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl9DnJvCfT7QquFISZqGhcEQI9WPgaOtU_a2qTwwgbNtZZC-D6loN80MPA2-76d2NtA.png",Radio Ancoa TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231914
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlz3AtWnNnwHJQJdMfIY69pfMgaK-A5rzwAOV4YC5np22HZBv8e-Apcx8npUbmlnlaA.png",AE Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231915
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRQQREuIQmxSABtyFian5_y8xVJFafFhGnsxGAikDVXBqY1H1nA5JlpVldhnSsL6vGA.png",Radioactiva TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231916
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0DKOcfda0jSAY7eN5W_T-dAzOMBc3OhvQp09GW75hUqZuxntXxXOx4RLst7WD7ArQ.png",La Clave | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231917
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh00JfQNpo7YVBxjwkcsbBuZwA56xICa9mMwBZfxN5m_UGwnx9lITK53CJS9NWyBXsHQexxrrGOX63ZmKIQ5cOkY1uEj5eKeOZsiYSrR2QPxP6njkGXEcSu5Gr8CYQvZRoEWaEM3B2jy44B3qyruyjC.png",Pauta TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231918
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojgUMwKL7qbvMgoVxc8UFI8EnLkpSgPWdwlm1VuhPWW_dqOKybQz3aFk77mq78jFLeRQ6Md5ZGQAbK0RNfHE24utyCVR3f-7srFw_kECcrFZuz4FcAF2Mk6qUMA7To7WgF4VDgvM0bOGnAdqzr_r21p.png",Radio Tiempo | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231919
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3H8aUafH3sNpSRcw9SICAOK2x_ojNUn6XS5KvMXUYrthYu6FYaYb99PIMcP_c8a-A.png",Radio Infinita | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231920
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyl5P34iA9-NFR_qQWp4QYmWM5PgJIB2-BNJggRP-DHNhlMAhgptm_tIZWkmLOPTCA.png",Radio Romantica | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231921
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohlrTLcd1v3UaK3Mu7RdA-tuUKQK7wwNLGpthxKYrIJXc6Tx-tjFN_puXUIZLECMRKk6_ZPdR107NfjzHgUkZcQFxvVC1ZyrDWxlWw-Gdy1MK2EtyqfE__gYt2oqlRcbsMU0BisgBQnffS7L67DiT4f.png",Radio Agricultura | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231922
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiZ9S9CJmF6iSXX_zP4zW1GqRt2wZpMU45sVje1H57z748eXgv_sByOHlOCF6ilc9-a6JM_Lh1hVWSE_D7Yi08r1FqJDnYRa2bgrXAWACq0DsvqzJ_wbGJKYQE4pfFN4-JmxBhxp1GwEbMTm9cpN9ko.png",Radio Duna | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231923
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoh4sI0KX5yaT_w13EqNvZBo_VD7-Z8at1DKad-QUCbd9P7tf13SWFu7-PHHm17YP-v3aBhB3D-4oPJkjI9xanL55csqz4DYz7O2pqn91jd2AyoMeLe8kry9RMfHNJTYO1ejpahN1NnEiCs9hwJUmKbv.png",Pudahuel FM | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231924
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohSaoo1q-O9XeBsJKHbmWYmfkvRkVteMfQac_FJ_-Cvm1o3vZG7FM5wSjsxNW-SFwGRv6cVECYfWbm_xrDQPrUbPApSmqnekyrzzoa_JL7fm0uFOkPig_mgDTC-r86V1RccmCY09o4SRpHBKtOLLO9c.png",Cooperativa | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231925
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohEykUB5nQAu1NvyofbG_jiF5gXGSUeQdgPh6bsEz_5EcYZXO9HzmRpj1ftBP9exFDkMsVujT0YcpIIYHoTlJ2yKZw48php9l-rhdMQl4tru6kyaxj2uBBNc2US9qwSahaUsnwcR6jvC_wOgGCOyO_-.png",Bio Bio TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231926
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojh8t_upfbFI7piWn38nsS0EpYgNiuoXDZIpNID9XWocjgUEeW0M4LAsc2b9_2k_vzgY28eOOZ_VrHJ-YmvBoxZyISWjKFoUtzPvsAvQugcwCcW8cjO_KLAHPO4zHhcXI6IXSq7TQsu4A0kqdVEzPv6.png",ADN | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231927
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl5RV3xI33VZ9xUEnVQpoRGRJ9U-vp-NDVugVHcX8fGnRxA3ac9dGQvbTDINWvbTF0g.png",T13 Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231928
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohDg0lp4RkPPoHhgBkhLyLjOvXpkZTM-ZAEgK2t-SFFftyVx8ZCLLGuoiMOAPf-MWbmBUWrJQMTHtnr5tXwrXKu4ElbBAZV0rcJdiUhmVgr6XIijxpc4gnHco3tm2bT2MceJy7ZwWAbUW5IoWFTF0LI.png",Vida TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231929
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoghHNgKIFad1cOkEGH8KRRI_g7gG558ObmSSS8ZzpjevCR_y0EmyWmeaLx2ZJFwtRGYLSJlE8g1vQUQD-CKeL-sreGsyXelAkwzkAsv8xf05saxu-oGqS1F0eSK0GRJVDIAPBMwNHgKiepr0YXZtxUK.png",Unidad Evangelica TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231930
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl3rwif2vsQgIIW9Ub-eJWkRNuuGnt0rUk-yxpc2PmIoMOncd3u4v1Gkx9b018TmDwA.png",TNE | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231931
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-1cObfWYtFD4KT3gzp299fPfVyy9qtRQseN6N_qH6d-UIUeH24a-vXoP_FgYaryFA.png",Televida HD | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231932
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyk59l1FGUOf-OvzrSsA1zhb0IwvSlA89ug-qN7fviXVmqQRpkfvbjUl2_jTBrmuCg.png",Restaurando Vidas TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231933
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl0U01aWBLRAFwEvVlHC97cDl778iZV3lC0nZHooBn3mt75aJPynNyyAblb480U-HYQ.png",Radio Vida Curico | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231934
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlzaPFJODcQ9yZ2hWQ2R0pKGlXc0ne2v5RYtgLbkT8j9PoF89JvJO-1S1T6ePVdVOnQ.png",NCTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231935
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogIDKIqbfJwVcTSxIbUX66R1ygoyYBnrAxZgenu9XHUkuWoWBrrErnqv1TojYazr0FGE9GPHrTVGbj3RGY97o7XtwljyjJGWnbBkYZZryQf3MsdwIGYHjDfpYAnCopZVUHrvdJw33r0tF3N_gHrV-LJ.png",Gracia TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231936
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohYgQ-oKmYeJHhCUNdXUC-sHyXm5m2Fvr8hFFOqn-SUmpt56RVjafIcbAc9gxp4oVRrmLhlJaBt0vsakdo_FsDdpN35Op5MOrbxFt23O36b2DBGSL0tx7Q1_nGAw4h8Nvo_yyQunQrdqPWjCFLouPAJ.png",Escuchame Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231937
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmogXeIqw_GLbTXw59K6agoftkIJiwNJlLkDXry02-SVPrzhu_qibLoAbEZujlcOTvcqsO98gN9T93KzdroVhrJwF1OAEcZJSUV4-b5v1DogxjEqIRPYbIdN06Ctv4pKQmIy6Rk81TDF34v-SMlIr4Irc.png",Canal ISB | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231938
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmojNr5adlyCtZbrgnA0oQz1iZFL9f50nAoAgA5dhRQ3tHJGBnL5QdTdv5SMatlgVF36JhQ4R_Sbdh-r0wLZIPak6seUdfh-CN2l_S9JNKa35Q62UlQ1gWjwG06RxqzOxhsYqH6P3eBQheyol2PF7nA20.png",Canal 33 | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231939
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYlyAhDbZtqkLAX6jeuYG8tJdEPguW91-wVwpegzJenseOehZNI1XLCnBLit1mEG0hkQ.png",Casa Sobre La Roca TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231940
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl8l5rymMspzsEP4fxJhs4wnCInyUx0-mDyFp9NxC_QRRXS7JXXkjwnKgv1NRcoubRQ.png",MC Radio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231941
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRewZ9rREOKVR0e9_zUpN50MvMESF4j7ZNOv1sYoCKlmTZF51KsdPNZlZ6zHRRwKEzQ.png",Telezion | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231942
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRXIpgeN-X5j-BKH8heYjDPkC_epuvOCDzXwMDedt8BIgNIUbax-OVREwkyALNjYk1g.png",Sonido Nazaret | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231943
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRZAVKwYDfUnnRerrJtTxRe_jMAMEvLboxjFsJmSw8m3ji1DJkQnZTM9iTTMI1bYNGw.png",Metanoia TV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231944
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QHZ5K2FbmagRqrvBUw-aRc3vzFqNxos16lJMrO0RZIQAbnC2JKR7hNyMeuAp5Umv-h1TfbtB3aS2kPxiNXx8sA.png",TV Emanuel | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231945
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl-4HlGiD-219gxdj-EU1ej7v1qOjgGiEbllPCbO5RwHkcrHyvyQObxsYAuwxCifbog.png",IPNA Medio | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231946
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/NPRq46y-0M4DvNSvMLgYl4WWQVXY70MV-oFsAzHlgw6pP5hVWluoc1CBVCnZA4C7vbmjtIc9sVdp3fNrawF8Eg.png",Enlace BPB | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231947
+#EXTINF:-1 group-title="REGIONES DE CHILE" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JHLUzMZwPdlepLTFvDZ_cA38WTis3TMwRaL8WHbLIVSDpREoyNH3sobHh274ePZchPsBjTveoJRH1vvorAh8OwoBpg9LiBmkEFvmo0Lvbixw.jpg",OsornoTv+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/236062
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3uvlh1DG3eoua0rRo1b3oh1Fou3LpKVcExzYlWHWyGGEn2YbnUH56nTTmigV_IaG7XlGybW61-qiugrI9fs7aT9urtQycCskxkjH9BlfI9AvSryD2Bf-MofuGCrJtljBgm-86lgL6ssty4ivdaxhUhE.jpg",24/7 El Super Libro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149707
+#EXTINF:-1 group-title="RELIGION",24/7 Historias de la Biblia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149708
+#EXTINF:-1 group-title="RELIGION",24/7 La Biblia Serie
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149709
+#EXTINF:-1 group-title="RELIGION",La Voz de Maria (DO)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168571
+#EXTINF:-1 group-title="RELIGION",Bethel - PERU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168572
+#EXTINF:-1 group-title="RELIGION",Costa Rica | ENLACE JUVENIL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168573
+#EXTINF:-1 group-title="RELIGION",María Visión Mexico
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168574
+#EXTINF:-1 group-title="RELIGION",Religiosos - Enlace
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168575
+#EXTINF:-1 group-title="RELIGION",Religiosos - Enlace Juvenil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168576
+#EXTINF:-1 group-title="RELIGION",Religiosos - Teleamiga HD [Co]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168577
+#EXTINF:-1 group-title="RELIGION",Religiosos - TeleBendicion HD [RD]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168578
+#EXTINF:-1 group-title="RELIGION",Religiosos - Solidaria TV FHD [Es]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168579
+#EXTINF:-1 group-title="RELIGION",Religiosos - TV Mana HD  [Arg]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168581
+#EXTINF:-1 group-title="RELIGION",Religiosos - Esne TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168582
+#EXTINF:-1 group-title="RELIGION",Esperanza TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168583
+#EXTINF:-1 group-title="RELIGION",Religiosos - CBN Español [USA]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168584
+#EXTINF:-1 group-title="RELIGION",Religiosos - CDM [PR]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168585
+#EXTINF:-1 group-title="RELIGION",Religiosos - EWTN FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168586
+#EXTINF:-1 group-title="RELIGION",Religiosos - Solidaria TV FHD [Es]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168587
+#EXTINF:-1 group-title="RELIGION",Religiosos - Teleamiga HD [Co]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168588
+#EXTINF:-1 group-title="RELIGION",Religiosos - TeleBendicion HD [RD]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168589
+#EXTINF:-1 group-title="RELIGION",Religiosos - TV Mana HD  [Arg]
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168590
+#EXTINF:-1 group-title="RELIGION",Religiosos - Enlace
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168592
+#EXTINF:-1 group-title="RELIGION",Religiosos - Enlace Juvenil
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168593
+#EXTINF:-1 group-title="RELIGION",Religiosos - Esne TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168594
+#EXTINF:-1 group-title="RELIGION",Bethel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168595
+#EXTINF:-1 group-title="RELIGION",BETHEL PERU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168596
+#EXTINF:-1 group-title="RELIGION",Alerta TV | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168598
+#EXTINF:-1 group-title="RELIGION",Canal Dios Te Ve | HN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168599
+#EXTINF:-1 group-title="RELIGION",Cristiana TV | ES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168600
+#EXTINF:-1 group-title="RELIGION",Dios Te Ve Kids | HN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168602
+#EXTINF:-1 group-title="RELIGION",Ebenezer TV | HN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168603
+#EXTINF:-1 group-title="RELIGION",ESNE | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168605
+#EXTINF:-1 group-title="RELIGION",EWTN | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168606
+#EXTINF:-1 group-title="RELIGION",Extrema TV | CR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168607
+#EXTINF:-1 group-title="RELIGION",Faro de Santidad TV | PR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168608
+#EXTINF:-1 group-title="RELIGION",Gospel Movies Television | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168609
+#EXTINF:-1 group-title="RELIGION",JBN Internacional | HN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168610
+#EXTINF:-1 group-title="RELIGION",La Fe Mueve Montanas | DO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168611
+#EXTINF:-1 group-title="RELIGION",MovieFE | VE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168615
+#EXTINF:-1 group-title="RELIGION",Nuevo Tiempo | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168617
+#EXTINF:-1 group-title="RELIGION",Orbe 21 | AR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168618
+#EXTINF:-1 group-title="RELIGION",TELE AMIGA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168620
+#EXTINF:-1 group-title="RELIGION",ZOEY TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168621
+#EXTINF:-1 group-title="RELIGION",JN19 | PE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168625
+#EXTINF:-1 group-title="RELIGION",Canal ISB | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168626
+#EXTINF:-1 group-title="RELIGION",Jehova TV | HN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168627
+#EXTINF:-1 group-title="RELIGION",NCTV | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168628
+#EXTINF:-1 group-title="RELIGION",Rede Vida | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168629
+#EXTINF:-1 group-title="RELIGION",Renuevo TV | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168630
+#EXTINF:-1 group-title="RELIGION",Restaurando Vidas TV Internacional | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168632
+#EXTINF:-1 group-title="RELIGION",RVida TV | DO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168633
+#EXTINF:-1 group-title="RELIGION",Salvacion TV | PR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168634
+#EXTINF:-1 group-title="RELIGION",Sublime Gracia TV | AR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168635
+#EXTINF:-1 group-title="RELIGION",Tele Familia | CO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168636
+#EXTINF:-1 group-title="RELIGION",Televida HD | CL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168637
+#EXTINF:-1 group-title="RELIGION",TV Aparecida | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168638
+#EXTINF:-1 group-title="RELIGION",TV Evangelizar | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168639
+#EXTINF:-1 group-title="RELIGION",TV Gracia | CO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168640
+#EXTINF:-1 group-title="RELIGION",TV Rede Gospel | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168641
+#EXTINF:-1 group-title="RELIGION",TV Universal | BR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168642
+#EXTINF:-1 group-title="RELIGION",Vida Television | US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168646
+#EXTINF:-1 group-title="RELIGION",XTO TV | BO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168647
+#EXTINF:-1 group-title="RELIGION",3ABN LATINO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/168648
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmp1bWFuZ2lzX2ljb25fMTYxOTAyMjI0NF8wNzA/icon.png?w=170&fakeurl=1",▂ ▄ ▅ ▆  CRISTIANOS  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/31447
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Color Vision 9 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117671
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD:  Super TV 55
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117672
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Television Del Este
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117673
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Tele Centro
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117674
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: CDN 37
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117675
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Digital 15
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117676
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Teleunion
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117678
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Telesistema
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117679
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: CDN Deportes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117680
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Telemicro Canal 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117681
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Ready Television SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117683
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Telefuturo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117684
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Romana Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117685
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Antena 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117686
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD:  Teleantillas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117687
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Luna TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117689
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Microvision HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117690
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: ONDA TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/117691
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA",RD: Telesistemas Canal 11
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/155540
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Dominican_republic_flag_300.png",▂ ▄ ▅ ▆  REPUBLICA DOMINICANA  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30457
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://enciclopedia.us.es/images/8/89/Bandera_de_El_Salvador.png",▂ ▄ ▅ ▆  EL SALVADOR  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30290
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal2%20tcs.jpg",ESA | Canal 2 TCS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93889
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal4%20tcs.jpg",ESA | Canal 4 HD TCS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93890
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal6%20tcs.jpg",ESA | Canal 6 TCS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93891
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/tcs.jpg",ESA | TCS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93892
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/tcs%2B%20y%20canal%2035.jpg",ESA | TCS +
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93893
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal%2012.jpg",ESA | Canal 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93894
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dt1shXZFQ7RyGJZ_4jmG6kZ.jpg",ESA | Canal 19
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93895
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal%2021.jpg",ESA | Canal 21
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93896
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://www.jumangistv.com/logos/canal%20c10.jpg",CANAL 10 SV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/93897
+#EXTINF:-1 group-title="TERROR 24/7",24/7 Historias de Fantasmas SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149701
+#EXTINF:-1 group-title="TERROR 24/7" tvg-logo="http://jumangis.com:2082/images/_PFPECAfduyBrBSxQu9ZP-VAP0Q9U8-QsR3xdgAwTmj172TyzXAoymcBK1SXmGBvA41GBUd2K38SLq3zIOE3hA.jpg",24/7 Oxlack Investigador Paranormal
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149702
+#EXTINF:-1 group-title="TERROR 24/7" tvg-logo="http://jumangis.com:2082/images/_PFPECAfduyBrBSxQu9ZP3VqUM8my6gxxejBZ_7Cht97d0kL6GgTfHtXURi3skLFTc1MWb4h0famUzh6WqbWqQ.jpg",24/7 Contacto Extranormal
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149703
+#EXTINF:-1 group-title="TERROR 24/7" tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-240725.jpg",24/7 Historias de Ultratumba
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149704
+#EXTINF:-1 group-title="TERROR 24/7",24/7 Lo que la gente cuenta SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149705
+#EXTINF:-1 group-title="TERROR 24/7",24/7 Lo que la gente cuenta HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/149706
+#EXTINF:-1 group-title="UFC, WWE & BOXING" tvg-logo="http://jumangis.com:2082/images/LT_F8YvC2OtF98VQsObJGd_JCV-ZmoIh5VWN51s8pF7Hw_0FOtRx1Zrjeybq4UOo-gBn8DUBUn5N_-2WgjZ_pTJNlX4oT-w5Uo3wIgubfya9VsKb7MUji8pOJaQcZjovVxoYKuq1CpW_aW1-moFn95Q3CNpY3w1aT180q0iIqgM0dy6mF_UP6KlBqqN8sU7_vU4hHHtiVmRDe8bk0DtIJohOpeM4afLzoJz4DWgdHvs.png",UFC 24/7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/158544
+#EXTINF:-1 group-title="UFC, WWE & BOXING" tvg-logo="http://jumangis.com:2082/images/kvJpkvengc9yBmME_DCCNSbbdeRaQ22RJgWBOhDuWdqSnSSL7tJWESibpwvLRvioAqzNVwG5WgHz4s5f53SGzvimGXKq7_r-sPJd1dnDodvaxzrihG3icfpVI7KV7P4i.png",FIGHT BOX FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/159889
+#EXTINF:-1 group-title="UFC, WWE & BOXING" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcFjM64FudvZpiDWzeyi10JJUoEsw20MtOOhBKFRakjo-Xgumgxrd051rUS2Wm5Uulg.jpg",││USA││THE FIGHT NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/159890
+#EXTINF:-1 group-title="UFC, WWE & BOXING" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3v7V6UUeemviJzfIINj4QDVzUmOZxKskeJqVDc6ZJEAA.png",UFC Fight Pass
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/65730
+#EXTINF:-1 group-title="UFC, WWE & BOXING" tvg-logo="http://jumangis.com:2082/images/8FSJByZeM0HsK5lfvnyV2EK7mEj5ZjfAiptr7SiTgDv396HstUkmlYhLtmYErnVVcUKenUqqNhN5qLddgmEPGb7aQrE54rVGP5f-PqdzU5k.png",WWE NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/67440
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: 4MUSIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106828
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: 4Seven-HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106829
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: 5Select
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106830
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: 5Star
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106831
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: 5USA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106832
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : 4Seven
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106833
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: AMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106834
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Animal Planet SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106835
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Alibi
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106836
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : babytv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106838
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC News-HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106839
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC Parliament
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106840
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106842
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC One W Mid
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106843
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106844
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BBC2 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106845
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: BoxNation HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106847
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Blaze
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106848
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Boomerang
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106849
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Cartoon Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106850
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Cartoon Network HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106851
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Cartoonito
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106852
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: CBBC HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106853
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Challenge
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106857
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Channel 5 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106858
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Channel 4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106859
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Channel 5 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106860
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Channel 5 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106861
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: CNN International
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106862
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Comedy Central HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106863
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Crime Investigation
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106864
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : CBBC SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106866
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : CBeebies HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106867
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : CBeebies SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106868
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : CITV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106869
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Crime+Inv HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106870
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Dave FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106871
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Discovery SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106872
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Disney Channel HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106873
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Disney Junior
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106874
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Disney XD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106875
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Dave
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106876
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Discovery Channel HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106877
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Discovery History SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106878
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Discovery Science SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106879
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Discovery Turbo SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106880
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : DMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106881
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Drama
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106882
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: E!
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106883
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : E4 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106884
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : E4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106885
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Eden FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106886
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Eurosport 1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106890
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Eurosport 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106891
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Eurosport 2 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106892
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Eurosport 2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106893
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: FREESPORTS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106894
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Film4 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106895
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Fox
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106896
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: FOOD NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106897
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Fox FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106898
+#EXTINF:-1 group-title="UNITED KINGDOM",UK:Gold FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106899
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: H2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106901
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: History
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106902
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : ITV1 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106903
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106904
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV 1 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106905
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV2 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106906
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106907
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : ITV3 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106908
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV3 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106909
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV 3 FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106910
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV4 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106911
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : ITV4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106912
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITVbe
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106913
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITVbe FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106914
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: ITV CENTRAL WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106915
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Kiss
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106916
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Lifetime
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106917
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Lifetime FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106918
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Love Nature HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106919
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: LIVERPOOL FC HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106920
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MAN UNITED TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106921
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : More 4 SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106922
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : More4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106923
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : MTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106924
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106925
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Base
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106926
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Classic
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106927
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Club
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106928
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106929
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Hits
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106930
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Music
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106931
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: MTV Rocks
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106932
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nat Geo HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106933
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Nat Geo
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106934
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Nat Geo Wild
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106935
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nickelodeon  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106936
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nick Junior SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106937
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nick Junior HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106938
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: NICK JR TOO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106939
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nick Toons
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106940
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Nickelodeon SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106941
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Paramount
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106942
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Pick
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106943
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Pop
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106944
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Pop Max
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106945
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Premier Sports 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106946
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Premier Sports 2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106947
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Quest
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106948
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Quest Red
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106949
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Racing UK HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106950
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Racing UK FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106951
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Really
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106952
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : RTE1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106953
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : RTE2 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106954
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: RTE News
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106955
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : S4C
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106956
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: SyFy
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106957
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Syfy HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106958
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Sony Movies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106959
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : TCM FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106960
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : TLC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106961
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: Tiny Pop
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106962
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: TLC FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106963
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Universal HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106964
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: UTV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106965
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: VIRGIN MEDIA 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106966
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : VIRGIN MEDIA 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106967
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: VIRGIN MEDIA 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106968
+#EXTINF:-1 group-title="UNITED KINGDOM",UK : Yesterday
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106969
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA Star Plus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106970
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | B4U Movies
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106971
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | COLORS FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106972
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Sony Max HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106973
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | SONY SAB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106974
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Sony TV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106975
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Star GOLD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106976
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Star Gold FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106977
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Star Plus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106978
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA | Zee Cinema FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106979
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA: Sony TV FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106980
+#EXTINF:-1 group-title="UNITED KINGDOM",UK INDIA: Zee TV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106981
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: INDIA B4U Music
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106982
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: INDIA Zee Cinema
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106983
+#EXTINF:-1 group-title="UNITED KINGDOM",UK: INDIA Zee TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/106984
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duDdHzV74nBVAA2s1XDhxKT.png",CINE SD | UNIVERSAL CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138178
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20reality.png",CINE SD | UNIVERSAL REALITY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138179
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20cinema.png",CINE SD | UNIVERSAL CINEMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138180
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dvwTh-BT5ZjpWIpZuERs8clVOAqwM0ctlMXtdEpAmbylQ.png",CINE SD | UNIVERSAL CRIME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138181
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20comedi.png",CINE SD | UNIVERSAL COMEDY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138182
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20premiere.png",CINE SD | UNIVERSAL PREMIERE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138183
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duYgfFzaOZw5cfoXjlmHRPtSeSvjW9-32Vf29TncZ8lIQ.png",CINE SD | STUDIO UNIVERSAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138184
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duDdHzV74nBVAA2s1XDhxKT.png",CINE HD | UNIVERSAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138185
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png",CINE HD | UNIVERSAL CRIME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138187
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20cinema.png",CINE HD | UNIVERSAL CINEMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138188
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dunFUVXTGGAEwtxsmkUZ5k-8EfS0DS2wSCL3l2grQItDQ.png",CINE HD | UNIVERSAL REALITY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138189
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8duDdHzV74nBVAA2s1XDhxKT.png",CINE FHD | UNIVERSAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138190
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dunFUVXTGGAEwtxsmkUZ5k-8EfS0DS2wSCL3l2grQItDQ.png",CINE FHD | UNIVERSAL REALITY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138191
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dujghhrZJROfOL9Z_FXYpIFn_ZC1oq135N-jXE6SEUIxQ.png",CINE FHD | UNIVERSAL CINEMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138192
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20comedi.png",CINE FHD | UNIVERSAL COMEDY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138193
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="http://jumangis.com:2082/images/Evz9NOmszlqK73ra2jafAXQjPqnS0Y3_c_4vuqiK8dtRS9zKSitkAU4dksBaoC-iX8CW46D3DqJUR5pXol4PsA.png",CINE FHD | UNIVERSAL PREMIERE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138194
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/studio%20universal.png",CINE FHD | STUDIO UNIVERSAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138195
+#EXTINF:-1 group-title="UNIVERSAL +" tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png",CINE FHD | UNIVERSAL CRIME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/138196
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/OIP.pByqL4ek9tTE0npHQXdkOwAAAA?pid=ImgDet&rs=1",FL WSCVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/178917
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION MCALLEN TEXAS HD*
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192610
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION LOS ANGELES HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192611
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION MIAMI HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192612
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION DENVER HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192613
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION CHICAGO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192614
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION HOUSTON HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192615
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION NEW YORK HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192616
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",CLEVELAND HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192617
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION SAN ANTONIO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192618
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192619
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION ATLANTA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192620
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION DALLAS TX HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192621
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION TELENOVELAS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192622
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION AUSTIN HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192623
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION PHILADELPHIA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192624
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION PHOENIX HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192625
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION RALEIGH HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192626
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION  SALT LAKE HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192627
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION SAN FRANCISCO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192628
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION ALBUQUERQUE SANTA FE HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192629
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192630
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION: HANFORD | KFTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192631
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION: AZ | Flagstaff/doney Park | 27 KTVW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192632
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIj7-skXHPulWaT-GKgUcDwEB9M3KIa34hwln_LKOgwvmz1rc5JF3sFLoK6DwU6j0zM.png",UNIVISION: LOCAL | IL | Joliet | 35 WGBO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192633
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UniMas West
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192634
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",Unimas Cleveland HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192635
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS LOS ANGELES  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192636
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS PHILADELPHIA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192637
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS 31 (KTFO) Austin | HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192638
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",Unimas Colorado  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192639
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS EAST HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192640
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",Unimas Houston  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192641
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",Unimas Las Vegas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192642
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS NEW YORK HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192643
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS SACRAMENTO HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192644
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS San Antonio HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192645
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS TUCSON  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192646
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS  Fresno  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192647
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS  Miami  HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192648
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS ARIZONA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192649
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="https://th.bing.com/th/id/R.99a446cdbaf5e70858c91b9d12303b08?rik=%2f4hI93BQ0ifhfA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-idjmTi1XtRU%2fULzyJ5Q2MWI%2fAAAAAAAARTs%2f0qpefEXrFvw%2fs1600%2fUniM%c3%a1s%2blogo%2b2013.png&ehk=TJTFmXm58GmhbC%2fjyQ8f7JgRVrmr%2fwTfTz6UOAFJOPI%3d&risl=&pid=ImgRaw&r=0",UNIMAS Boston MA WUTF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192650
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Alburquerque Santa Fe HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192651
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision MIAMI HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192652
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Austin HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192653
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Cleveland HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192654
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Dallas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192655
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision East HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192656
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Fresno HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192657
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Houston HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192658
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Los Angeles HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192659
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Las Vegas HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192660
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision RALEIGH HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192661
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision New York HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192662
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Philadelphia HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192663
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Phoenix HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192664
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision Sacramento HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192665
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision SALT LAKE HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192666
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision San Antonio HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192667
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision San Francisco HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192668
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",Galavision West HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192669
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL0McJczvT9YwQP0aVXpMbIqzat37HjQUcoRq-HgdMpKfQ.jpg",GALAVISION ATLANTA HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192670
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Internacional SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192716
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Internacional HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192717
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Internacional FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192718
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo New York
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192719
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Miami
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192720
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Los Angeles
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192721
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Tampa
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192722
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Chicago
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192723
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Orlando Florida
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192724
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Washington
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192725
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Washington DC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192726
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Atlanta
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192727
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Tucson
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192728
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo San francisco
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192729
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo San Antonio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192730
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Phoenix
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192731
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Philadelphia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192732
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Las Vegas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192733
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Houston
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192734
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Fresno
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192735
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Denver
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192736
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Dallas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192737
+#EXTINF:-1 group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png",LAT: Telemundo Boston
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192738
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://i.postimg.cc/43k5bv2K/latino-kids.jpg",Latino Kids
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/152818
+#EXTINF:-1 group-title="URUGUAY",•●★-- Deportes Uruguay --★●•
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28537
+#EXTINF:-1 group-title="URUGUAY",SP: UY: VTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28538
+#EXTINF:-1 group-title="URUGUAY",SP: UY: VTV HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28539
+#EXTINF:-1 group-title="URUGUAY",SP: UY: VTV Plus FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28540
+#EXTINF:-1 group-title="URUGUAY",SP: UY: VTV Plus HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/28541
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://assets.stickpng.com/thumbs/584c5bbd9ab0a108e6959e70.png",▂ ▄ ▅ ▆  URUGUAY  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30352
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/V4SxA7nnmPChxB-xNmbG3uVWwsXGxyuDuQ8UUqklo-wvLYOOxP8jBqLs_LVRNpwbag0jL5Xy2XqFyCN2eUcX5eYJP6_epk8j1Fso8cGeBNylP7ucP7CZzPdAsq-rDuBhyyiXMsZiPYSDtzGtwD1xK67FpH_gqWbN3nKATZ7LYOyOxq_9X6a45xv0u56LpgPu.jpg",UY: 1000 x Hora Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30353
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/R3bPDKeh4rxMx5AJnLFxXTx24K9_qkL_3KrqRDG0saCsxSDsmtblfsihf2fwScAIiJSky_hAlaDd5Qza_Qy9x-jCpAoYAo5RfEro9aIJ-PM.png",UY: A+V
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30354
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",UY: Artigas Television
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30355
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg",UY: Canal 4 Treinta y tres
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30356
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/dtL_qV1Jx8lzgwLzQJZfuR4KJMzhBofpSwEQ6axiWiYNw8g023TrNFgoVJ5Wnutyl2pg23LuEEC1WG-n-KNiit9Vg3sFe2EoEv6zd0dercOBAtcxtnTfgIno6ty1J1WD.png",UY: Canal 12
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30357
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg",UY: Canal 2 San Carlos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30359
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcF41S1GUjb4VB-YrMe-lYqhfpsYahXp2iS3iiEgVa8sHv3-rM4-s7drQufw8AXERok.png",UY: Canal 4 Paysandu
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30360
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/dtL_qV1Jx8lzgwLzQJZfuR4KJMzhBofpSwEQ6axiWiYNw8g023TrNFgoVJ5Wnutyu9LuoQtYS8IgGHUBV-u3iNw0qhaKnmAuofOA-1L0zUIVXMBmS5HleJxrriAtbEBkvrefdq-Up-KFWn0KjY9WJA.png",UY: Canal 5 Noticias y Deportes Colonia
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30361
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg",UY: Canal 4 Salto
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30362
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg",UY: Canal 6 Durazno
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30363
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/n6z8EntZ_4smWasLdJUz4zBEIlp1ibaaqntbJV9EUO8keUo3n8LACWNonRs10fRXvir9y8dMf6H9mCL1isCuwGG_sI4MoOvDr6p4wwJJpGI.png",UY: Canal-M
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30365
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg",UY: Cardinal TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30366
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg",UY: Florida television color
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30368
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg",UY: Latina Tv Paysandu
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30369
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUmqZ0WuAQFuOeFeDTXLqTHa70bOT4TcFftyZzJDBtIAS.jpg",UY: Presidencia Uruguay
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30371
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg",UY: RTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30372
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg",UY: TV Ciudad
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30373
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/uaPjw5BT7AH0czqxBs7hwmPxN4FpSv2suw11EoRl4oYsErrC-InhauK0maWyUsSfp-bfFnbfFFljTnXYjeInsxATcYs_bTgrSl3FxJ-sHP04uuXvDkmV8BBZELBKvHI85cq8TKC-1S0duvMQcwaR1YuhvS_5rCvvhsRzaS1sb00.png",UY: Canal 12 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30376
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcFhS02U5_sWXaWJtPH_T-Wo8ip_zmkEw5xETjENQKpLK_IIv98kF2uYz6kwDpGryjk.png",UY: Canal 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30377
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcFhS02U5_sWXaWJtPH_T-Wo8ip_zmkEw5xETjENQKpLK_IIv98kF2uYz6kwDpGryjk.png",UY: Canal 4 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30378
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUDKXu0HoXGao9N9I3XfKzQCNlukm3pVKhganZeFIYrNHcKu599Knn4usLHl78MSoA.jpg",UY: Canal 10
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30379
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUDKXu0HoXGao9N9I3XfKzQCNlukm3pVKhganZeFIYrNHcKu599Knn4usLHl78MSoA.jpg",UY: Canal 10 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30380
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png",UY: La RED
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30381
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg",UY: Television Nacional HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30382
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://jumangis.com:2082/images/n6z8EntZ_4smWasLdJUz4_aaJX64Dja9F4AGm3A2zUSm4QP6F7MAiKAVWc5fDyPT.png",UY: Canal 7 Punta HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30383
+#EXTINF:-1 group-title="URUGUAY",UY: 89. 1 FM cauces
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30385
+#EXTINF:-1 group-title="URUGUAY",UY: La 21 Radio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30386
+#EXTINF:-1 group-title="URUGUAY",UY: RPC Contenidos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30387
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/39708/240/default.jpg",UY: ANPI TV San Ramon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30389
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg",UY: Cámara de Representantes
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30391
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB.png",UY: Canal 9 TeleRocha
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30393
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://i.ytimg.com/vi/SDn7WMlPCzM/mqdefault.jpg",UY: Canal 4 HD Treinta y Tres
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30396
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://pbs.twimg.com/profile_images/693868759132565504/8_tDxjLO_400x400.png",UY: Canal 8 Rocha
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30397
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6703/240/default.jpg",UY: El Canal de la Región - Noreste
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30398
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9411/240/default.jpg",UY: Canal 2 Visión Canaria
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30399
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://cristinamartinjimenez.com/wp-content/uploads/2018/12/san-jose-ahora.jpg",UY: San Jose Ahora
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30400
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg",UY: Canal 8 Durazno
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30401
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://i.ytimg.com/vi/SuPEfsf1LEM/hqdefault.jpg",UY: TVL Pando
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30402
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg",UY: Canal 4 Juan Lacaze
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30403
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg",UY: Canal 11 Las Piedras
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30404
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg",UY: Rio Uruguay TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/30405
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: 5 STARMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114108
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: ACTIONMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114109
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: CINEMAX EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114110
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: CINEMAX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114111
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: OUTERMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114112
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: MOREMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114113
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: THRILLERMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114114
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: EPIX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114115
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: EPIX 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114116
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: EPIX DRIVE-IN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114117
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: EPIX HITS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114118
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114119
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114120
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO COMEDY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114121
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO FAMILY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114122
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO SIGNATURE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114123
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114124
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114125
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HBO ZONE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114126
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: HDNET MOVIES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114127
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: MOVIE PLEX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114128
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: INDIE PLEX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114129
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: RETRO PLEX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114130
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114131
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114132
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME SHOWCASE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114133
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME EXTREME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114134
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME FAMILY ZONE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114135
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME NEXT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114136
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME WOMEN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114137
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ CINEMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114138
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114139
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114140
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ COMEDY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114141
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ EDGE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114142
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114143
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114144
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE ACTION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114145
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE CLASSIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114146
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE FAMILY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114147
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE SUSPENSE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114148
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZENCORE WESTERNS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114149
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ IN BLACK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114150
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: STARZ KIDS & FAMILY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114151
+#EXTINF:-1 group-title="USA - CINEMA PPV",CA: SHOWCASE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114152
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME BET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114153
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: SHOWTIME 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114154
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: THE MOVIE CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114155
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK: SONY MOVIE CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114156
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK: SONY MOVIES CLASSIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114157
+#EXTINF:-1 group-title="USA - CINEMA PPV",US: MOVIEMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114158
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK: SKY REPLAY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114159
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK: SKY 1 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114160
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA SCI & HORROR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114161
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA GREATS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114162
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA PREMIERE FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114163
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA DRAMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114164
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA THRILLER FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114165
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA COMEDY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114166
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA ACTION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114167
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES:  SKY CINEMA HITS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114168
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES:  SKY CINEMA SELECT FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114169
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK: SKY CINEMA ANIMATION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114170
+#EXTINF:-1 group-title="USA - CINEMA PPV",UK MOVIES: SKY CINEMA FAMILY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114171
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME 2 WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114172
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME SHOWCASE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114173
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME EXTREME WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114174
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME FAMILY ZONE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114175
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME NEXT WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114176
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME WOMEN WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114177
+#EXTINF:-1 group-title="USA - CINEMA PPV",SHOWTIME BET WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114178
+#EXTINF:-1 group-title="USA - CINEMA PPV",ACTIONMAX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114179
+#EXTINF:-1 group-title="USA - CINEMA PPV",MORE MAX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114180
+#EXTINF:-1 group-title="USA - CINEMA PPV",THRILLERMAX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114181
+#EXTINF:-1 group-title="USA - CINEMA PPV",HBO 2 WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114182
+#EXTINF:-1 group-title="USA - CINEMA PPV",HBO COMEDY WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114183
+#EXTINF:-1 group-title="USA - CINEMA PPV",HBO FAMILY WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114184
+#EXTINF:-1 group-title="USA - CINEMA PPV",HBO SIGNATURE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114185
+#EXTINF:-1 group-title="USA - CINEMA PPV",HBO ZONE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114186
+#EXTINF:-1 group-title="USA - CINEMA PPV",INDIEPLEX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114187
+#EXTINF:-1 group-title="USA - CINEMA PPV",MOVIEPLEX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114188
+#EXTINF:-1 group-title="USA - CINEMA PPV",RETROPLEX WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114189
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZ CINEMA WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114190
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZ COMEDY WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114191
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZ EDGE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114192
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE ACTION WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114193
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE BLACK WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114194
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE CLASSIC WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114195
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE FAMILY WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114196
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE SUSPENSE WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114197
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZENCORE WESTERN WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114198
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZINBLACK WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114199
+#EXTINF:-1 group-title="USA - CINEMA PPV",STARZKIDS WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114200
+#EXTINF:-1 group-title="USA - CINEMA PPV",TCM WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114201
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: CARTOON NETWORK EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114343
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: CARTOON NETWORK WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114344
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY CHANNEL EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114345
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY CHANNEL WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114346
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY JR EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114347
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY JR WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114348
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY XD EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114349
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: DISNEY XD WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114350
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: NICK JR EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114351
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: NICKELODEON EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114352
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: NICK JR WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114353
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: NICKTOONS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114354
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: PBS KIDS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114355
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: TEENNICK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114356
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: Nickelodeon West
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114357
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: UNIVERSAL KIDS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114358
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",US: BOOMERANG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114359
+#EXTINF:-1 group-title="USA - KIDS & FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png",•●★-- 24/7 Kids --★●
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45732
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Paw Patrol 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45733
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Paw Patrol HD 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45734
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Dora the Explorer 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45735
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Agent Oso 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45736
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Futurama 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45737
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Futurama HD 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45738
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: South Park 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45739
+#EXTINF:-1 group-title="USA - KIDS & FAMILY",USA: Treehouse of Horror 24H
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/45741
+#EXTINF:-1 group-title="USA ABC",TX KTXSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220619
+#EXTINF:-1 group-title="USA ABC",OK KTENⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220620
+#EXTINF:-1 group-title="USA ABC",GA WALBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220621
+#EXTINF:-1 group-title="USA ABC",NY WTENⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220622
+#EXTINF:-1 group-title="USA ABC",NM KOATⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220623
+#EXTINF:-1 group-title="USA ABC",LA KLAXⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220624
+#EXTINF:-1 group-title="USA ABC",PA WATMⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220625
+#EXTINF:-1 group-title="USA ABC",TX KVIIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220626
+#EXTINF:-1 group-title="USA ABC",AK KYURⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220627
+#EXTINF:-1 group-title="USA ABC",NC WLOSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220628
+#EXTINF:-1 group-title="USA ABC",GA WSBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220629
+#EXTINF:-1 group-title="USA ABC",GA WJBFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220630
+#EXTINF:-1 group-title="USA ABC",MN KAALⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220631
+#EXTINF:-1 group-title="USA ABC",TX KVUEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220632
+#EXTINF:-1 group-title="USA ABC",CA KEROⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220633
+#EXTINF:-1 group-title="USA ABC",MD WMARⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220634
+#EXTINF:-1 group-title="USA ABC",ME WVIIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220635
+#EXTINF:-1 group-title="USA ABC",LA WBRZⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220636
+#EXTINF:-1 group-title="USA ABC",MI WOTVⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220637
+#EXTINF:-1 group-title="USA ABC",TX KBMTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220638
+#EXTINF:-1 group-title="USA ABC",MT KSVIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220639
+#EXTINF:-1 group-title="USA ABC",MS WLOXⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220640
+#EXTINF:-1 group-title="USA ABC",NY WIVTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220641
+#EXTINF:-1 group-title="USA ABC",AL WBMAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220642
+#EXTINF:-1 group-title="USA ABC",ND KBMYⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220643
+#EXTINF:-1 group-title="USA ABC",ID KIVIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220644
+#EXTINF:-1 group-title="USA ABC",MA WCVBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220645
+#EXTINF:-1 group-title="USA ABC",KY WBKOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220646
+#EXTINF:-1 group-title="USA ABC",MT KWYBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220647
+#EXTINF:-1 group-title="USA ABC",IO KCRGⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220648
+#EXTINF:-1 group-title="USA ABC",SC WCIVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220649
+#EXTINF:-1 group-title="USA ABC",WV WCHSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220650
+#EXTINF:-1 group-title="USA ABC",NC WSOCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220651
+#EXTINF:-1 group-title="USA ABC",VA WVAWⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220652
+#EXTINF:-1 group-title="USA ABC",TN WTVCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220653
+#EXTINF:-1 group-title="USA ABC",IL WLSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220654
+#EXTINF:-1 group-title="USA ABC",OH WCPOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220655
+#EXTINF:-1 group-title="USA ABC",WV WBOYⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220656
+#EXTINF:-1 group-title="USA ABC",OH WEWSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220657
+#EXTINF:-1 group-title="USA ABC",CO KRDOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220658
+#EXTINF:-1 group-title="USA ABC",MO KMIZⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220659
+#EXTINF:-1 group-title="USA ABC",SC WOLOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220660
+#EXTINF:-1 group-title="USA ABC",GA WTVMⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220661
+#EXTINF:-1 group-title="USA ABC",OH WSYXⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220662
+#EXTINF:-1 group-title="USA ABC",TX KIIIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220663
+#EXTINF:-1 group-title="USA ABC",TX WFAAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220664
+#EXTINF:-1 group-title="USA ABC",OH WKEFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220665
+#EXTINF:-1 group-title="USA ABC",CO KMGHⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220666
+#EXTINF:-1 group-title="USA ABC",IA WOIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220667
+#EXTINF:-1 group-title="USA ABC",MI WXYZⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220668
+#EXTINF:-1 group-title="USA ABC",AL WDHNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220669
+#EXTINF:-1 group-title="USA ABC",MN WDIOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220670
+#EXTINF:-1 group-title="USA ABC",NC WTVDⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220671
+#EXTINF:-1 group-title="USA ABC",USA | ABC Eastⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220672
+#EXTINF:-1 group-title="USA ABC",CA KECYⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220673
+#EXTINF:-1 group-title="USA ABC",TX KVIAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220674
+#EXTINF:-1 group-title="USA ABC",NY WENYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220675
+#EXTINF:-1 group-title="USA ABC",PA WJETⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220676
+#EXTINF:-1 group-title="USA ABC",OR KEZIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220677
+#EXTINF:-1 group-title="USA ABC",CA KAEFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220678
+#EXTINF:-1 group-title="USA ABC",IN WEHTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220679
+#EXTINF:-1 group-title="USA ABC",AK KATNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220680
+#EXTINF:-1 group-title="USA ABC",ND WDAYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220681
+#EXTINF:-1 group-title="USA ABC",MI WJRTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220682
+#EXTINF:-1 group-title="USA ABC",SC WPDEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220683
+#EXTINF:-1 group-title="USA ABC",FL WZVNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220684
+#EXTINF:-1 group-title="USA ABC",IN WPTAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220685
+#EXTINF:-1 group-title="USA ABC",CA KFSNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220686
+#EXTINF:-1 group-title="USA ABC",FL WCJBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220687
+#EXTINF:-1 group-title="USA ABC",CO KJCTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220688
+#EXTINF:-1 group-title="USA ABC",MI WZZMⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220689
+#EXTINF:-1 group-title="USA ABC",MT KFBBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220690
+#EXTINF:-1 group-title="USA ABC",WI WBAYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220691
+#EXTINF:-1 group-title="USA ABC",MS WABGⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220692
+#EXTINF:-1 group-title="USA ABC",VA WVECⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220693
+#EXTINF:-1 group-title="USA ABC",IL WSILⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220694
+#EXTINF:-1 group-title="USA ABC",PA WHTMⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220695
+#EXTINF:-1 group-title="USA ABC",VA WHSVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220696
+#EXTINF:-1 group-title="USA ABC",CT WTNHⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220697
+#EXTINF:-1 group-title="USA ABC",MS WDAMⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220698
+#EXTINF:-1 group-title="USA ABC",HI KITVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220699
+#EXTINF:-1 group-title="USA ABC",TX KTRKⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220700
+#EXTINF:-1 group-title="USA ABC",USA | ABC Huntsville AL WAAYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220701
+#EXTINF:-1 group-title="USA ABC",ID KIFIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220702
+#EXTINF:-1 group-title="USA ABC",IN WRTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220703
+#EXTINF:-1 group-title="USA ABC",MS WAPTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220704
+#EXTINF:-1 group-title="USA ABC",FL WJXXⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220705
+#EXTINF:-1 group-title="USA ABC",AR KAITⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220706
+#EXTINF:-1 group-title="USA ABC",AK KJUDⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220707
+#EXTINF:-1 group-title="USA ABC",MO KMBCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220708
+#EXTINF:-1 group-title="USA ABC",NE KHGIⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220709
+#EXTINF:-1 group-title="USA ABC",MO KTVOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220710
+#EXTINF:-1 group-title="USA ABC",TN WATEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220711
+#EXTINF:-1 group-title="USA ABC",WI WXOWⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220712
+#EXTINF:-1 group-title="USA ABC",IN WPBYⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220713
+#EXTINF:-1 group-title="USA ABC",LA KATCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220714
+#EXTINF:-1 group-title="USA ABC",MI WLAJⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220715
+#EXTINF:-1 group-title="USA ABC",TX KGNSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220716
+#EXTINF:-1 group-title="USA ABC",NV KTNVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220717
+#EXTINF:-1 group-title="USA ABC",OK KSWOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220718
+#EXTINF:-1 group-title="USA ABC",KY WTVQⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220719
+#EXTINF:-1 group-title="USA ABC",OH WOHLⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220720
+#EXTINF:-1 group-title="USA ABC",NE KLKNⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220721
+#EXTINF:-1 group-title="USA ABC",AR KATVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220722
+#EXTINF:-1 group-title="USA ABC",CA KABCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220723
+#EXTINF:-1 group-title="USA ABC",KY WHASⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220724
+#EXTINF:-1 group-title="USA ABC",VA WSETⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220725
+#EXTINF:-1 group-title="USA ABC",GA WGXAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220726
+#EXTINF:-1 group-title="USA ABC",WI WKOWⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220727
+#EXTINF:-1 group-title="USA ABC",NH WMURⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220728
+#EXTINF:-1 group-title="USA ABC",OR KDRVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220729
+#EXTINF:-1 group-title="USA ABC",TN WATNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220730
+#EXTINF:-1 group-title="USA ABC",MS WTOKⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220731
+#EXTINF:-1 group-title="USA ABC",FL WPLGⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220732
+#EXTINF:-1 group-title="USA ABC",TX KMIDⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220733
+#EXTINF:-1 group-title="USA ABC",WI WISNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220734
+#EXTINF:-1 group-title="USA ABC",MT KTMFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220735
+#EXTINF:-1 group-title="USA ABC",IL WQADⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220736
+#EXTINF:-1 group-title="USA ABC",LA KNOEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220737
+#EXTINF:-1 group-title="USA ABC",AL WNCFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220738
+#EXTINF:-1 group-title="USA ABC",TN WKRNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220739
+#EXTINF:-1 group-title="USA ABC",MA WLNEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220740
+#EXTINF:-1 group-title="USA ABC",NC WCTIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220741
+#EXTINF:-1 group-title="USA ABC",LA WGNOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220742
+#EXTINF:-1 group-title="USA ABC",NY WABCⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220743
+#EXTINF:-1 group-title="USA ABC",USA | ABC News Liveⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220744
+#EXTINF:-1 group-title="USA ABC",WV WOAYⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220745
+#EXTINF:-1 group-title="USA ABC",OK KOCOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220746
+#EXTINF:-1 group-title="USA ABC",FL WFTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220747
+#EXTINF:-1 group-title="USA ABC",CA KESQⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220748
+#EXTINF:-1 group-title="USA ABC",FL WMBBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220749
+#EXTINF:-1 group-title="USA ABC",FL WEARⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220750
+#EXTINF:-1 group-title="USA ABC",PA WPVIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220751
+#EXTINF:-1 group-title="USA ABC",AZ KNXVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220752
+#EXTINF:-1 group-title="USA ABC",PA WTAEⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220753
+#EXTINF:-1 group-title="USA ABC",OR KATUⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220754
+#EXTINF:-1 group-title="USA ABC",SD KOTAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220755
+#EXTINF:-1 group-title="USA ABC",CA KRCRⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220756
+#EXTINF:-1 group-title="USA ABC",NV KOLOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220757
+#EXTINF:-1 group-title="USA ABC",VA WRICⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220758
+#EXTINF:-1 group-title="USA ABC",NY WHAMⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220759
+#EXTINF:-1 group-title="USA ABC",CA KXTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220760
+#EXTINF:-1 group-title="USA ABC",MN KSTPⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220761
+#EXTINF:-1 group-title="USA ABC",MD WMDTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220762
+#EXTINF:-1 group-title="USA ABC",UT KTVXⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220763
+#EXTINF:-1 group-title="USA ABC",TX KSATⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220764
+#EXTINF:-1 group-title="USA ABC",CA KGTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220765
+#EXTINF:-1 group-title="USA ABC",CA KGOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220766
+#EXTINF:-1 group-title="USA ABC",CA KEYTⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220767
+#EXTINF:-1 group-title="USA ABC",FL WWSBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220768
+#EXTINF:-1 group-title="USA ABC",PA WNEPⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220769
+#EXTINF:-1 group-title="USA ABC",WA KOMOⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220770
+#EXTINF:-1 group-title="USA ABC",LA KTBSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220771
+#EXTINF:-1 group-title="USA ABC",IA KCAUⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220772
+#EXTINF:-1 group-title="USA ABC",SD KSFYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220773
+#EXTINF:-1 group-title="USA ABC",WA KXLYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220774
+#EXTINF:-1 group-title="USA ABC",MA WGGBⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220775
+#EXTINF:-1 group-title="USA ABC",MO KSPRⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220776
+#EXTINF:-1 group-title="USA ABC",MO KQTVⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220777
+#EXTINF:-1 group-title="USA ABC",MI KDNLⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220778
+#EXTINF:-1 group-title="USA ABC",NY WSYRⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220779
+#EXTINF:-1 group-title="USA ABC",FL WTXLⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220780
+#EXTINF:-1 group-title="USA ABC",FL WFTSⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220781
+#EXTINF:-1 group-title="USA ABC",USA | ABC Terre Haute WAWVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220782
+#EXTINF:-1 group-title="USA ABC",OH WTVGⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220783
+#EXTINF:-1 group-title="USA ABC",KS KTKAⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220784
+#EXTINF:-1 group-title="USA ABC",MI WGTUⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220785
+#EXTINF:-1 group-title="USA ABC",AZ KGUNⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220786
+#EXTINF:-1 group-title="USA ABC",OK KTULⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220787
+#EXTINF:-1 group-title="USA ABC",ID KSAWⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220788
+#EXTINF:-1 group-title="USA ABC",TX KLTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220789
+#EXTINF:-1 group-title="USA ABC",TX KAVUⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220790
+#EXTINF:-1 group-title="USA ABC",TX KXXVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220791
+#EXTINF:-1 group-title="USA ABC",DC WJLAⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220792
+#EXTINF:-1 group-title="USA ABC",NY WWTIⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220793
+#EXTINF:-1 group-title="USA ABC",WI WAOWⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220794
+#EXTINF:-1 group-title="USA ABC",TX KRGVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220795
+#EXTINF:-1 group-title="USA ABC",FL WPBFⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220796
+#EXTINF:-1 group-title="USA ABC",USA | ABC Westⓧ HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220797
+#EXTINF:-1 group-title="USA ABC",WV WTRFⓧ OFFLINE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220798
+#EXTINF:-1 group-title="USA ABC",NC WWAYⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220799
+#EXTINF:-1 group-title="USA ABC",NC WXLVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220800
+#EXTINF:-1 group-title="USA ABC",WA KAPPⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220801
+#EXTINF:-1 group-title="USA ABC",OH WYTVⓧ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/220802
+#EXTINF:-1 group-title="USA CBS",CBS CINCINNATI WKRC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131459
+#EXTINF:-1 group-title="USA CBS",CBS CLEVELAND WOIO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131460
+#EXTINF:-1 group-title="USA CBS",CBS: AL BIRMINGHAM WIAT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131461
+#EXTINF:-1 group-title="USA CBS",CBS: AL MOBILE WKRG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131462
+#EXTINF:-1 group-title="USA CBS",CBS: AR LITTLE ROCK KTHV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131463
+#EXTINF:-1 group-title="USA CBS",CBS: AZ PHOENIX KPHO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131464
+#EXTINF:-1 group-title="USA CBS",CBS: AZ TUCSON KOLD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131465
+#EXTINF:-1 group-title="USA CBS",CBS: CA BAKERSFIELD KBAK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131466
+#EXTINF:-1 group-title="USA CBS",CBS: CA FRESNO KGPE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131467
+#EXTINF:-1 group-title="USA CBS",CBS: CA LOS ANGELES KCAL 9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131468
+#EXTINF:-1 group-title="USA CBS",CBS: CA MONTEREY KION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131469
+#EXTINF:-1 group-title="USA CBS",CBS: CA SAN DIEGO KFMB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131470
+#EXTINF:-1 group-title="USA CBS",CBS: CA SAN FRANCISCO KPIX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131471
+#EXTINF:-1 group-title="USA CBS",CBS: CA SANTA MARIA KCOY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131472
+#EXTINF:-1 group-title="USA CBS",CBS: CA STOCKTON KOVR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131473
+#EXTINF:-1 group-title="USA CBS",CBS: CO COLORADO SPRINGS KKTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131474
+#EXTINF:-1 group-title="USA CBS",CBS: CO DENVER KCNC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131475
+#EXTINF:-1 group-title="USA CBS",CBS: CT HARTFORD WFSB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131476
+#EXTINF:-1 group-title="USA CBS",CBS: DC WASHINGTON WUSA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131477
+#EXTINF:-1 group-title="USA CBS",CBS: FL FORT MYERS WINK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131478
+#EXTINF:-1 group-title="USA CBS",CBS: FL JACKSONVILLE WJAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131479
+#EXTINF:-1 group-title="USA CBS",CBS: FL MIAMI WFOR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131480
+#EXTINF:-1 group-title="USA CBS",CBS: FL ORLANDO WKMG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131481
+#EXTINF:-1 group-title="USA CBS",CBS: FL ST. PETERSBURG WTSP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131482
+#EXTINF:-1 group-title="USA CBS",CBS: FL WEST PALM BEACH WPEC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131483
+#EXTINF:-1 group-title="USA CBS",CBS: GA ATLANTA WGCL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131484
+#EXTINF:-1 group-title="USA CBS",CBS: GA AUGUSTA WRDW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131485
+#EXTINF:-1 group-title="USA CBS",CBS: GA SAVANNAH WTOC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131486
+#EXTINF:-1 group-title="USA CBS",CBS: GA THOMASVILLE WCTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131487
+#EXTINF:-1 group-title="USA CBS",CBS: HI HONOLULU KGMB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131488
+#EXTINF:-1 group-title="USA CBS",CBS: IA CEDAR RAPIDS KGAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131489
+#EXTINF:-1 group-title="USA CBS",CBS McAllen TX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131490
+#EXTINF:-1 group-title="USA CBS",CBS: IA DES MOINES-AMES KCCI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131491
+#EXTINF:-1 group-title="USA CBS",CBS: ID BOISE KBOI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131492
+#EXTINF:-1 group-title="USA CBS",CBS: IL CHICAGO WBBM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131493
+#EXTINF:-1 group-title="USA CBS",CBS: IN EVANSVILLE WEVV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131494
+#EXTINF:-1 group-title="USA CBS",CBS: IN SOUTH BEND WSBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131495
+#EXTINF:-1 group-title="USA CBS",CBS: KY LOUISVILLE WLKY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131496
+#EXTINF:-1 group-title="USA CBS",CBS: LA BATON ROUGE WAFB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131497
+#EXTINF:-1 group-title="USA CBS",CBS: LA LAFAYETTE KLFY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131498
+#EXTINF:-1 group-title="USA CBS",CBS: LA NEW ORLEANS WWL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131499
+#EXTINF:-1 group-title="USA CBS",CBS: LA SHREVEPORT KSLA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131500
+#EXTINF:-1 group-title="USA CBS",CBS: LAS VEGAS NV KLAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131501
+#EXTINF:-1 group-title="USA CBS",CBS: LOS ANGELES CA KCBS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131502
+#EXTINF:-1 group-title="USA CBS",CBS: MA BOSTON WBZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131503
+#EXTINF:-1 group-title="USA CBS",CBS: MA SPRINGFIELD WSHM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131504
+#EXTINF:-1 group-title="USA CBS",CBS: MD BALTIMORE WJZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131505
+#EXTINF:-1 group-title="USA CBS",CBS: ME PORTLAND WGME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131506
+#EXTINF:-1 group-title="USA CBS",CBS: MI BAY CITY WNEM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131507
+#EXTINF:-1 group-title="USA CBS",CBS: MI CADILLAC WWTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131508
+#EXTINF:-1 group-title="USA CBS",CBS: MI DETROIT WHP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131509
+#EXTINF:-1 group-title="USA CBS",CBS: MI DETROIT WWJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131510
+#EXTINF:-1 group-title="USA CBS",CBS: MI KALAMAZOO WWMT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131511
+#EXTINF:-1 group-title="USA CBS",CBS: MN MINNEAPOLIS WCCO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131512
+#EXTINF:-1 group-title="USA CBS",CBS: MO CAPE GIRARDEAU KFVS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131513
+#EXTINF:-1 group-title="USA CBS",CBS: MO KANSAS CITY KCTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131514
+#EXTINF:-1 group-title="USA CBS",CBS: MO CAPE GIRARDEA KFVS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131515
+#EXTINF:-1 group-title="USA CBS",CBS: MO ST. LOUIS KMOV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131516
+#EXTINF:-1 group-title="USA CBS",CBS: MS COLUMBUS WCBI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131517
+#EXTINF:-1 group-title="USA CBS",CBS: MS JACKSON WJTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131518
+#EXTINF:-1 group-title="USA CBS",CBS: NC CHARLOTTE WBTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131519
+#EXTINF:-1 group-title="USA CBS",CBS: NC GOLDSBORO WNCN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131520
+#EXTINF:-1 group-title="USA CBS",CBS: NC GREENSBORO WFMY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131521
+#EXTINF:-1 group-title="USA CBS",CBS: NC GREENVILLE WNCT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131522
+#EXTINF:-1 group-title="USA CBS",CBS: NC WILMINGTON WWAY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131523
+#EXTINF:-1 group-title="USA CBS",CBS: NE LINCOLN KOLN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131524
+#EXTINF:-1 group-title="USA CBS",CBS: NE OMAHA KMTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131525
+#EXTINF:-1 group-title="USA CBS",CBS: NEW YORK NY WCBS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131526
+#EXTINF:-1 group-title="USA CBS",CBS: NM ALBUQUERQUE KRQE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131527
+#EXTINF:-1 group-title="USA CBS",CBS: NV RENO KTVN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131528
+#EXTINF:-1 group-title="USA CBS",CBS: NY BUFFALO WIVB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131529
+#EXTINF:-1 group-title="USA CBS",CBS: NY ROCHESTER WROC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131530
+#EXTINF:-1 group-title="USA CBS",CBS: NY SCHENECTADY WRGB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131531
+#EXTINF:-1 group-title="USA CBS",CBS: NY SYRACUSE WTVH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131532
+#EXTINF:-1 group-title="USA CBS",CBS: OH COLUMBUS WBNS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131533
+#EXTINF:-1 group-title="USA CBS",CBS: OH DAYTON WHIO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131534
+#EXTINF:-1 group-title="USA CBS",CBS: OH SHAKER HEIGHTS WOIO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131535
+#EXTINF:-1 group-title="USA CBS",CBS: OH TOLEDO WTOL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131536
+#EXTINF:-1 group-title="USA CBS",CBS: OH YOUNGSTOWN WKBN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131537
+#EXTINF:-1 group-title="USA CBS",CBS: OK OKLAHOMA CITY KWTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131538
+#EXTINF:-1 group-title="USA CBS",CBS: OK TULSA KOTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131539
+#EXTINF:-1 group-title="USA CBS",CBS: OR EUGENE KVAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131540
+#EXTINF:-1 group-title="USA CBS",CBS: OR PORTLAND KOIN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131541
+#EXTINF:-1 group-title="USA CBS",CBS: PA ALTOONA WTAJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131542
+#EXTINF:-1 group-title="USA CBS",CBS: PA PHILADELPHIA KYW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131543
+#EXTINF:-1 group-title="USA CBS",CBS: PA PITTSBURGH KDKA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131544
+#EXTINF:-1 group-title="USA CBS",CBS: PA WILKES-BARRE WYOU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131545
+#EXTINF:-1 group-title="USA CBS",CBS: RI PROVIDENCE WPRI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131546
+#EXTINF:-1 group-title="USA CBS",CBS: SC COLUMBIA WLTX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131548
+#EXTINF:-1 group-title="USA CBS",CBS: SC FLORENCE WBTW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131549
+#EXTINF:-1 group-title="USA CBS",CBS: SC SPARTANBURG WSPA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131550
+#EXTINF:-1 group-title="USA CBS",CBS: SD SIOUX FALLS KELO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131551
+#EXTINF:-1 group-title="USA CBS",CBS: TN CHATTANOOGA WDEF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131552
+#EXTINF:-1 group-title="USA CBS",CBS: TN KNOXVILLE WVLT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131553
+#EXTINF:-1 group-title="USA CBS",CBS: TN NASHVILLE WTVF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131554
+#EXTINF:-1 group-title="USA CBS",CBS: TX AUSTIN KEYE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131555
+#EXTINF:-1 group-title="USA CBS",CBS: TX CORPUS CHRISTI KZTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131556
+#EXTINF:-1 group-title="USA CBS",CBS: TX FORT WORTH KTVT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131557
+#EXTINF:-1 group-title="USA CBS",CBS: TX FORT WORTH KTXA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131558
+#EXTINF:-1 group-title="USA CBS",CBS: TX HARLINGEN KGBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131559
+#EXTINF:-1 group-title="USA CBS",CBS: TX HOUSTON KHOU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131560
+#EXTINF:-1 group-title="USA CBS",CBS: TX NACOGDOCHES KYTX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131561
+#EXTINF:-1 group-title="USA CBS",CBS: TX SAN ANTONIO KENS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131562
+#EXTINF:-1 group-title="USA CBS",CBS: TX WACO KWTX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131563
+#EXTINF:-1 group-title="USA CBS",CBS: VA ROANOKE WDBJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131564
+#EXTINF:-1 group-title="USA CBS",CBS: VT BURLINGTON WCAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131565
+#EXTINF:-1 group-title="USA CBS",CBS: WA SEATTLE KIRO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131566
+#EXTINF:-1 group-title="USA CBS",CBS: WA SPOKANE KREM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131567
+#EXTINF:-1 group-title="USA CBS",CBS: WA YAKIMA KIMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131568
+#EXTINF:-1 group-title="USA CBS",CBS: WI GREEN BAY WFRV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131569
+#EXTINF:-1 group-title="USA CBS",CBS: WI LA CROSSE WKBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131570
+#EXTINF:-1 group-title="USA CBS",CBS: WI MADISON WISC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131571
+#EXTINF:-1 group-title="USA CBS",CBS: WI MILWAUKEE WDJT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131572
+#EXTINF:-1 group-title="USA CBS",CBS: WV HUNTINGTON WOWK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131573
+#EXTINF:-1 group-title="USA CBS",CBS: WY LARAMIE KXJB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131574
+#EXTINF:-1 group-title="USA CBS",CBS:UT SALT LAKE CITY KUTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131575
+#EXTINF:-1 group-title="USA CBS",US: MY9 - WWOR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131576
+#EXTINF:-1 group-title="USA CBS",US: Channel 10/55 New York - WLNY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131577
+#EXTINF:-1 group-title="USA CBS",CBS: IL CHAMPAIGN  WCIA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/131578
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcujCwyuGZU013AHkR0oGh5_Wvf9HKk21vbdsY2WEshu8z.png",US: A&E
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196760
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/LT_F8YvC2OtF98VQsObJGd_JCV-ZmoIh5VWN51s8pF7FV67Mvxa_iBznyfEDOPLCeQ42WqQJ_ItUhXVIFVAvJRlDQ6N-W8qI_s_XPy5UbAZjUyxcTWF051cyGpARWp7GrPlx7jSN7p6DowDEpPvuTw.png",US: ABC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196761
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMculzdcv4YIlAal4XOgs4uV5lpPUXi52z1Sop0jWCKZoBp.png",US: AMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196762
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcusTJDM8FyKWIWFG1DfTbH4H4LRu7Ap-L-EG02G--s75F.png",US: AMC +
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196763
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOx9mI3xt4hssZ2uw1FJKEizQUK-85EPMrG5Qie9VszsA.png",US: AMC PRESENTS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196764
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNBiNKLtvreUnIORzoqXK7B.png",US: AMC THRILLERS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196765
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuiaxgYCe5qTWhvbq_TROE3B2vsGdYv3pQQhMjRqiLeLO_LSCCzBaLXnHjtYVo-rkQw.png",US: AMERICAN HEROES CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196766
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMlVqjF71AlUzt4S9vdh7IeuBIq6rrmI5d9LTGjxGWaPQ.png",US: AMG TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196767
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuv0yGnu5NMZTg5dlbH1Y4wLLSG9Qa2pkvpmLZoMRkyL1.png",US: ANIMAL PLANET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196768
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuolEOwL_p-TcEqUvYBJA6W7UqJfCQSQFpGuUCKGblHHQ.png",US: ANTENNA TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196769
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuqTxVjBpKkLh6ZcJAKO2KoBGS9ohkHxk_jzy8ys-_MJo.png",US: ASPIRE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196770
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuskor0sqlua8KeS7FRdnxMvjNtPdX3RsTSuQr6QSAl5BDzgUt8464iYCdNQUr1lwsw.png",US: AWE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196771
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMculeEM6DElE-NZgYsBthW569GVCkqYuh8xDq2vnY5SWGE.png",US: AXS TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196772
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcumni4LIKWMUQFV0Cda3SNSs6Zhtg8_PvGKD2egwFkse-.png",US: BET EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196773
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuiBeKaeuAnllrf5PE-Q-nPZo3RqgU5KxSeVSMawrGK2D.png",US: BET HER
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196774
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcunwfURJveZFxZ30G6XOxlNZ1HSTt9ANvh461i8A9PR4-.png",US: BET JAMS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196775
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuq1ubWfMz9MG6gj9f5vpBh_l0OMGzKVGVuaISARNDtJi.png",US: BET SOUL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196776
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcumni4LIKWMUQFV0Cda3SNSs6Zhtg8_PvGKD2egwFkse-.png",US: BET WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196777
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuv0C5cNfnb49t1vABI2NWAcmr8M7U1tN2Y3GX3I3AZcA.png",US: BOUNCE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196778
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcut0AfhxC715Isc98qxV9Qiet2B_uGptGqylfeU1Ee2RW.png",US: BRAVO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196779
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOSC8vIOTsN_1Fdf2xvOlNw.png",US: BUZZER TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196780
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPC2qMo0IYoRRtuo3Cuv9GX.png",US: CHARGE!
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196781
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM3QG4hh_6i7Vu5Xiu7L-KkFtekxRB11kFSDDmFaJZn2A.png",US: CHIVE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196782
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPegZd-OJAAP1HM2KGD5jGj.png",US: CLAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196783
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPR993jNAexIQrXpt_0wwMn.png",US: Cleo TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196784
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCP6MeNkj2J4qUaLj3ahJhH5.png",US: CMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196785
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuuuAXuWpoxIAwlTSj7jjBB9J4SLKue2O6zdwHA2dn4-R.png",US: CMT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196786
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcupqwPFeJH2upyGqLXqTNqzPVDE1-lZMNBHMXKHsylDof.png",US: CNBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196787
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuoA8bVqZQcBE5AIobrCYQD2pomFOF0oYJlVq5SmcHPa7.png",US: CNBC WORLD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196788
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcujLkBgCAMM-pWPd--wJi_hXunxXF435qP92Lz9V2raKr.png",US: COMEDY CENTRAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196789
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuny19VRgugUEHje4VvuQgmdwFNsNeOTEM_ZS731UD0k7.png",US: COMET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196790
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMyPjHKEkN_odWb6-yf95nV.png",US: CONTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196791
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcukvvFH8fE86MwZA0XCt09ayE21shuJ4J0Dn7WOWKfuqdLijO-fVn21Su4RSRa-xxkw.png",US: COOKING CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196792
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOJbx5aW5eL7awvnjpGblQXDpHMBp9DrFWJ3URuXsIQng.png",US: COURT TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196793
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuq9KUphKBJhxhrw7wEq_Osq7lCm4faP6BqwhG8NnSa9U.png",US: COZI TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196794
+#EXTINF:-1 group-title="USA ENT" tvg-logo="https://technetnetwork.com/logos/usa/crime%20and%20inves.png",US: CRIME AND INVESTIGATION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196795
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcujPaIT7CKBm7K4ObJKN9a9UvpoH7LuNWS4r0mjU5fvN8.png",US: CW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196796
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMlVqjF71AlUzt4S9vdh7IeuBIq6rrmI5d9LTGjxGWaPQ.png",US: DABL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196797
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNPEIoYka8C51pbl-eJrVawEXc92-q9JmwtFYQ3oy7NSA.png",US: DECADES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196798
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcunOaCIu1cUbJHLBXUZMDUKfZskhHslxcgTQ6awkyBV5KmWfYfrMAXF4GWrez_zx3kQ.png",US: DESTINATION AMERICA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196799
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMculAfuBixc2kFwGSklSJjabpr5_h6iPPcnRFoiNpB69BrAlnXVx55OpX0NR2xxiE7FA.png",US: DISCOVERY CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196800
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMculAfuBixc2kFwGSklSJjabrLQcR3hblMG5N2eMAlBDj_UMT2d9AqjsD1LbVuHW9tqQ.png",US: DISCOVERY FAMILY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196801
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMFKzO3LvpRLV10cxVziRwqGejwald4XupHi0usbQt2kw.png",US: DISCOVERY LIFE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196802
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPStj8VUN0E7hAlRY2qqjkV6wTT49D62kuOWojxNxp8VA.png",US: DISCOVERY VELOCITY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196803
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMM9SfQMD0Dnizo6lu0R7NE.png",US: E! ENTERTAINMENT EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196804
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMM9SfQMD0Dnizo6lu0R7NE.png",US: E! ENTERTAINMENT WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196805
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMYWp3ra21Bv3uvG2TMtg50.png",US: FETV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196806
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM4rhqb5Gqf-_67ivzTaYMPUGyiuyZudpD--2hoxY1qmg.png",US: FOOD NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196807
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM37clx98uqhU0pQ5bhQYdI.png",US: FOX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196808
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOflvYc-1FvLo-h14KmhzCqtrvHINZ8xzBZSL6usQrEFw.png",US: FOX BUSINESS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196809
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMdbHoetw2lX6Tk9DyFldgfmKDrwLwH_A0APh4RZqRT7A.png",US: FOX SOUL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196810
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCP6UAL7Gxc4KhnO3nXH9Lx8wSs2R5invg9fpFubOoeaug.png",US: FREEFORM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196811
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNABmITX0f7e51MfKD3JYpE.png",US: FUSE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196812
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOPfo9jQcjCIVy-4RtPLnDA.png",US: FUSION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196813
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOxqenAhznDwGnHOLIyvgy1.png",US: FX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196814
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPgz2XVNVUumC1adCxBoMSP.png",US: FXM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196815
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPDea8US0jUTT4svmwvV8tb.png",US: FXX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196816
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNbBqX8mgwS38g1pziNEh2r.png",US: FYI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196817
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCO7YQBnDKUfmY8Lq8nW9nyYVWhnM0Nqb-yGN00dW5muHw.png",US: G4 TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196818
+#EXTINF:-1 group-title="USA ENT" tvg-logo="data:image/png;base64,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",US: GAC LIVING
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196819
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNk7qqktrlJusDbbVlWQ8ID6sU8v9KLKCSlCNYZVCP77A.png",US: GetTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196820
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCP8j9J3MO8_JVYIGE6Mvop-.png",US: GREAT AMERICAN COUNTRY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196821
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMm4-iX5A1lsuYLeGCA4oSu.png",US: GRIT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196822
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPfnaoNPfbX0DcqcCAqjWYI.png",US: GSN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196823
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOvA4CU20Qu1HMlodfcSTVtfganFn5wxVlkd1D3h57wNQ.png",US: HALLMARK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196824
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOXXp7yE76GMRPQ5__-BNo37au_pQuB8gmYDi-QU3W9HA.png",US: HALLMARK DRAMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196825
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/DOT1Os9LdAAzPXrQoBL6daibsBZgyc07WK-bIBGNQdM-b5SQkhkZkx-Yb2UZlgw0ZbWccT0p8KkhHjxbpCPF34zgToxo-FCY2LAQ4MdgRu0.png",US: HALLMARK MOVIES & MORE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196826
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOXXp7yE76GMRPQ5__-BNo3zoJSLOZBcqreRJDn38dIegkPBPvWgJKWWRcqNe4tmig.png",US: HALLMARK MOVIES AND MYSTERIES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196827
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcutGvoZ6dXJr0bgGBLDFkTE8sD4pqWac9FcPXHD5h4pVEaZmBeU0Rfymb_rZLRyrz3g.png",US:  HEROES AND ICONS TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196828
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM6hPX8xWnPwZpXfeVE5WOg.png",US: HGTV EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196829
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM6hPX8xWnPwZpXfeVE5WOg.png",US: HGTV WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196830
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCONt3qyCmCrCmfdublwfQgC7jicH8WRii19H5j5VB-Iag.png",US: HISTORY CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196831
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOKtU66-dWguAQTYjb_CdmZ4VBtwWPY65JyqzIETqsxE6iZFWLTSOEipXcCkQgp6fc.png",US: History Military
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196832
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPkbpni5c7s5q_Ihu1AYNJl.png",US: HLN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196833
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOzDSN35myUulCngzVmZPGt.png",US: HSN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196834
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/CY1SLXz9y-wbSC_xQ_JMoNa8mzkg1Bq76ZZOhGtomt6fI3NA8Ddg8SbCBg_GXYvIijPa3x5cLT-yu9ay4mMJ10aGK_4gpKKJqfBxQhUK7IYYuj5oeq_UezVzdBeNqKicBIeNBIGP9yEuSE9JEtligsIEgMfplJHoj_pEfbTjhZs.png",US: HUNT CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196835
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOBRfDqf99WZaX0HbnZ5lR4.png",US: IFC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196836
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOpxlxdK40XOHZkFBSjnLy7.png",US: INSP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196837
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuscfd_AFHtLwBP32sgI7L1HwbkS7cmlLDJYqouQR6XK6O7tfixCpKbVUCe8ImjEQ_A.png",US: INVESTIGATION DISCOVERY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196838
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOwQ0uU29jglI59R9sF1zrkAOXn4zp2RSWt5LRY_Wdb3A.png",US: ION TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196839
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuu97DBIR2rXVoplLabcpK6r5q4UEbjSuB5w7ZKTPPTs54y7MILrwTmIraY4rK4KUgw.png",US: JUSTICE CENTRAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196840
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNEpeGNQZSiYXiMOvLNkeElk4tlvm4ZBzZCx2kJL2vcJQ.png",US: LAFF TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196841
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNzEwy0eZ9lN0aW5K-JUrz9tgOBv6hNDie421KCmQZCKw.png",US: LIFETIME
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196842
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNzEwy0eZ9lN0aW5K-JUrz9tgOBv6hNDie421KCmQZCKw.png",US: LIFETIME REAL WOMAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196843
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNZTteH1fPLeKBcgTrtyiwN.png",US: LMN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196844
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCObQkkd5FhtHHyQUcRrSJmbMX-NizP06HQTMpuL3rx-LQ.png",US: LOGO TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196845
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMjK-lgXLo8qd5SeIa2rKH45pepeBJz5S9iyBjUbfWF6A.png",US: MAGNOLIA  NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196846
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOd_rafCjvq_nMx0tjTLdk7.png",US: METV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196847
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNXXhwKBsoIPg18gy4_PeklcfUmFL1m-va4KRQnUleJBA.png",US: MOTORTREND
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196848
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPizlIB8stA1QER-AQv2Oqz.png",US: MTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196849
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOSXnD7qwQpMqiF8q79q6tM8IFFyVP3i_GHxwLlqB-uiA.png",US: MTV CLASSIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196850
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCN1QPI9nZi2Hw4cXNXLzsFq.png",US: MTV2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196851
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPs5xyrKLxaGnlpQOwI9T00GoC5O4xB7yU0jZgUa6bD3A.png",US: MTVU East
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196852
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM9ZAunfF2LOdoXpbdGLNEDVYI7Iljm1MvfgLusy8FYXQ.png",US: NASA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196853
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNIYkWE4uUq21B5-ja2xjKYQc5OydNrfq8EmgLlwNYDnQ.png",US: NAT GEO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196854
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOTrQYof-PFzJZA1UKq0GuLGhet7sSFl28ipPWpn3jTRQ.png",US: NAT GEO WILD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196855
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPSTmYcdG5uv9HaDlsX2_7w3lkHgeK6tFa6UxGrbScCIA.png",US: NAUTICAL CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196856
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNy2BCwlvhVwI6behP-83XL.png",US: Nova
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196857
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNwED6QVXm64KtSBq18qfXhq9piWXcAYy-jMgHM3E9f_w.png",US: OUTDOOR CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196858
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPZH0tJuBhn6AHyBNDvBEl6HpUmR40L_Cf174LpG4mYcA.png",US: OUTSIDE TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196859
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMwCIqvme_19g6eVrG-EMkD9ZsLE12Z05wyB_LwN8HDTA.png",US: OVATION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196860
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPouS-kZyRjXfqjlrCGuBF2.png",US: OWN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196861
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPn1qaQHf9kG3GD26wSIIGn.png",US: OXYGEN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196862
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPn1qaQHf9kG3GD26wSIIGn.png",US: Oxygen (West)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196863
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMUn7JSOhla0xaexpBx_UDm50he6q6X847LgGu1aWNXpA.png",US: PARAMOUNT CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196864
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPwUIZbcNMWXVGAbBCuSOz9.png",US: PBS US
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196865
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCP4zlzjoGTb__Hh1zTRt1hz.png",US: PIXL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196866
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPkYubrwyiH_JqS6YDkX81l.png",US: POP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196867
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMnRlxNMGiMoIk2tPMVRY6WZ7Zuom5_9C3VTiFMCj-9Qg.png",US: PURSUIT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196868
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcugOCeClkQUdMn-Fr45qK9PxV8ttjKK62JOWHT2NV8GbT.png",US: QVC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196869
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuozuP7fljih5oNpmUWCwyeqNxu8gaDgAqvy5l_fTpSPu.png",US: QVC 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196870
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCP8wn-n4P3DSPSHmT5C479f.png",US: REELZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196871
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNQy1HIObM8XU2CVhmZqhIxAu0zY5zGCw-AR2oWcNIeiQ.png",US: REVOLT TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196872
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOxTB3a0KAyitc4gAUAQjQVox9g9OexRskWSTouTlRnCA.png",US: RFD-TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196873
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOxTVIOrmQ2y7ZEsDXAKj4wZ8fUU41U7l3Qqydu-54_aw.png",US: SCIENCE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196874
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCO8R1K9Nbi_iYsb9feG1i1DY--L4s-R7hVmgc5hzDaQOw.png",US: SMITHSONIAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196875
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/Oos-jJkh8BBtmyk_uuOTg24DtllJJqXLuDiBA2q_OUyKit3aDDt-plewg4OlPPwD4T4Y7UOr_gZRmMYdja36zZt91S_V3yuqA7emqeB1QcQ.png",US: STORIES BY AMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196876
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPq3RIV4jcbEiADQt_-jauAD0O0Fpko7ygi91s6oViIjg.png",US: SUNDANCE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196877
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOzpqPA1p5GKjZlHO2FpJgC.png",US: SYFY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196878
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCO6qTNcT93GWgmGuE_0Y7N_ctpWJZlgk3oNrIaqgnNT2w.png",US: Tastemade
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196879
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPy5uhD8tzRKvHmXmjUHYdB.png",US: TBS EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196880
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPy5uhD8tzRKvHmXmjUHYdB.png",US: TBS WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196881
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPi7hr0h9dc9m4LJh5bihGq.png",US: TCM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196882
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMjg02vB8NKa9dX2sHvMsaJrLBNlgHxRCkWXdLCLYJpxg.png",US: THE COWBOY CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196883
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMO85M7vBjGw_V40WjxXjn_.png",US: TLC EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196884
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMO85M7vBjGw_V40WjxXjn_.png",US: TLC WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196885
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCN1LsKAqlf3OGCScxkGzDX3.png",US: TNT EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196886
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCN1LsKAqlf3OGCScxkGzDX3.png",US: TNT WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196887
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM7KRI3OslN2l5uUxyBQP8HrCgD5tuVlHlPjV2lXU7l9g.png",US: TRAVEL CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196888
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOkZcNYR5_oUVE1AS4oZ_CZrbB8fjf6HWgqDT9tRa1Fzw.png",US: TRUTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196889
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qw9Sd5JnDX2uSQDrGmMcuveNE4zr4Mt2IEyl0yQiae2HqvvOVxL2AVE2xagTB_fu.png",US: TRUTV WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196890
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOHxfh5b-uGFdwcwbtlg1KsyiyTDMSrBi4zNedyAoW0tg.png",US: TV LAND
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196891
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOQAYr7Co_D5nFzZbGgkQgkGZAM_3h2Ftq8SrlnkNntjg.png",US: TV ONE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196892
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/fxX0SPPPLvvHYcfv-ogiWlcOuvOzuvjJGBnpjdOAEkqjMRCzN7sg64vCZTal4Ehb.png",US: TYT NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196893
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCMutPIPmREVTvUR06q4HLlrN8GUbhoTkg2LqDJ3ahu7vw.png",US: Up TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196894
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM70wKi8mFAZsHvhf17j4ndTdR4SiyseLnVhdFXlAzFBg.png",US: USA NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196895
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCM70wKi8mFAZsHvhf17j4ndTdR4SiyseLnVhdFXlAzFBg.png",US: USA NETWORK WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196896
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNkaFnXGJF3xTUOMqSbNeT7dgqW48nFtLM7l3yT8ipnqA.png",US: VH1 CLASSIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196897
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOHt-zkgJxU8voOFUGT6VYw.png",US: VH1 EAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196898
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOHt-zkgJxU8voOFUGT6VYw.png",US: VH1 WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196899
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCN0mZuzI5Ej4BmK11jTys8rYvn6Pkkqok7yqRRtOWkCgQ.png",US: VICELAND
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196900
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/mPt0cVlUri9OgtGFvTr3BxYgUvM7blshv66URRXgh2o6usXu_2HvpDYEBeezxRLW.png",US: VSIN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196901
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPXkfckXYXa6flp3Uc7cYVI3x2I7YkZY2Ez6hUbcSY8UA.png",US: WE TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196902
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCOrETDWNlB1KmD8Yav0gWcuYylNsKLc7y_fVmUFFHd3Pw.png",US: WEATHER CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196903
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/qKieF-P0emLSXvZe1Xkuz_hZ-SjgVsV-nBiwFk3ZlOiW9Kjds4b48IbpTvTW0B5OMTDZsBSYEjpClt-cnvvclS6wtFF2TkKe-26ApyerbqA.png",US: WGN 9
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196904
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCNU9h-Fc4vTfunDHUPr6Xfn.png",US: WGN AMERICA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196905
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCPqRcCy9YZOoijbCpVX1SnRNxw_cJs9hQkMzdjD5d7hHQ.png",US: WILD EARTH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196906
+#EXTINF:-1 group-title="USA ENT" tvg-logo="http://jumangis.com:2082/images/ZtjPGUUfbvAW_xhAplrDKAi3-fotfykH5H3HuUggaCN1PP-6Zspby18Rzr4NGrR_rkJC9G5Hj4ADo2uKW1neLQ.png",US: WWE NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/196907
+#EXTINF:-1 group-title="USA FOX",FOX:  WV CLARKSBURG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113995
+#EXTINF:-1 group-title="USA FOX",FOX:  ALBANY HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113996
+#EXTINF:-1 group-title="USA FOX",FOX: AL  MOBILE WALA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113997
+#EXTINF:-1 group-title="USA FOX",FOX: AL BIRMINGHAM WBRC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113998
+#EXTINF:-1 group-title="USA FOX",FOX: AL DOTHAN WDFX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113999
+#EXTINF:-1 group-title="USA FOX",FOX: AL HUNTSVILLE WZDX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114000
+#EXTINF:-1 group-title="USA FOX",FOX: AR LITTLE ROCK KLRT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114001
+#EXTINF:-1 group-title="USA FOX",FOX: AZ PHOENIX KSAZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114002
+#EXTINF:-1 group-title="USA FOX",FOX: AZ TUCSON KMSB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114003
+#EXTINF:-1 group-title="USA FOX",FOX: CA BAKERSFIELD KBFX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114004
+#EXTINF:-1 group-title="USA FOX",FOX: CA SALINAS KCBA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114005
+#EXTINF:-1 group-title="USA FOX",FOX: CA SAN DIEGO KSWB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114006
+#EXTINF:-1 group-title="USA FOX",FOX: CA SAN JOSE KICU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114007
+#EXTINF:-1 group-title="USA FOX",FOX: CA SAN LUIS OBISPO KKFX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114008
+#EXTINF:-1 group-title="USA FOX",FOX: CHARLOTTE-WJZY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114009
+#EXTINF:-1 group-title="USA FOX",FOX: CINCINNATI WXIX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114010
+#EXTINF:-1 group-title="USA FOX",FOX: CLEVELAND WJW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114011
+#EXTINF:-1 group-title="USA FOX",FOX: CO DENVER KDVR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114012
+#EXTINF:-1 group-title="USA FOX",FOX: CT HARTFORD WTIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114013
+#EXTINF:-1 group-title="USA FOX",FOX: DC WASHINGTON WTTG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114014
+#EXTINF:-1 group-title="USA FOX",FOX: FL CAPE CORAL WFTX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114015
+#EXTINF:-1 group-title="USA FOX",FOX: FL JACKSONVILLE WFOX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114016
+#EXTINF:-1 group-title="USA FOX",FOX: FL MIAMI WSVN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114017
+#EXTINF:-1 group-title="USA FOX",FOX: FL OCALA WOGX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114018
+#EXTINF:-1 group-title="USA FOX",FOX: FL ORLANDO WOFL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114019
+#EXTINF:-1 group-title="USA FOX",FOX: FL PANAMA CITY FOX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114020
+#EXTINF:-1 group-title="USA FOX",FOX: FL TAMPA WTVT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114021
+#EXTINF:-1 group-title="USA FOX",FOX: FL WEST PALM BEACH WFLX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114022
+#EXTINF:-1 group-title="USA FOX",FOX: GA ATLANTA WAGA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114023
+#EXTINF:-1 group-title="USA FOX",FOX: GA AUGUSTA WFXG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114024
+#EXTINF:-1 group-title="USA FOX",FOX: GA COLUMBUS WXTX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114025
+#EXTINF:-1 group-title="USA FOX",FOX: GREEN BAY WI WLUK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114026
+#EXTINF:-1 group-title="USA FOX",FOX: GREENVILLE SC WHNS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114027
+#EXTINF:-1 group-title="USA FOX",FOX: HI HONOLULU KHON
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114028
+#EXTINF:-1 group-title="USA FOX",FOX: IA DAVENPORT KLJB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114029
+#EXTINF:-1 group-title="USA FOX",FOX: IA SIOUX FALLS KTTW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114030
+#EXTINF:-1 group-title="USA FOX",FOX: ID CALDWELL KNIN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114031
+#EXTINF:-1 group-title="USA FOX",FOX: IL BLOOMINGTON WYZZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114032
+#EXTINF:-1 group-title="USA FOX",FOX: IL CHICAGO WFLD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114033
+#EXTINF:-1 group-title="USA FOX",FOX: IN FORT WAYNE WFFT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114034
+#EXTINF:-1 group-title="USA FOX",FOX: IN INDIANAPOLIS WXIN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114035
+#EXTINF:-1 group-title="USA FOX",FOX: KY LOUISVILLE WDRB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114036
+#EXTINF:-1 group-title="USA FOX",FOX: KY NEWPORT WXIX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114037
+#EXTINF:-1 group-title="USA FOX",FOX: LA BATON ROUGE WGMB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114038
+#EXTINF:-1 group-title="USA FOX",FOX: LA LAKE CHARLES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114039
+#EXTINF:-1 group-title="USA FOX",FOX: LA SHREVEPORT KMSS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114040
+#EXTINF:-1 group-title="USA FOX",FOX: LOS ANGELES CA KTTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114041
+#EXTINF:-1 group-title="USA FOX",FOX: MA BOSTON WFXT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114042
+#EXTINF:-1 group-title="USA FOX",FOX: MA SPRINGFIELD WGGB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114043
+#EXTINF:-1 group-title="USA FOX",FOX: MD MINOT KXND
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114044
+#EXTINF:-1 group-title="USA FOX",FOX: MI DETROIT WJBK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114045
+#EXTINF:-1 group-title="USA FOX",FOX: MI GRAND RAPIDS WXMI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114046
+#EXTINF:-1 group-title="USA FOX",FOX: MI LANSING WSYM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114047
+#EXTINF:-1 group-title="USA FOX",FOX: MINNEAPOLIS MN WFTC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114048
+#EXTINF:-1 group-title="USA FOX",FOX: MN MINNEAPOLIS KMSP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114049
+#EXTINF:-1 group-title="USA FOX",FOX: MO KANSAS CITY WDAF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114050
+#EXTINF:-1 group-title="USA FOX",FOX: MO OSAGE BEACH KRBK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114051
+#EXTINF:-1 group-title="USA FOX",FOX: MS JACKSON WDBD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114052
+#EXTINF:-1 group-title="USA FOX",FOX: NASHVILLE WZTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114053
+#EXTINF:-1 group-title="USA FOX",FOX: NC HIGH POINT WGHP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114054
+#EXTINF:-1 group-title="USA FOX",FOX: NC RALEIGH WRAZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114055
+#EXTINF:-1 group-title="USA FOX",FOX: NC WILMINGTON FOXNET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114056
+#EXTINF:-1 group-title="USA FOX",FOX: ND FARGO KVRR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114057
+#EXTINF:-1 group-title="USA FOX",FOX: NEW ORLEANS LA WVUE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114058
+#EXTINF:-1 group-title="USA FOX",FOX: NM ALBURQUERQUE KRQE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114059
+#EXTINF:-1 group-title="USA FOX",FOX: NV HENDERSON KVVU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114060
+#EXTINF:-1 group-title="USA FOX",FOX: NY ALBANY WXXA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114061
+#EXTINF:-1 group-title="USA FOX",FOX: NY BINGHAMPTON FOX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114062
+#EXTINF:-1 group-title="USA FOX",FOX: BUFFALO NY  WUTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114063
+#EXTINF:-1 group-title="USA FOX",FOX: NY NEW YORK WNYW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114064
+#EXTINF:-1 group-title="USA FOX",FOX: OH CLEVELAND WJW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114065
+#EXTINF:-1 group-title="USA FOX",FOX: OH TOLEDO WUPW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114066
+#EXTINF:-1 group-title="USA FOX",FOX: OH YOUNGSTOWN WYFX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114067
+#EXTINF:-1 group-title="USA FOX",FOX: OR EUGENE KLSR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114068
+#EXTINF:-1 group-title="USA FOX",FOX: OR MEDFORD FOXNET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114069
+#EXTINF:-1 group-title="USA FOX",FOX: OR PORTLAND KPTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114070
+#EXTINF:-1 group-title="USA FOX",FOX: PA JOHNSTOWN  WWCP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114071
+#EXTINF:-1 group-title="USA FOX",FOX: PA PHILADELPHIA WTXF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114072
+#EXTINF:-1 group-title="USA FOX",FOX: PA YORK WPMT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114073
+#EXTINF:-1 group-title="USA FOX",FOX: PITTSBURGH PA WPGH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114074
+#EXTINF:-1 group-title="USA FOX",FOX: RI PROVIDENCE WNAC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114075
+#EXTINF:-1 group-title="USA FOX",FOX: SAN ANTONIO TX KABB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114076
+#EXTINF:-1 group-title="USA FOX",FOX: SAN FRANCISCO CA KTVU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114077
+#EXTINF:-1 group-title="USA FOX",FOX: SC CHARLESTON WTAT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114078
+#EXTINF:-1 group-title="USA FOX",FOX: SC MYRTLE BEACH WFXB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114079
+#EXTINF:-1 group-title="USA FOX",FOX: ST LOUIS MO KTVI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114080
+#EXTINF:-1 group-title="USA FOX",FOX: TN KNOXVILLE WTNZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114081
+#EXTINF:-1 group-title="USA FOX",FOX: TN MEMPHIS WHBQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114082
+#EXTINF:-1 group-title="USA FOX",FOX: TX ABILENE KRBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114083
+#EXTINF:-1 group-title="USA FOX",FOX: TX AUSTIN KTBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114084
+#EXTINF:-1 group-title="USA FOX",FOX: TX DALLAS KDFW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114085
+#EXTINF:-1 group-title="USA FOX",FOX: TX HARLINGEN KFXV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114086
+#EXTINF:-1 group-title="USA FOX",FOX: TX HOUSTON KRIV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114087
+#EXTINF:-1 group-title="USA FOX",FOX: TX LONGVIEW KFXK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114088
+#EXTINF:-1 group-title="USA FOX",FOX: TX SAN ANGELO KSAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114089
+#EXTINF:-1 group-title="USA FOX",FOX: FOX 19 CORPUS CHRISTI KSCC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114090
+#EXTINF:-1 group-title="USA FOX",FOX: TX WACO KWKT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114091
+#EXTINF:-1 group-title="USA FOX",FOX: UT SALT LAKE CITY KSTU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114092
+#EXTINF:-1 group-title="USA FOX",FOX: VA CHARLOTTESVILLE WAHU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114093
+#EXTINF:-1 group-title="USA FOX",FOX: VA HARRISONBURG WSVF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114094
+#EXTINF:-1 group-title="USA FOX",FOX: VA ROANOKE WFXR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114095
+#EXTINF:-1 group-title="USA FOX",FOX: VA VIRGINIA BEACH WVBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114096
+#EXTINF:-1 group-title="USA FOX",FOX: VT BURLINGTON WFFF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114097
+#EXTINF:-1 group-title="USA FOX",FOX: WA TACOMA KCPQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114098
+#EXTINF:-1 group-title="USA FOX",FOX: WA YAKIMA KCYU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114099
+#EXTINF:-1 group-title="USA FOX",FOX: WI LA CROSSE WLAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114100
+#EXTINF:-1 group-title="USA FOX",FOX: WI MILWAUKEE WITI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114101
+#EXTINF:-1 group-title="USA FOX",FOX: CA SACRAMENTO KTXL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114102
+#EXTINF:-1 group-title="USA FOX",FOX: SD | City | FOX Net Rapid
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114103
+#EXTINF:-1 group-title="USA FOX",FOX: CO | COLORADO SPRINGS | KXRM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114104
+#EXTINF:-1 group-title="USA FOX",WA | Tri-Cities | FOX WEMT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114105
+#EXTINF:-1 group-title="USA FOX",FOX:  KOKI TULSA 23
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114106
+#EXTINF:-1 group-title="USA FOX",FOX: KOKH-OKLAHOMA CITY OK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114107
+#EXTINF:-1 group-title="USA NBC",NBC: AL BIRMINGHAM WVTM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113805
+#EXTINF:-1 group-title="USA NBC",NBC: AL MOBILE WPMI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113806
+#EXTINF:-1 group-title="USA NBC",NBC: ANCHORAGE KTUU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113807
+#EXTINF:-1 group-title="USA NBC",NBC: AR JONESBORO KAIT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113808
+#EXTINF:-1 group-title="USA NBC",NBC: AR LITTLE ROCK KARK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113809
+#EXTINF:-1 group-title="USA NBC",NBC: AR MONROE-EL DORADO KTVE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113810
+#EXTINF:-1 group-title="USA NBC",NBC: AZ TUCSON KVOA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113811
+#EXTINF:-1 group-title="USA NBC",NBC: CA BAKERSFIELD KGET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113812
+#EXTINF:-1 group-title="USA NBC",NBC: CA CHICO KNVN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113813
+#EXTINF:-1 group-title="USA NBC",NBC: CA EUREKA KIEM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113814
+#EXTINF:-1 group-title="USA NBC",NBC: CA FRESNO KSEE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113815
+#EXTINF:-1 group-title="USA NBC",NBC: CA LOS ANGELES KNBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113816
+#EXTINF:-1 group-title="USA NBC",NBC: CA SACRAMENTO KCRA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113817
+#EXTINF:-1 group-title="USA NBC",NBC: CA SALINAS KSBW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113818
+#EXTINF:-1 group-title="USA NBC",NBC: CA SAN DIEGO KNSD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113819
+#EXTINF:-1 group-title="USA NBC",NBC: CA SAN JOSE KNTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113820
+#EXTINF:-1 group-title="USA NBC",NBC TX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113821
+#EXTINF:-1 group-title="USA NBC",NBC: CINCINNATI WLWT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113822
+#EXTINF:-1 group-title="USA NBC",NBC: CLEVELAND WKYC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113823
+#EXTINF:-1 group-title="USA NBC",NBC: CO DENVER KUSA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113824
+#EXTINF:-1 group-title="USA NBC",NBC: CO GRAND JUNCTION KKCO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113825
+#EXTINF:-1 group-title="USA NBC",NBC: CO PUEBLO KOAA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113826
+#EXTINF:-1 group-title="USA NBC",NBC: CT NEW BRITAIN WVIT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113827
+#EXTINF:-1 group-title="USA NBC",NBC: FAIRBANKS KTVF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113828
+#EXTINF:-1 group-title="USA NBC",NBC:  WESH 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113829
+#EXTINF:-1 group-title="USA NBC",NBC: FL FORT MYERS WBBH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113830
+#EXTINF:-1 group-title="USA NBC",NBC: FL GAINESVILLE WNBW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113831
+#EXTINF:-1 group-title="USA NBC",NBC: FL JACKSONVILLE WTLV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113832
+#EXTINF:-1 group-title="USA NBC",NBC: FL MIAMI WTVJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113833
+#EXTINF:-1 group-title="USA NBC",NBC: FL PANAMA CITY WJHG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113834
+#EXTINF:-1 group-title="USA NBC",NBC: FL TALLAHASSEE WTWC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113835
+#EXTINF:-1 group-title="USA NBC",NBC: FL TAMPA WFLA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113836
+#EXTINF:-1 group-title="USA NBC",NBC: FL WEST PALM BEACH WPTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113837
+#EXTINF:-1 group-title="USA NBC",NBC: GA ALBANY WALB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113838
+#EXTINF:-1 group-title="USA NBC",NBC: GA ATLANTA WXIA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113839
+#EXTINF:-1 group-title="USA NBC",NBC: GA AUGUSTA WAGT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113840
+#EXTINF:-1 group-title="USA NBC",NBC: GA COLUMBUS WLTZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113841
+#EXTINF:-1 group-title="USA NBC",NBC: GA MACON WMGT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113842
+#EXTINF:-1 group-title="USA NBC",NBC: GA SAVANNAH WSAV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113843
+#EXTINF:-1 group-title="USA NBC",NBC: HI KURTISTOWN KHQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113844
+#EXTINF:-1 group-title="USA NBC",NBC: HONOLULU HI KHNL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113845
+#EXTINF:-1 group-title="USA NBC",NBC: IA DAVENPORT KWQC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113846
+#EXTINF:-1 group-title="USA NBC",NBC: IA DES MOINES WHO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113847
+#EXTINF:-1 group-title="USA NBC",NBC: IA OTTUMWA KYOU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113848
+#EXTINF:-1 group-title="USA NBC",NBC: IA SIOUX CITY KTIV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113849
+#EXTINF:-1 group-title="USA NBC",NBC: ID BOISE KTVB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113850
+#EXTINF:-1 group-title="USA NBC",NBC: ID TWIN FALLS KTFT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113851
+#EXTINF:-1 group-title="USA NBC",NBC: IL CHICAGO WMAQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113852
+#EXTINF:-1 group-title="USA NBC",NBC: IL DECATUR WAND
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113853
+#EXTINF:-1 group-title="USA NBC",NBC: IL PEORIA WEEK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113854
+#EXTINF:-1 group-title="USA NBC",NBC: IL QUINCY WGEM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113855
+#EXTINF:-1 group-title="USA NBC",NBC: IL ROCKFORD WREX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113856
+#EXTINF:-1 group-title="USA NBC",NBC: IN FORT WAYNE WPTA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113857
+#EXTINF:-1 group-title="USA NBC",NBC: IN INDIANAPOLIS WTHR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113858
+#EXTINF:-1 group-title="USA NBC",NBC: IN LAFAYETTE WSPB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113859
+#EXTINF:-1 group-title="USA NBC",NBC: IN SOUTH BEND WNDU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113860
+#EXTINF:-1 group-title="USA NBC",NBC: IN TERRE HAUTE WTWO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113861
+#EXTINF:-1 group-title="USA NBC",NBC: JUNEAU-DOUGLAS KATH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113862
+#EXTINF:-1 group-title="USA NBC",NBC: KS TOPEKA KSNT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113863
+#EXTINF:-1 group-title="USA NBC",NBC: KS WICHITA KSNW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113864
+#EXTINF:-1 group-title="USA NBC",NBC: KY BOWLING GREEN WNKY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113865
+#EXTINF:-1 group-title="USA NBC",NBC: KY LEXINGTON WLEX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113866
+#EXTINF:-1 group-title="USA NBC",NBC: KY LOUISVILLE WAVE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113867
+#EXTINF:-1 group-title="USA NBC",NBC: KY PADUCAH WPSD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113868
+#EXTINF:-1 group-title="USA NBC",NBC: LA ALEXANDRIA KALB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113869
+#EXTINF:-1 group-title="USA NBC",NBC: LA BATON ROUGE WVLA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113870
+#EXTINF:-1 group-title="USA NBC",NBC: LA LAKE CHARLES KPLC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113871
+#EXTINF:-1 group-title="USA NBC",NBC: LA NEW ORLEANS WDSU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113872
+#EXTINF:-1 group-title="USA NBC",NBC: LA SHREVEPORT KSL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113873
+#EXTINF:-1 group-title="USA NBC",NBC: MA BOSTON WBTS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113874
+#EXTINF:-1 group-title="USA NBC",NBC: MA SPRINGFIELD WWLP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113875
+#EXTINF:-1 group-title="USA NBC",NBC: MD BALTIMORE WBAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113876
+#EXTINF:-1 group-title="USA NBC",NBC: MD SALISBURY WRDE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113877
+#EXTINF:-1 group-title="USA NBC",NBC: ME BANGOR WLBZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113878
+#EXTINF:-1 group-title="USA NBC",NBC: ME PORTLAND WCSH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113879
+#EXTINF:-1 group-title="USA NBC",NBC: MI DETROIT WDIV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113880
+#EXTINF:-1 group-title="USA NBC",NBC: MI GRAND RAPIDS WOOD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113881
+#EXTINF:-1 group-title="USA NBC",NBC: MI MARQUETTE WLUC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113882
+#EXTINF:-1 group-title="USA NBC",NBC: MI ONONDAGA WILX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113883
+#EXTINF:-1 group-title="USA NBC",NBC: MI SAGINAW WEYI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113884
+#EXTINF:-1 group-title="USA NBC",NBC: MI TRAVERSE CITY WPBN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113885
+#EXTINF:-1 group-title="USA NBC",NBC: MN MINNEAPOLIS KARE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113886
+#EXTINF:-1 group-title="USA NBC",NBC: MO COLUMBIA KOMU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113887
+#EXTINF:-1 group-title="USA NBC",NBC: MO KANSAS CITY KSHB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113888
+#EXTINF:-1 group-title="USA NBC",NBC: MO SPRINGFIELD KYTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113889
+#EXTINF:-1 group-title="USA NBC",NBC: MO ST. JOSEPH KNPG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113890
+#EXTINF:-1 group-title="USA NBC",NBC: MO ST. LOUIS KSDK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113891
+#EXTINF:-1 group-title="USA NBC",NBC: MONTGOMERY AL WSFA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113892
+#EXTINF:-1 group-title="USA NBC",NBC: MS COLUMBUS WTVA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113893
+#EXTINF:-1 group-title="USA NBC",NBC: MS GULFPORT WXXV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113894
+#EXTINF:-1 group-title="USA NBC",NBC: MS JACKSON WLBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113895
+#EXTINF:-1 group-title="USA NBC",NBC: MS LAUREL WDAM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113896
+#EXTINF:-1 group-title="USA NBC",NBC: MS MERIDIAN WGBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113897
+#EXTINF:-1 group-title="USA NBC",NBC: MT BILLINGS KULR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113898
+#EXTINF:-1 group-title="USA NBC",NBC: MT BUTTE KTVM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113899
+#EXTINF:-1 group-title="USA NBC",NBC: MT GREAT FALLS KTGF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113900
+#EXTINF:-1 group-title="USA NBC",NBC: MT HELENA KTVH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113901
+#EXTINF:-1 group-title="USA NBC",NBC: MT MISSOULA KECI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113902
+#EXTINF:-1 group-title="USA NBC",NBC: NC CHARLOTTE WCNC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113903
+#EXTINF:-1 group-title="USA NBC",NBC: NC RALEIGH WRAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113904
+#EXTINF:-1 group-title="USA NBC",NBC: NC WASHINGTON WITN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113905
+#EXTINF:-1 group-title="USA NBC",NBC: NC WINSTON-SALEM WXII
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113906
+#EXTINF:-1 group-title="USA NBC",NBC: ND FARGO KVLY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113907
+#EXTINF:-1 group-title="USA NBC",NBC: NE NORTH PLATTE KNOP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113908
+#EXTINF:-1 group-title="USA NBC",NBC: NE SUPERIOR KSNB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113909
+#EXTINF:-1 group-title="USA NBC",NBC: NEW YORK NY WNBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113910
+#EXTINF:-1 group-title="USA NBC",NBC: NM ALBURQUERQUE KOB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113911
+#EXTINF:-1 group-title="USA NBC",NBC: NV LAS VEGAS KSNV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113912
+#EXTINF:-1 group-title="USA NBC",NBC: NY ALBANY WNYT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113913
+#EXTINF:-1 group-title="USA NBC",NBC: NY BINGHAMTON WBGH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113914
+#EXTINF:-1 group-title="USA NBC",NBC: NY BUFFALO WGRZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113915
+#EXTINF:-1 group-title="USA NBC",NBC: NY ELMIRA WETM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113916
+#EXTINF:-1 group-title="USA NBC",NBC: NY PLATTSBURGH WPTZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113917
+#EXTINF:-1 group-title="USA NBC",NBC: NY ROCHESTER WHEC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113918
+#EXTINF:-1 group-title="USA NBC",NBC: NY SYRACUSE WSTM
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113919
+#EXTINF:-1 group-title="USA NBC",NBC: NY UTICA WKTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113920
+#EXTINF:-1 group-title="USA NBC",NBC: NY WATERTOWN WVNC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113921
+#EXTINF:-1 group-title="USA NBC",NBC: OH CINCINNATI WLWT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113922
+#EXTINF:-1 group-title="USA NBC",NBC: OH CLEVELAND WKYC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113923
+#EXTINF:-1 group-title="USA NBC",NBC: OH COLUMBUS WCMH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113924
+#EXTINF:-1 group-title="USA NBC",NBC: OH DAYTON WDTN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113925
+#EXTINF:-1 group-title="USA NBC",NBC: OH LIMA WLIO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113926
+#EXTINF:-1 group-title="USA NBC",NBC: OH STEUBENVILLE WTOV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113927
+#EXTINF:-1 group-title="USA NBC",NBC: OH TOLEDO WNWO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113928
+#EXTINF:-1 group-title="USA NBC",NBC: OH Youngstown WFMJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113929
+#EXTINF:-1 group-title="USA NBC",NBC: OH ZANESVILLE WHIZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113930
+#EXTINF:-1 group-title="USA NBC",NBC: OK ADA KTEN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113931
+#EXTINF:-1 group-title="USA NBC",NBC: OK OKLAHOMA CITY KFOR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113932
+#EXTINF:-1 group-title="USA NBC",NBC: OK TULSA KJRH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113933
+#EXTINF:-1 group-title="USA NBC",NBC: OMAHA NE WOWT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113934
+#EXTINF:-1 group-title="USA NBC",NBC: OR BEND KTVZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113935
+#EXTINF:-1 group-title="USA NBC",NBC: OR EUGENE KMTR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113936
+#EXTINF:-1 group-title="USA NBC",NBC: OR MEDFORD KOBI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113937
+#EXTINF:-1 group-title="USA NBC",NBC: PA JOHNSTOWN WJAC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113938
+#EXTINF:-1 group-title="USA NBC",NBC: PA JOPLIN-PITTSBURG KSNF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113939
+#EXTINF:-1 group-title="USA NBC",NBC: PA LANCASTER WGAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113940
+#EXTINF:-1 group-title="USA NBC",NBC: PA PHILADELPHIA WCAU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113941
+#EXTINF:-1 group-title="USA NBC",NBC: PA PITTSBURGH WPXI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113942
+#EXTINF:-1 group-title="USA NBC",NBC: PA WILKES-BARRE WBRE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113943
+#EXTINF:-1 group-title="USA NBC",NBC: PHOENIX AZ KPNX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113944
+#EXTINF:-1 group-title="USA NBC",NBC: PORTLAND OR KGW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113945
+#EXTINF:-1 group-title="USA NBC",NBC: RI PROVIDENCE WYCN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113946
+#EXTINF:-1 group-title="USA NBC",NBC: SC CHARLESTON WCBD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113947
+#EXTINF:-1 group-title="USA NBC",NBC: SC COLUMBIA WIS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113948
+#EXTINF:-1 group-title="USA NBC",NBC: SC GREENVILLE WYFF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113949
+#EXTINF:-1 group-title="USA NBC",NBC: SC MYRTLE BEACH WMBF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113950
+#EXTINF:-1 group-title="USA NBC",NBC: SD RAPID CITY KNBN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113951
+#EXTINF:-1 group-title="USA NBC",NBC: SD SIOUX FALLS KDLT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113952
+#EXTINF:-1 group-title="USA NBC",NBC: TN JACKSON WNBJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113953
+#EXTINF:-1 group-title="USA NBC",NBC: TN KNOXVILLE WBIR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113954
+#EXTINF:-1 group-title="USA NBC",NBC: TN MEMPHIS WMC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113955
+#EXTINF:-1 group-title="USA NBC",NBC: TN NASHVILLE WSMV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113956
+#EXTINF:-1 group-title="USA NBC",NBC: TN-VA TRI-CITIES WCYB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113957
+#EXTINF:-1 group-title="USA NBC",NBC: TN: CHATTANOOGA WRCB
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113958
+#EXTINF:-1 group-title="USA NBC",NBC: TX AMARILLO KAMR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113959
+#EXTINF:-1 group-title="USA NBC",NBC: TX AUSTIN KXAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113960
+#EXTINF:-1 group-title="USA NBC",NBC: TX BROWNSVILLE KVEO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113961
+#EXTINF:-1 group-title="USA NBC",NBC: TX CORPUS CHRISTI KRIS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113962
+#EXTINF:-1 group-title="USA NBC",NBC: TX FORT WORTH KXAS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113963
+#EXTINF:-1 group-title="USA NBC",NBC: TX HOUSTON KPRC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113964
+#EXTINF:-1 group-title="USA NBC",NBC: TX JACKSONVILLE KETK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113965
+#EXTINF:-1 group-title="USA NBC",NBC: TX LAREDO KGNS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113966
+#EXTINF:-1 group-title="USA NBC",NBC: TX LUBBOCK KCBD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113967
+#EXTINF:-1 group-title="USA NBC",NBC: TX ODESSA KWES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113968
+#EXTINF:-1 group-title="USA NBC",NBC: TX SAN ANGELO KSAN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113969
+#EXTINF:-1 group-title="USA NBC",NBC: TX SAN ANTONIO WOAI
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113970
+#EXTINF:-1 group-title="USA NBC",NBC: TX TEMPLE KCEN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113971
+#EXTINF:-1 group-title="USA NBC",NBC: TX TEXARKANA KTAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113972
+#EXTINF:-1 group-title="USA NBC",NBC: TX VICTORIA KMOL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113973
+#EXTINF:-1 group-title="USA NBC",NBC: VA CHARLOTTESVILLE WVIR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113974
+#EXTINF:-1 group-title="USA NBC",NBC: VA PORTSMOUTH WAVY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113975
+#EXTINF:-1 group-title="USA NBC",NBC: VA RICHMOND WWBT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113976
+#EXTINF:-1 group-title="USA NBC",NBC: VA ROANOKE WSLS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113977
+#EXTINF:-1 group-title="USA NBC",NBC: WA SEATTLE KING
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113978
+#EXTINF:-1 group-title="USA NBC",NBC: WA WASHINGTON WRC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113979
+#EXTINF:-1 group-title="USA NBC",NBC: WA YAKIMA KNDO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113980
+#EXTINF:-1 group-title="USA NBC",NBC: WI  LA CROSSE WEAU
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113981
+#EXTINF:-1 group-title="USA NBC",NBC: WI GREEN BAY WGBA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113982
+#EXTINF:-1 group-title="USA NBC",NBC: WI MADISON WMTV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113983
+#EXTINF:-1 group-title="USA NBC",NBC: WI SUPERIOR KBJR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113984
+#EXTINF:-1 group-title="USA NBC",NBC: WI WAUSAU WJFW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113985
+#EXTINF:-1 group-title="USA NBC",NBC: WIv MILWAUKEE WTMJ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113986
+#EXTINF:-1 group-title="USA NBC",NBC: WV BLUEFIELD WVVA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113987
+#EXTINF:-1 group-title="USA NBC",NBC: WV CLARKSBURG WBOY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113988
+#EXTINF:-1 group-title="USA NBC",NBC: WV HUNTINGTON WSAZ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113989
+#EXTINF:-1 group-title="USA NBC",NBC: WV PARKERSBURG WTAP
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113990
+#EXTINF:-1 group-title="USA NBC",NBC: WY CASPER KCWY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113991
+#EXTINF:-1 group-title="USA NBC",NBC: WY CHEYENNE KCHY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113992
+#EXTINF:-1 group-title="USA NBC",NBC: ND | Bismarck | 31 KFYR
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113993
+#EXTINF:-1 group-title="USA NBC",NBC: TX | BEAUMONT | KBMT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/113994
+#EXTINF:-1 group-title="USA NEWS",US: ABC News Live
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114360
+#EXTINF:-1 group-title="USA NEWS",US: BBC AMERICA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114361
+#EXTINF:-1 group-title="USA NEWS",USA: THE BLAZE
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114362
+#EXTINF:-1 group-title="USA NEWS",US: BLOOMBERG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114363
+#EXTINF:-1 group-title="USA NEWS",US: BBC WORLD NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114364
+#EXTINF:-1 group-title="USA NEWS",US: CNN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114365
+#EXTINF:-1 group-title="USA NEWS",US: FOX NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114366
+#EXTINF:-1 group-title="USA NEWS",US: HEADLINE NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114367
+#EXTINF:-1 group-title="USA NEWS",US: ONE AMERICA NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114368
+#EXTINF:-1 group-title="USA NEWS",US: INFO WARS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114369
+#EXTINF:-1 group-title="USA NEWS",US: News 12 Brooklyn
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114370
+#EXTINF:-1 group-title="USA NEWS",US: News 12 Hudson Valley
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114371
+#EXTINF:-1 group-title="USA NEWS",US: MSNBC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114372
+#EXTINF:-1 group-title="USA NEWS",US: C-SPAN HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114373
+#EXTINF:-1 group-title="USA NEWS",USA: C-SPAN 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114374
+#EXTINF:-1 group-title="USA NEWS",US: C-SPAN 3 HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114375
+#EXTINF:-1 group-title="USA NEWS",USA: NEWS 12 NEW JERSEY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114376
+#EXTINF:-1 group-title="USA NEWS",USA: NEWS 12 WESTCHESTER
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114377
+#EXTINF:-1 group-title="USA NEWS",USA: NEWS 12 THE BRONX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114378
+#EXTINF:-1 group-title="USA NEWS",USA HD: NEWSMAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114379
+#EXTINF:-1 group-title="USA NEWS",UK: SKY NEWS HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114380
+#EXTINF:-1 group-title="USA NEWS",US: WEATHER NATION
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114381
+#EXTINF:-1 group-title="USA NEWS",US: CHEDDAR BUSINESS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114382
+#EXTINF:-1 group-title="USA NEWS",US: CHEDDAR NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114383
+#EXTINF:-1 group-title="USA NEWS",US: NEWSMAX TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114384
+#EXTINF:-1 group-title="USA NEWS",US: Black News Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/114385
+#EXTINF:-1 group-title="USA SPORTZ",USA: ACC NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116659
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS ARIZONA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116660
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS ARIZONA PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116661
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS DETROIT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116662
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS  DETROIT PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116663
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS  KANSAS CITY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116664
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS FLORIDA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116665
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS GREAT LAKES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116666
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS INDIANA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116667
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS INDIANA PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116668
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS MIDWEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116670
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS MIDWEST PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116671
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS NEW ORLEANS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116672
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS NEW ORLEANS PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116673
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS NORTH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116674
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS NORTH PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116675
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS OHIO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116676
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS OHIO PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116677
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS OKLAHOMA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116678
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS OKLAHOMA PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116679
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SAN DIEGO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116680
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SAN DIEGO PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116681
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOCAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116682
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOUTH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116683
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOUTH PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116684
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOUTHEAST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116685
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOUTHWEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116686
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SOUTHWEST PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116687
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS SUN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116688
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS WEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116689
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS WISCONSIN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116690
+#EXTINF:-1 group-title="USA SPORTZ",USA: BALLY SPORTS WISCONSIN PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116691
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116692
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS 4
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116693
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS 5
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116694
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS 6
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116695
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS 7
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116696
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS 8
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116697
+#EXTINF:-1 group-title="USA SPORTZ",USA: BEIN SPORTS EN ESPANOL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116698
+#EXTINF:-1 group-title="USA SPORTZ",USA: beIN Sports Xtra HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116699
+#EXTINF:-1 group-title="USA SPORTZ",USA: BIG TEN NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116700
+#EXTINF:-1 group-title="USA SPORTZ",USA: CBS Sports HQ
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116701
+#EXTINF:-1 group-title="USA SPORTZ",USA: CBS SPORTS NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116702
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116703
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN 3 SPANISH
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116704
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN DEPORTES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116705
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN HD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116706
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN NEWS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116707
+#EXTINF:-1 group-title="USA SPORTZ",USA: ESPN U
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116708
+#EXTINF:-1 group-title="USA SPORTZ",USA: FIGHT NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116709
+#EXTINF:-1 group-title="USA SPORTZ",USA: FOX DEPORTES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116710
+#EXTINF:-1 group-title="USA SPORTZ",USA: FOX SOCCER PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116711
+#EXTINF:-1 group-title="USA SPORTZ",USA: FOX SPORTS 1
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116712
+#EXTINF:-1 group-title="USA SPORTZ",USA: FOX SPORTS 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116713
+#EXTINF:-1 group-title="USA SPORTZ",USA: Game+
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116714
+#EXTINF:-1 group-title="USA SPORTZ",USA: GINX ESports
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116715
+#EXTINF:-1 group-title="USA SPORTZ",USA: GOLTV (ENGLISH)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116716
+#EXTINF:-1 group-title="USA SPORTZ",USA: GOLTV (SPANISH)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116717
+#EXTINF:-1 group-title="USA SPORTZ",USA: LONGHORN NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116718
+#EXTINF:-1 group-title="USA SPORTZ",USA: MARQUEE SPORTS NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116719
+#EXTINF:-1 group-title="USA SPORTZ",USA: MASN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116720
+#EXTINF:-1 group-title="USA SPORTZ",USA: MASN 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116721
+#EXTINF:-1 group-title="USA SPORTZ",USA: MAV TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116722
+#EXTINF:-1 group-title="USA SPORTZ",USA: MSG
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116723
+#EXTINF:-1 group-title="USA SPORTZ",USA: MSG 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116724
+#EXTINF:-1 group-title="USA SPORTZ",USA: MSG PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116725
+#EXTINF:-1 group-title="USA SPORTZ",USA: MSG PLUS (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116726
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBC GOLF
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116727
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBC Sports Bay Area (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116728
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBC Sports California (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116729
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBC Sports Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116730
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS  Boston
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116731
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS  CHICAGO
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116732
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS BAY AREA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116733
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS California
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116734
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS CHICAGO SD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116735
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS NORTHWEST
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116736
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS PHILADELPHIA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116737
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS PHILADELPHIA PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116738
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCS WASHINGTON
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116739
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN BAY AREA PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116740
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN BAY AREA PLUS (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116741
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN BOSTON (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116742
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN CHICAGO PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116743
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN PHILADELPHIA (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116744
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN PHILADELPHIA PLUS (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116745
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN WASHINGTON (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116746
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN WASHINGTON PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116747
+#EXTINF:-1 group-title="USA SPORTZ",USA: NBCSN WASHINGTON PLUS (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116748
+#EXTINF:-1 group-title="USA SPORTZ",USA: NESN
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116749
+#EXTINF:-1 group-title="USA SPORTZ",USA: NESN FHD
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116750
+#EXTINF:-1 group-title="USA SPORTZ",USA: NESN PLUS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116751
+#EXTINF:-1 group-title="USA SPORTZ",USA: OLYMPIC CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116752
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Arizona
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116753
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Bay Area
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116754
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Los Angeles
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116755
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Mountain
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116756
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116757
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 Oregon
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116758
+#EXTINF:-1 group-title="USA SPORTZ",USA: PAC 12 WASHINGTON
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116759
+#EXTINF:-1 group-title="USA SPORTZ",USA: ROOT SPORT NW
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116760
+#EXTINF:-1 group-title="USA SPORTZ",USA: SEC NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116761
+#EXTINF:-1 group-title="USA SPORTZ",USA: SNY
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116762
+#EXTINF:-1 group-title="USA SPORTZ",USA: SNY (SD)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116763
+#EXTINF:-1 group-title="USA SPORTZ",USA: Sportsman Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116764
+#EXTINF:-1 group-title="USA SPORTZ",USA: SPORTSNET LA DODGERS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116765
+#EXTINF:-1 group-title="USA SPORTZ",USA: SPORTSNET LA LAKERS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116766
+#EXTINF:-1 group-title="USA SPORTZ",USA: 3 SPECTRUM SPORTSNET (Lakers)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116767
+#EXTINF:-1 group-title="USA SPORTZ",USA: STADIUM 2
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116768
+#EXTINF:-1 group-title="USA SPORTZ",USA: STADIUM 3
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116769
+#EXTINF:-1 group-title="USA SPORTZ",USA: STADIUM COLLEGE SPORTS ATLANTIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116770
+#EXTINF:-1 group-title="USA SPORTZ",USA: STADIUM COLLEGE SPORTS CENTRAL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116771
+#EXTINF:-1 group-title="USA SPORTZ",USA: STADIUM COLLEGE SPORTS PACIFIC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116772
+#EXTINF:-1 group-title="USA SPORTZ",USA: TENNIS CHANNEL
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116773
+#EXTINF:-1 group-title="USA SPORTZ",USA: UFC FIGHT PASS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116774
+#EXTINF:-1 group-title="USA SPORTZ",USA: WORLD FISHING NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116775
+#EXTINF:-1 group-title="USA SPORTZ",USA: YES NETWORK
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116776
+#EXTINF:-1 group-title="USA SPORTZ",USA: SPORTS NET LA LAKERS
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116777
+#EXTINF:-1 group-title="USA SPORTZ",USA: AT&T SPORTSNET
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/116778
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/y8CmcWsF/valetv.jpg",VE: Vale Tv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153743
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/PxGGWmVt/trv-maracay.jpg",VE: TRV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153744
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/T1y6Mg2S/ESPORTS-MAX.jpg",VE: ESPORTS MAX
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/153749
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/c1nBD605/exc-tv.jpg",EXC TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/157655
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIOplqiIqYDaEDk8x8kUFAfSaUMZBCTCTFx8IVzVGBjL.jpg",TV FAMILIA
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/157823
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/MKrN3ZBL/oxigeno-network.jpg",Oxigeno Network
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/157828
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/y815NgHW/panavision.jpg",Panavision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/157829
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JD4oN2dzmVhOtaWtxme1L4Zo_MIB0yYzdNuMhDjWxybr.jpg",TLT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/174297
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JO2B-7lcIM8VWR7ZeMXgNP0-2miKDr4_TzfIXxG8HdME.jpg",IVC
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/178554
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JN-_8WFcKlUCg9NwrP3hDgOmfaQhOvpv2d_xOMibgdcU.jpg",MERIDIANO TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/187244
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKsruWS2zl2jPcRDFk9hnm8Bw5xLQRwH-06GJRyZxeA0Xg.png",Radio Union  Noticias
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192739
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKvAmSaRxYeehYiVqX6nWHZ0pB4dkNokEFXdKnDjn1YQXg.png",Radio Caracas
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192740
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKtMHkIB5kgrp4A1xPT_iWctmRLu7pH9-aBtvtc27rl3fg.png",Radio Fiesta
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192741
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKvtfvqyzZgvjGgou-lsseXsjahn6LNSuttfn4f-NNWxSQ.jpg",Radio La Mega Estacion
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192742
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKuheVWhcflbw-6owHKu2_gqXBmTkTz4FVif2SCwWKC2bQ.jpg",Radio Musica Llanera
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192743
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKtp9CFkn0rk6SpirQnC2vVteoqhzqmNWJUGgPdTiJKevA.png",Radio Circuito Exitos
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/192744
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIvWLtuvNZ_bQQ7QLQI31v3Y-1JoiHmuBhX6cHd4gGil.png",BIT Radio
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/225047
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JKI1BWSGqh-dtSzpWs0wdT-9tok_0hatCdGA-wCe8cbt.png",TRT
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/225048
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JB-mJGbLU55mPCrbqHwwcXSyrfmXQjOgvjpxg5BjyZtg.png",VPItv
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231948
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JH0JwAoBM8y4XelZxhA6gw5vmQFN-tgXPu77tZgKHtB5.png",Ávila TV
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231949
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JBtYkbWnxkn3vjtnqqsJBQ_ade377lH6Fi-9EbuXG4_s.png",Sun Channel
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/231980
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/200px-Flag_of_Venezuela.svg.png",▂ ▄ ▅ ▆  VENEZUELA  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29676
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JECothuRjXhbxVLAak0PpKc-VdYXYufMVP8qeFav6wTp.jpg",VE: Telesur
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29677
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JCQCaZuZBHY1owO0sgRRIgA6RDFiVLDsHKu9e4t-39ol.jpg",VE: Globovision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29679
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/bJTyN8Ly/venevision-plus.jpg",VE: Venevision Plus
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29681
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JM0yphvdqOwXKXDgP3OomPg8Ed_9_IKOaK3r8iFmg28D.jpg",VE: Venevision
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29684
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/JhXt8990/canal-i.jpg",VE: Canal i
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29686
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JNdhAvhAuaqRdQmCuEIVlTqO-cA1JnAVw5cYZfyRbmhS.jpg",VE: Rusia today
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29688
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/MKGTHchh/promar-tv.jpg",VE: Promar
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29689
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JNon0VikxPl2EBYEsDpt_JGvaBvADB_FjVXIyJ_aGKhd.jpg",VE: TVES
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29691
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JLwJBQ-1NNILfQFn4EeltpQD44TBzdbz4k5bdpZclECK.jpg",VE: TeleVen
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29693
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.postimg.cc/J4dhkr8t/telesur.jpg",VE: Telesur (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29698
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JLwJBQ-1NNILfQFn4EeltpQD44TBzdbz4k5bdpZclECK.jpg",VE: TeleVen (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29699
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JM0yphvdqOwXKXDgP3OomPg8Ed_9_IKOaK3r8iFmg28D.jpg",VE: Venevision (MOVIL)
+http://jumangis.com:2082/tomas10feb/pk2EAq2Ymt/29701
